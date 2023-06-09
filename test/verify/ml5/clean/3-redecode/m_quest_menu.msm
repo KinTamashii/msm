@@ -1,0 +1,583 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[170,0,0,0,4,0,0,0,44,1,100,0,24,1,60,0,24,1,60,0,44,1,100,0,24,1,60,0,44,1,100,0,24,1,60,0,248,0,30,0,248,0,30,0,44,1,100,0,44,1,100,0,44,1,100,0,44,1,100,0,44,1,100,0,24,1,60,0,24,1,60,0,24,1,60,0,0,0,0,0,24,1,60,0,248,0,30,0,44,1,100,0,24,1,60,0,24,1,60,0,248,0,30,0,44,1,100,0,248,0,30,0,24,1,60,0,248,0,30,0,24,1,60,0,24,1,60,0,24,1,60,0,248,0,30,0,24,1,60,0,44,1,100,0,0,0,0,0,248,0,30,0,44,1,100,0,248,0,30,0,24,1,60,0,0,0,0,0,44,1,100,0,24,1,60,0,44,1,100,0,248,0,30,0,24,1,60,0,0,0,0,0,44,1,60,0,24,1,60,0,248,0,30,0,0,0,0,0,24,1,60,0,248,0,30,0,0,0,0,0,44,1,100,0,24,1,60,0,24,1,60,0,24,1,60,0,44,1,100,0,44,1,100,0,248,0,30,0,248,0,30,0,44,1,100,0,44,1,100,0,44,1,100,0,0,0,0,0,44,1,100,0,24,1,60,0,44,1,100,0,24,1,60,0,24,1,60,0,24,1,60,0,44,1,100,0,248,0,30,0,248,0,30,0,0,0,0,0,44,1,100,0,24,1,60,0,248,0,30,0,24,1,60,0,44,1,100,0,24,1,60,0,44,1,100,0,24,1,60,0,24,1,60,0,24,1,60,0,248,0,30,0,248,0,30,0,24,1,60,0,24,1,60,0,24,1,60,0,24,1,60,0,24,1,60,0,24,1,60,0,24,1,60,0,248,0,30,0,248,0,30,0,44,1,100,0,24,1,60,0,248,0,30,0,0,0,0,0,248,0,30,0,24,1,60,0,44,1,100,0,24,1,60,0,248,0,30,0,248,0,30,0,248,0,30,0,24,1,60,0,24,1,60,0,44,1,100,0,24,1,60,0,0,0,0,0,0,0,0,0,248,0,30,0,248,0,30,0,24,1,60,0,44,1,100,0,0,0,0,0,44,1,100,0,24,1,60,0,44,1,100,0,0,0,0,0,44,1,100,0,248,0,30,0,24,1,60,0,44,1,100,0,24,1,60,0,44,1,100,0,248,0,30,0,24,1,60,0,0,0,0,0,24,1,60,0,24,1,60,0,44,1,100,0,24,1,60,0,24,1,60,0,248,0,30,0,0,0,0,0,248,0,30,0,248,0,30,0,248,0,30,0,248,0,30,0,24,1,60,0,24,1,60,0,24,1,60,0,24,1,60,0,24,1,60,0,248,0,30,0,0,0,0,0,24,1,60,0,0,0,0,0,24,1,60,0,24,1,60,0,0,0,0,0,248,0,30,0,44,1,100,0,44,1,100,0,248,0,30,0,248,0,30,0,44,1,100,0,24,1,60,0,24,1,60,0,44,1,100,0,248,0,30,0,24,1,60,0,248,0,30,0,248,0,30,0,24,1,60,0,44,1,100,0,0,0,0,0]
+\tsy[12,11,11,12,11,12,11,12,12,12,12,12,12,12,11,11,11,11,11,12,12,11,11,12,12,12,11,12,11,11,11,12,11,12,11,12,12,12,11,12,12,11,12,12,11,12,12,11,12,11,11,12,6,12,11,11,11,12,12,12,12,12,12,12,12,12,11,12,11,11,11,12,12,12,12,12,11,12,11,12,11,12,11,11,11,12,12,11,11,11,11,11,11,11,12,12,12,11,12,6,12,11,12,11,12,12,12,11,11,12,11,11,12,12,12,11,12,12,12,11,12,12,12,12,11,12,11,12,12,11,12,11,11,12,11,11,12,11,12,12,12,12,11,11,11,11,11,12,11,11,12,11,11,11,12,12,12,12,12,12,11,11,12,12,11,12,12,11,12,12]
+
+\string{qst_island_h_exp}
+\code[8,0,12]Paper Toads are popping up everywhere!\\
+Find 'em all—even the sneaky ones.
+
+\string{qst_koopa_neo_d1_con_s}
+\code[8,0,11]Defeat all enemies and catch Nabbit.
+
+\string{qst_plain_o1_con_s}
+\code[8,0,11]Collect all of the mushrooms.
+
+\string{qst_forest_f_exp}
+\code[8,0,12]Rescue the Paper Toads before the Fly Guys\\
+make off with them.
+
+\string{qst_koopa_neo_e1_con_s}
+\code[8,0,11]Smash the giant cannon.
+
+\string{qst_mount_i_exp}
+\code[8,0,12]Move the blocks to solve the puzzle on the\\
+outside of Mount Brrr.
+
+\string{qst_plain_p1_con_s}
+\code[8,0,11]Answer 3 or more questions correctly.
+
+\string{qst_plain_p_title}
+\code[8,0,12]Toad Scholar
+
+\string{qst_island_c_title}
+\code[8,0,12]Paper Toad Flurry
+
+\string{qst_mount_f_exp}
+\code[8,0,12]Paper Toads are in peril all over the\\
+mountain! Can you save them all?
+
+\string{qst_forest_a_exp}
+\code[8,0,12]Who's faster, you or Yoshi? Be\\
+the first to get to the goal!
+
+\string{qst_mount_d_exp}
+\code[8,0,12]Paper Toads have been spotted floating\\
+above the mountains in bubbles! You'll have\\
+\space[1]to get creative to rescue them...
+
+\string{qst_desert_g_exp}
+\code[8,0,12]Chase and tackle the real Nabbit. Watch\\
+out for fakes!
+
+\string{qst_island_a_exp}
+\code[8,0,12]The Hammer Bros. stole your Command\\
+Blocks. Defeat them to get your stuff back!
+
+\string{qst_island_b1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{qst_mount_h1_con_s}
+\code[8,0,11]Rescue all the Toads.
+
+\string{qst_plain_l2_con_s}
+\code[8,0,11]Squeeze all the Paper Toads through\\
+the crack in the wall.
+
+\string{qst_desert_m2_con_s}
+\code[8,0,11]Answer all questions correctly.
+
+\string{qst_island_c1_con_s}
+\code[8,0,11]Catch all the Paper Toads.
+
+\string{qst_koopa_neo_e_title}
+\code[8,0,12]Final Smash
+
+\string{qst_mount_b_exp}
+\code[8,0,12]Paper Toads are stuck tight to the wall!\\
+Drill dash at them to rescue them.
+
+\string{qst_mount_i1_con_s}
+\code[8,0,11]Move the pink and blue blocks into the matching\\
+goal spots.
+
+\string{qst_mount_j1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{qst_forest_a_title}
+\code[8,0,12]Wait Up, Yoshi!
+
+\string{qst_desert_b_exp}
+\code[8,0,12]Bowser's minions have kidnapped all the\\
+Paper Toads. Rescue them all!
+
+\string{qst_forest_k_title}
+\code[8,0,12]Skyjinks with Nabbit
+
+\string{qst_forest_f1_con_s}
+\code[8,0,11]Rescue all Paper Toads before time runs out.
+
+\string{qst_koopa_b_title}
+\code[8,0,12]Hide-and-Sneak
+
+\string{qst_desert_a1_con_s}
+\code[8,0,11]Catch Nabbit!
+
+\string{qst_forest_a2_con_s}
+\code[8,0,11]Reach the goal before Yoshi. Hard Mode!
+
+\string{qst_island_i1_con_s}
+\code[8,0,11]Retrieve the medallion.
+
+\string{qst_mount_i_title}
+\code[8,0,12]Mystery of Mount Brrr
+
+\string{qst_island_e2_con_s}
+\code[8,0,11]Catch all Paper Toads within the time limit.
+
+\string{qst_koopa_neo_d_exp}
+\code[8,0,12]Face off against Nabbit—and team up with\\
+him—in a wild chase through Neo Bowser\\
+\space[1]Castle!
+
+\string{qst_mount_k2_con_s}
+\code[8,0,11]Answer all questions correctly.
+
+\string{qst_plain_u_title}
+\code[8,0,12]Paper Toad Hide-and-Seek
+
+\string{qst_koopa_neo_b_exp}
+\code[8,0,12]Use your hammer to knock the cannonballs\\
+back at Morton. Try teaming up for the\\
+\space[1]big ones...
+
+\string{qst_mount_c_title}
+\code[8,0,12]Paper Toad Freeze-Out
+
+\string{qst_desert_g1_con_s}
+\code[8,0,11]Catch Nabbit!
+
+\string{qst_desert_m_title}
+\code[8,0,12]Toad Trivia
+
+\string{qst_koopa_b_exp}
+\code[8,0,12]Make your way to Bowser Jr. and Paper\\
+Bowser Jr. without being seen.
+
+\string{qst_forest_i2_con_s}
+\code[8,0,11]Stay safe until the timer runs out. Hard Mode!
+
+\string{qst_plain_o_exp}
+\code[8,0,12]Help the Toad recover all of the mushrooms\\
+he dropped!
+
+\string{qst_plain_o_title}
+\code[8,0,12]Mushroom Foraging
+
+\string{qst_desert_c2_con_s}
+\code[8,0,11]Rescue all the Paper Toads\color[44,100,255,255] without being\\
+hit once\color[230,230,230,255].
+
+\string{qst_island_l_title}
+\code[8,0,12]Toad Brain
+
+\string{qst_plain_m_exp}
+\code[8,0,12]A group of Paper Toads are on the run.\\
+Slide at them to catch them all!
+
+\string{qst_desert_d2_con_s}
+\code[8,0,11]Rescue all the Paper Toads. Hard Mode!
+
+\string{qst_desert_g_title}
+\code[8,0,12]Nabbit Multiplication
+
+\string{qst_island_l2_con_s}
+\code[8,0,11]Answer all questions correctly.
+
+\string{qst_koopa_b1_con_s}
+\code[8,0,11]Catch both Bowser Jrs.
+
+\string{qst_mount_g_title}
+\code[8,0,12]Yoshi Rush
+
+\string{quest_tuto_c_01}
+\code[8,0,6]You'll enter the rescue menu.\wait 
+
+\string{qst_forest_k_exp}
+\code[8,0,12]Bounce from cloud to cloud and catch up\\
+with Nabbit before he can escape again!
+
+\string{qst_koopa_neo_a1_con_s}
+\code[8,0,11]Defeat Iggy, Wendy, and Bowser.
+
+\string{qst_koopa_neo_b1_con_s}
+\code[8,0,11]Defeat Morton.
+
+\string{qst_plain_m1_con_s}
+\code[8,0,11]Catch all the Paper Toads.
+
+\string{qst_forest_i_exp}
+\code[8,0,12]A fiercely determined Boo won't stop\\
+chasing you!
+
+\string{qst_island_i_exp}
+\code[8,0,12]Find and defeat the enemy who\\
+ran off with the medallion!
+
+\string{qst_koopa_neo_a_title}
+\code[8,0,12]Bombs Away
+
+\string{qst_desert_a_title}
+\code[8,0,12]Catch Nabbit!
+
+\string{qst_desert_l_exp}
+\code[8,0,12]Rescue all the Paper Toads, and deliver\\
+them safely to the Lakitu.
+
+\string{qst_forest_d_exp}
+\code[8,0,12]Square off with a know-it-all Toad to\\
+see who knows the most!
+
+\string{qst_mount_g_exp}
+\code[8,0,12]Yoshi is faster than he looks. Race him\\
+to the finish!
+
+\string{qst_mount_k_title}
+\code[8,0,12]Mountain of Knowledge
+
+\string{qst_island_d_exp}
+\code[8,0,12]Rescue the Paper Toads without being\\
+spotted by the nosy Fly Guys.
+
+\string{qst_mount_f1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{qst_forest_b_exp}
+\code[8,0,12]Kamek has blocked the way forward.\\
+Chase him off with Bomb Buds!
+
+\string{qst_island_a1_con_s}
+\code[8,0,11]Retrieve everything that was taken from you.
+
+\string{qst_mount_g1_con_s}
+\code[8,0,11]Reach the goal before Yoshi.
+
+\string{qst_desert_l2_con_s}
+\code[8,0,11]Rescue all the Paper Toads\color[44,100,255,255] without being\\
+hit once\color[230,230,230,255].
+
+\string{qst_island_b_exp}
+\code[8,0,12]Rescue all the Paper Toads in the area.
+
+\string{qst_plain_m_title}
+\code[8,0,12]Paper Toad Pursuit
+
+\string{qst_forest_d_title}
+\code[8,0,12]Pop Quiz with Know-It-All Toad
+
+\string{qst_jugemu_mes_noquest}
+\code[8,0,12]いまのところ このエリアに\\
+ペーパーキノピオは いないようです。 \ruby{べつ}{別}のエリアの\ruby{じょうほう}{情報}も \ruby{み}{見}てください。
+
+\string{qst_desert_e_exp}
+\code[8,0,12]Save all the Paper Toads that are trapped\\
+on the sand flow. Be careful not to get hit\\
+by any bombs or blocks.\space[1]
+
+\string{qst_plain_u1_con_s}
+\code[8,0,11]Find all of the hidden Paper Toads.
+
+\string{qst_desert_e_title}
+\code[8,0,12]Safe by a Sandslide
+
+\string{qst_forest_d1_con_s}
+\code[8,0,11]Answer 3 or more questions correctly.
+
+\string{qst_desert_c_exp}
+\code[8,0,12]Rescue all the Paper Toads from the\\
+Sandmaarghs!
+
+\string{qst_mount_c2_con_s}
+\code[8,0,11]Find all the Paper Toads before time runs out.
+
+\string{qst_desert_a_exp}
+\code[8,0,12]Chase and capture Nabbit while avoiding\\
+the spiked balls he throws.
+
+\string{qst_koopa_neo_e2_con_s}
+\code[8,0,11]Smash the giant cannon. Hard Mode!
+
+\string{qst_plain_p2_con_s}
+\code[8,0,11]Answer all questions correctly.
+
+\string{qst_island_g1_con_s}
+\code[8,0,11]Lead all the Toads to the safe zone.
+
+\string{qst_forest_h_title}
+\code[8,0,12]Back Atcha, Roy!
+
+\string{qst_island_d_title}
+\code[8,0,12]Fly Guy Patrol
+
+\string{qst_island_h1_con_s}
+\code[8,0,11]Catch all the Paper Toads.
+
+\string{qst_forest_k1_con_s}
+\code[8,0,11]Catch Nabbit!
+
+\string{qst_island_c2_con_s}
+\code[8,0,11]Catch all the Paper Toads. Hard Mode!
+
+\string{qst_mount_i2_con_s}
+\code[8,0,11]Move the pink and blue blocks into the matching\\
+goal spots. Hard Mode!
+
+\string{qst_plain_m3_con_s}
+\code[8,0,11]\color[44,100,255,255]９０\ruby{びょういない}{秒以内}に \color[230,230,230,255]\ruby{すべ}{全}てのペーパーキノピオをつかまえる
+
+\string{qst_island_d2_con_s}
+\code[8,0,11]Rescue all the Paper Toads. Hard Mode!
+
+\string{qst_mount_j2_con_s}
+\code[8,0,11]Rescue all the Paper Toads. Hard Mode!
+
+\string{qst_plain_k_title}
+\code[8,0,12]Paper Toad Rescue
+
+\string{qst_forest_b_title}
+\code[8,0,12]Outta the Way, Kamek!
+
+\string{qst_koopa_neo_e_exp}
+\code[8,0,12]Fight your way through Neo Bowser Castle,\\
+and smash the cannon before time runs out.
+
+\string{qst_desert_e1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{qst_island_h_title}
+\code[8,0,12]Paper Toad Shuffle
+
+\string{quest_rsv_res_msg}
+\code[8,0,6]Hey! You guys are doing a\\
+great job with these quests.\wait \pagebreak
+Here's a little something for all\\
+\space[1]your hard work. Keep it up!\wait 
+
+\string{qst_desert_c_title}
+\code[8,0,12]Paper Toad Trail Trials
+
+\string{qst_forest_h2_con_s}
+\code[8,0,11]Hit Roy with 3 Bob-ombs. Hard Mode!
+
+\string{qst_plain_p_exp}
+\code[8,0,12]A super-smart Toad has appeared!\\
+Answer his questions to pass!
+
+\string{qst_desert_b2_con_s}
+\code[8,0,11]Rescue all Paper Toads within the time limit.\\
+Hard Mode!
+
+\string{qst_forest_f_title}
+\code[8,0,12]Fly Guy Flyby
+
+\string{qst_island_b_title}
+\code[8,0,12]Tropical Paper Toad Hunt
+
+\string{qst_mount_j_title}
+\code[8,0,12]Destroying the block tower in the snowy mountain
+
+\string{qst_koopa_a1_con_s}
+\code[8,0,11]Rescue Toadette.
+
+\string{qst_plain_k1_con_s}
+\code[8,0,11]Save all the Paper Toads.
+
+\string{qst_plain_k_exp}
+\code[8,0,12]Save the Paper Toads that are\\
+hiding or captured by enemies!
+
+\string{qst_plain_l1_con_s}
+\code[8,0,11]The Paper Toads are trying to escape.\\
+Corral them into one spot!
+
+\string{qst_desert_m1_con_s}
+\code[8,0,11]Answer 3 or more questions correctly.
+
+\string{qst_island_l_exp}
+\code[8,0,12]Another Toad with a batch of brain\\
+benders. Can you pass the test?
+
+\string{qst_koopa_neo_d_title}
+\code[8,0,12]Bad Nabbit
+
+\string{qst_mount_d_title}
+\code[8,0,12]Bubble Trouble
+
+\string{qst_mount_c1_con_s}
+\code[8,0,11]Find all the Paper Toads.
+
+\string{qst_mount_j_exp}
+\code[8,0,12]Rescue the Toads by carefully breaking the\\
+rocks, being careful not to squish the Toads!
+
+\string{qst_desert_m_exp}
+\code[8,0,12]A Toad trivia master challenges you with\\
+another quiz. Hope you pass the test!
+
+\string{qst_island_g_exp}
+\code[8,0,12]The Toads are lost and panicking.\\
+Lead them to safety!
+
+\string{qst_mount_d1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{qst_mount_h_exp}
+\code[8,0,12]Jump at just the right time to rescue the\\
+Toads. And watch out for bombs!
+
+\string{quest_give_up_n}
+\code[8,0,12]\code[5,0]Try again? \wspace[2]\option \space[1]Try again. \\
+\wspace[1]\option \space[1]Return to area before\\
+quest.
+
+\string{qst_island_e_exp}
+\code[8,0,12]Paper Toads are running wild all around\\
+Twinsy Tropics. Catch 'em all!
+
+\string{qst_koopa_a_title}
+\code[8,0,12]Toadette in Trouble
+
+\string{qst_forest_a1_con_s}
+\code[8,0,11]Reach the goal before Yoshi.
+
+\string{qst_island_c_exp}
+\code[8,0,12]Catch the Paper Toads before they\\
+hit the ground!
+
+\string{qst_forest_b1_con_s}
+\code[8,0,11]Hit Kamek 3 times with Bomb Buds.
+
+\string{qst_mount_c_exp}
+\code[8,0,12]Paper Toads are out hiding all over the\\
+village. Find them before they freeze!
+
+\string{qst_mount_h_title}
+\code[8,0,12]Sky High Flyby
+
+\string{qst_koopa_neo_a2_con_s}
+\code[8,0,11]Defeat Iggy, Wendy, and Bowser. Hard Mode!
+
+\string{quest_give_up_s}
+\code[8,0,12]\code[5,0]Try again? \hspace[20]\option \space[1]Try again. \hspace[20]\option \space[1]Return\\
+to area before quest. \hspace[20]\option \space[1]Skip\\
+and proceed with story.
+
+\string{qst_koopa_neo_b2_con_s}
+\code[8,0,11]Defeat Morton. Hard Mode!
+
+\string{qst_plain_m2_con_s}
+\code[8,0,11]Catch all the Paper Toads within the time limit.
+
+\string{qst_desert_d_exp}
+\code[8,0,12]Free the Paper Toads by smashing the\\
+stone blocks. Be careful not to squish the\\
+Paper Toads!
+
+\string{qst_island_d1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{qst_island_e1_con_s}
+\code[8,0,11]Catch all the Paper Toads.
+
+\string{qst_koopa_neo_b_title}
+\code[8,0,12]Hammer, Bros.!
+
+\string{qst_mount_k1_con_s}
+\code[8,0,11]Answer 3 or more questions correctly.
+
+\string{qst_island_g_title}
+\code[8,0,12]Lost Toads Corral
+
+\string{qst_desert_b_title}
+\code[8,0,12]Desert Rescue Party
+
+\string{qst_mount_b_title}
+\code[8,0,12]Paper Toad Peel-Off
+
+\string{qst_desert_l_title}
+\code[8,0,12]Paper Toad Tailgate
+
+\string{qst_forest_h1_con_s}
+\code[8,0,11]Hit Roy with 3 Bob-ombs.
+
+\string{qst_forest_i1_con_s}
+\code[8,0,11]Stay safe until the timer runs out.
+
+\string{qst_mount_g2_con_s}
+\code[8,0,11]Reach the goal before Yoshi. Hard Mode!
+
+\string{qst_mount_h2_con_s}
+\code[8,0,11]Rescue all the Toads. Hard Mode!
+
+\string{qst_desert_b1_con_s}
+\code[8,0,11]Rescue all Paper Toads within the time limit.
+
+\string{qst_island_a_title}
+\code[8,0,12]Stuff Retrieval
+
+\string{qst_kino_num_panel}
+\code[8,0,11]Toads rescued:
+
+\string{qst_desert_c1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{quest_give_up}
+\code[8,0,12]\code[5,0]Skip this section and continue with the story?\\
+\code[2,0,10]\code[1,1]\option \space[1]Yes\hspace[32]\option \space[1]No\code[2,0,10]
+
+\string{qst_desert_d1_con_s}
+\code[8,0,11]Rescue all the Paper Toads.
+
+\string{qst_forest_d2_con_s}
+\code[8,0,11]Answer all questions correctly.
+
+\string{qst_island_l1_con_s}
+\code[8,0,11]Answer 3 or more questions correctly.
+
+\string{qst_mount_f_title}
+\code[8,0,12]Paper Toad Patrol
+
+\string{qst_plain_u_exp}
+\code[8,0,12]Paper Toads are hiding all over the\\
+place. Find them all!
+
+\string{qst_koopa_neo_a_exp}
+\code[8,0,12]Use Trio Grab to toss bombs at Iggy, Wendy,\\
+and Bowser!
+
+\string{qst_forest_i_title}
+\code[8,0,12]Bye-Bye, Boo
+
+\string{qst_island_e_title}
+\code[8,0,12]Paper Toad Sand Scramble
+
+\string{qst_koopa_a_exp}
+\code[8,0,12]Rescue Toadette before the Fly Guy makes\\
+off with her!
+
+\string{qst_forest_k2_con_s}
+\code[8,0,11]Catch Nabbit. Hard Mode!
+
+\string{qst_desert_l1_con_s}
+\code[8,0,11]Rescue all of the Paper Toads.
+
+\string{qst_plain_l_exp}
+\code[8,0,12]Corral the Paper Toads!
+
+\string{qst_plain_l_title}
+\code[8,0,12]Paper Toad Corral
+
+\string{qst_desert_e2_con_s}
+\code[8,0,11]Rescue all the Paper Toads. Hard Mode!
+
+\string{qst_island_i_title}
+\code[8,0,12]Hunt for the Medallion
+
+\string{qst_desert_d_title}
+\code[8,0,12]The Stone Prison
+
+\string{qst_mount_b1_con_s}
+\code[8,0,11]Catch all the Paper Toads.
+
+\string{qst_forest_h_exp}
+\code[8,0,12]Roy's back for revenge. Snare some\\
+Bob-ombs and blast him out of your way!
+
+\string{qst_mount_k_exp}
+\code[8,0,12]Another Toad with brain-bending\\
+questions awaits! Good luck!

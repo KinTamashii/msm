@@ -1,0 +1,36 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[6,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+\tsy[12,12,12,12,12,12]
+
+\string{SaveAccident}
+\code[8,0,12]\code[5,0]\code[1,1]The game data is corrupted and must\\
+be deleted. Delete corrupted data\\
+\space[1]and create new data? \option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{CloseGame}
+\code[8,0,12]\code[1,4]\code[1,1]\code[5,0]Closing the game. Press \codepoint[0xE073]\code[1,1] to\\
+return to the HOME Menu.
+
+\string{InitFormat}
+\code[8,0,12]\code[1,4]\code[1,1]\code[5,0]Preparing to start the game.\code[1,1]\\
+Please wait...
+
+\string{Data_Clear_00}
+\code[8,0,12]\code[1,4]\code[1,1]\code[5,0]All game data will be deleted.\code[1,1] Are\\
+you sure you want to continue? \code[2,0,10]\code[1,1]\option \space[1]No\hspace[32]\option \\
+\space[1]Yes\code[2,0,10]
+
+\string{Data_Clear_01}
+\code[8,0,12]\code[1,4]\code[1,1]\code[5,0]Once the game data is deleted, you cannot\code[1,1]\\
+restore it. Are you sure you want to continue?\\
+\space[1]\code[2,0,10]\code[1,1]\option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{Data_Clear_02}
+\code[8,0,12]\code[1,4]\code[1,1]\code[5,0]Deleting game data.\code[1,1]\\
+Please wait...

@@ -1,0 +1,830 @@
+So it's time for the fists, eh? Then this drip's gotta go!
+I'll take the first shot, see? You two mugs watch a master!
+Hey! Your turn, palookas! Give it the old one-two!
+Good attack, kid—real good! But now it's Popple's turn, see?
+This guy's a real monster, and that's no joke!
+Boo, I say! You two are rookies! Watch a real pro wrap it up!
+Oh, we got a tough guy, do we? Then it's Popple time, see?
+Ain't nobody stands between the Shadow Thief and his treasure!
+Say, what gives? Vanished! Poof!
+Just gotta deal with you mugs, and THE TREASURE'S MINE!
+With you two ding-a-lings outta the picture, the treasure's all mine, see?
+Do yourselves a favor, punks! Give up on that treasure already!
+Once I got my eye on somethin', it's MINE! Stop resistin', will ya?
+Boo, I say! I got energy to burn, see? So move it, and watch Popple work!
+Cripes! Wh-what was that? Nothin'! That's what that was!
+Yeowch! What're you doin'? Once more and this ends!
+Yeah, yeah, I get it! Cripes! You rookies take care of this!
+Mario
+Luigi
+All
+Select target
+Hint Block
+The Hint Block will appear in a battle when you "Try Again." Hit the Hint Block to learn the foes' tells and how to best them.
+Slow Attack Mode
+If you turn Slow Attack Mode on, your moves will go into slow motion at crucial moments of your attack. It'll be easier to do well, so try it when you need a little practice!
+Easy Mode
+If you activate Easy Mode, Mario and Luigi will be stronger for that battle only, making life easier.
+Taunt Foes Forward
+You can't attack background foes... When you see them, use a Taunt Ball. But careful! Some enemies are strong!
+Start the battle over?
+Try Again
+Try Again (Easy Mode)
+Return to Title Screen
+No more turns left! The battle is over!
+Is this OK? 
+No          
+Yes
+You hit the highest rank! Please choose one more Rank-Up Bonus!
+Your boots broke!
+Your hammer broke!
+Notice
+A new hint appeared! Hit the Hint Block to check it.
+My Dry Bones should be more than capable of taking you!
+Cut it out already! You don't want to see me really mad!
+Terrible, sloppy Dry Bones...es! What about all that training?!
+Boot: self-destruct.
+Laugh. Victory!
+Query?
+Scanning foe potential...
+Chance of my victory: 120%.
+Close call.
+Uncertainty rising.
+Format: queasy.
+Cue beg mode.
+Chance of victory: slim.
+Activate: regret.
+Query: self-worth.
+Foe ID: slow.
+Challenge: lacking.
+Awaiting: mercy plea.
+Foe still active: Why?
+Return in: 1,000 years!
+I will help as well...
+Dreamy Luigi! Come on!
+SCREEK!
+STOP!
+You've taken 
+ turns. This battle must reset!
+You must win this battle within 
+ turns.
+Keep that in mind!
+When you run out of turns, you can try again or give up.
+If you're having a rough go, level up and try again later.
+Do you admit defeat? 
+No          
+Yes
+This battle is over!
+Come back when you're stronger.
+That's the spirit! You can try as many times as you like.
+I underestimated you... Let the battle...RESUME!
+Some of your attacks were not Excellent!
+Anything less than Excellent will restore HP to your foe.
+Strike hard! Strike true!
+Time out!
+You should know, you can always restart the battle.
+If you're having a rough go, level up and try again later.
+Do you admit defeat? 
+No          
+Yes
+This battle is over!
+You should train a bit more... I guess I probably should too...
+You guys haven't even unleashed the fury yet...have you?
+I underestimated you... Let the battle...RESUME!
+Time out!
+You should know, you can always restart the battle.
+If you're having a rough go, level up and try again later.
+Do you admit defeat? 
+No          
+Yes
+This battle is over!
+Not so sassy now, are ya?! Come back when you want more!
+I can tell you lift...a little bit! But now I'm hitting rage mode!
+I underestimated you... Let the battle...RESUME!
+Can't sleep...
+Mmnum snorrk...
+Sleep makes me... feel better!
+Before I recover... You've gotta attack...
+You will never, ever... be able to defeat...
+Zzzrrng...
+Time out!
+You can always restart the battle, you know.
+If you're having a rough go, level up and try again later.
+Do you admit defeat? 
+No          
+Yes
+This battle is over!
+Go practice... I'll be snoozing...
+Zzznk... Zzrrf...
+You guys are doing OK... But I'm not gonna looozzz...
+Zzznng... Zzzphbth...
+I underestimated you... Let the battle...RESUME!
+PLENTY of HP left over here!
+Huh, HP almost down to half-full... Weird.
+Wait a minute!
+My HP is more than half gone!
+Uh-oh...
+I seriously might get KO'd here. Yikes...
+You like that, buddy?! It's called teamwork!
+Unless you KO all 3 of us at once, we can't lose!
+Sorry... I maybe said a bit too much.
+Master Mario!
+I imagine a bit of rust may have settled in since you last battled.
+Shall I refresh you on how to attack? 
+No          
+Yes
+Quite right, of course! I expected nothing less!
+Let's try your signature maneuver: the jump attack!
+Note the blocks that appeared above you.
+Use those fellows to pick what you will do!
+Use the A Button to select!
+Right on track, Master Mario! Select an action with the blocks...
+Then target the enemy you want to attack! Remember it well!
+Next, choose who will bear the brunt of your wrath!
+There's but one foe this time, so just press the A Button!
+Master Mario!
+As you see, battles begin when you touch an enemy!
+Right off, give this cur a jump attack!
+Did you note the numbers that appeared as you stomped?
+That's the amount of damage you delivered just now, Master Mario!
+When you deliver damage to a foe, its HP, or health points, goes down...
+Thusly will you eventually defeat all ne'er-do-wells!
+Master Mario! You seem to be struggling a touch.
+Might I interest you in some jumping tips? 
+No          
+Yes
+Now, do you recall the trick to a PROPER attack?
+Indeed, shall I explain how one deals more damage? 
+No          
+Yes
+Ahem!
+Very good. To begin, hit the Jump block!
+Of course, Master Mario! Perish the thought!
+HALT!
+Press the A Button at this exact moment!
+Pressing the button at the moment you stomp will deal more damage!
+Hit the Jump block as you did earlier, if you please.
+Right as you stomp the enemy, press the button once more!
+Capital! Perfection! A magnificent jump!
+Very good! Reassuring to hear, Master Mario!
+Shall I explain how you can dodge an enemy's attack? 
+No          
+Yes
+Very good! Prepare yourself for this scoundrel's attack!
+Then I shall retire to the rear and root heartily!
+HALLLLT!
+If that connects, you'll end up getting rather savaged.
+Use your jump to dodge! Press the A Button!
+That's it, Master Mario!
+Study the foe's attack pattern to time your jump! Timing is crucial!
+Would you like to practice how to jump a bit more? 
+No          
+Yes
+But of course! There's a good lad!
+That was close, Master Mario!
+My! What a mighty leap!
+Well done, Master Mario!
+Of course, if you press the button when you land the second time...
+You'll deliver even more damage! I beg of you, have a go at it!
+As you clearly know, pressing the button again on your second leap...
+It delivers even more damage! I trust you'll keep this front of mind?
+When you jump...
+As you just saw, your foes will close in and attack!
+However... You can dodge such things!
+Yes, dodging a foe's salvo lets one escape damage!
+Master Mario! A masterful victory!
+Defeat foes...
+And you earn EXP! Yes, experience points!
+For this bout, you got 3 EXP!
+This flag here ascends as you earn EXP!
+For what you just earned, how far will it go, hm?
+Well, it didn't move all that much, did it now?
+Indeed, this is why you should trounce every monster you see...
+Yes, pummel them all!
+LEAVE NONE STANDING!
+Raise that flag to the top!
+Once it reaches the top...
+Mm... Well, cheers to that!
+Well then!
+Best of luck!
+You did it! You leveled up!
+When you level up...
+Your stats go up and you'll get stronger!
+This'll make it easier for you to beat baddies!
+Also, each time you level up, you can choose one stat...
+For that one, you can spin the bonus slot for even more!
+As for each of the stats...
+You can see explanations for them right here!
+Yup!
+After going up to a certain level, your rank will go up as well!
+Rank shows your strength!
+OK, choose a stat and spin the slot!
+When your rank goes up... Heh... Well, you'll see!
+Oh, wow! Congratulations! Your rank went up!
+As you grow even stronger, you'll continue to gain ranks!
+Furthermore, something GREAT happens when you rank up!
+Uh-huh... Each time your rank goes up...
+You get a bonus that'll be very useful during your battles!
+There are various bonuses! For example...
+This increases the number of items you can equip!
+There are many other types of bonuses!
+Choose the one that fits you the best!
+Ah! I forgot one thing!
+There's a limit to the number of times your rank can go up.
+So... You won't ever get ALL of the available bonuses!
+Think long and hard before you choose a bonus!
+Pick one when you're ready!
+Master Mario!
+If you start a battle with a preemptive stomp, as you just did...
+You'll damage the foe before the proper fight starts!
+Start a battle with a stomp, and you'll deliver a bit of prefight damage!
+I highly recommend making a habit of doing so!
+I've noticed an opportunity in these fiends' attacks...
+You may have noted it already, but...
+You can counterattack those little beasties!
+Shall I explain counterattacks? 
+No          
+Yes
+As is to be expected. Carry on, Master Mario!
+Study the movements of the enemy!
+HERE!
+Press the A Button and stomp this lout!
+Mercy, Master Mario! Simply marvelous!
+Thusly can you counter many enemy attacks!
+Observe the foe's moves, and counterattack when you can!
+Shall I once again explain counterattacks? 
+No          
+Yes
+I'll leave the rest to you!
+There's naught else I can teach about counterattacks!
+Mario! Luigi!
+It's been a while since the two of you fought together, right?
+I'm not worried about Mario at all...
+But as for Luigi... I have my doubts!
+You'll use the B Button to attack, OK?
+Mario uses the A Button, and Luigi uses the B Button!
+That's REALLY important! Don't forget it!
+Wait! Hold on a second! I figured these monsters out!
+Wanna hear what I know? 
+No          
+Yes
+This is REALLY important! Will you please listen? 
+No          
+Yes
+Oh fine! I guess you guys just know everything!
+Watch the monster's moves right before it attacks!
+THERE!
+See how it trips right before it attacks?
+Take a look at its eyes when it's stumbling!
+See how it looks toward who it's gonna attack?
+This time... Mario is the target! Stomp on this thing!
+All enemies do this...
+They each show a tell right before attacking!
+The tells vary by attack, but they'll always TELL you what's coming!
+Oh, and for you, Luigi...
+You'll use the B Button for defense as well!
+You use the B Button for anything you do! Don't forget that, OK?
+STOP!
+Just wanted to double-check since this is so crucial!
+All right! Who's the target this time?
+That's how it's done! Yeah! You got it!
+Hmm...close! Pay attention to the enemy's moves!
+Trust me: ALL attacks should have tells!
+When you encounter a nasty enemy...
+Look for those tells as soon as you can!
+The number you see here is your HP!
+If this goes down to 0, you'll get KO'd...
+Don't get KO'd! Use the Item block for recovery items!
+And, if you need to escape midbattle...
+Hit this block, and you can run away!
+In general, you should try to finish fights.
+Avoid enemies, and you won't get any stronger!
+Oh! I almost forgot!
+If you're unsure where an attack is going, press BOTH buttons!
+All right! Give it your all!
+Ah, but first...
+Mario! Luigi!
+It's badge time!
+Need a badge lesson? 
+No          
+Yes
+In order to use badge effects, you need to fill up this meter.
+Both of you, look alive! Look at the Touch Screen!
+This thing fills up each time you guys attack successfully.
+The red part is for Mario, and the green part is for Luigi!
+It's almost filled up all the way, so it'll be full in no time!
+Good luck filling this up, you guys!
+OK! The meter is full now!
+Now take a peek at the Touch Screen!
+When the meter gets full, the badge effects get stored here!
+But remember...
+You only have two spots to store those effects.
+You can use them right away or store them for a tight spot!
+Let's try using it once to see its effect!
+Touch the heart symbol to trigger the effect!
+After touching it once, you'll need to touch it again to confirm!
+Thanks to those badges, you guys both got some health restored!
+An explanation of individual badge effects appears below the meter.
+The combo you're using now seems pretty good for your health!
+Badges have various effects, so find as many as you can!
+Since we're on the subject, want to hear how to equip badges? 
+No          
+Yes
+No problem! I figured you guys would know already!
+Touch this button!
+While you're on this particular screen...
+Use the R Button for the right badge... And the L Button for the left one...
+That's how you switch badges!
+You each only have one badge now, so you won't see any differences...
+But test it out once you get more badges!
+For now, touch the icon on the bottom left to go back a screen!
+You can trigger different effects depending on your badge combo!
+Try various combinations to find the one that suits you the best!
+But first...
+These things look hot. You might hurt yourself...
+...OK! I got it!
+LET IT BLOW!
+Um... All right! That'll do!
+What? C'mon! Hurry up and attack!
+Ahem!
+Just so you know, if you touch this icon here...
+You can see your progress on Expert Challenges!
+When you'd like to know about Expert Challenges...
+Touch this icon right here!
+Also, you can only use badge effects at a certain time...
+Only when command blocks are available, OK?
+Oh! You see zat? Zee Dreamy Luigi...
+He zoomed into Monsieur Mario!
+Oui, Dreamy Luigi, he now dwells in Monsieur Mario!
+See? Monsieur Mario is un peu stronger, oui?
+Oui! Now, to attack!
+Zee attacks, zey are more powerful now!
+INCROYABLE!
+Many Dreamy Luigi duplicates— I call zem Luiginoids—attack!
+With Dreamy Luigi powering Monsieur Mario...
+Even ordinary attacks turn into zee mighty storms!
+Oh! Zee Dreamy Luigis, zey come flying out!
+If zee attack is more successful, you will deal more damage, oui?!
+You try it, honh?
+Zis is a special technique only for zee dream world!
+Use it wisely during votre battles, honh?
+Très bien, Monsieur Mario! Alors, continuez!
+HALTEZ!!!
+Oh, pardonnez-moi, Monsieur Mario!
+Counterattacks in zee dream world are a bit special, oui?
+Look at zee icon at zee top left of zee screen!
+When zee Circle Pad icon is out, zis is zee time to move and jump!
+Oui, not only can you jump as usual, but you can also move!
+You are ready, oui? 
+No          
+Yes
+Très bien! Oui! Trois, deux, un...jump!
+Stand in zee certain places, and you can counterattack more!
+Where will you move, honh?
+Mario! Luigi!
+Look! That enemy is all spiky! I bet it'll hurt if you stomp on it!
+Why don't you try using the hammers that you got earlier?
+Do you want a few tips on using the hammers? 
+No          
+Yes
+OK! No problem!
+Hold the hammer over your head to charge!
+The longer you charge, the stronger the attack!
+Choose your hammer, and try attacking with it!
+STOP!
+Look carefully, OK?
+STOP!
+Now! Press the A Button to swing your hammer!
+Charging until the last moment is the key!
+The moment your hammer shines, swing!
+But be careful! Charge too long, and you'll miss your chance.
+The basics are the same as for usual attacks.
+Mario uses the A Button; Luigi uses the B Button!
+Hang on a sec!
+It's about time for the enemy's attack.
+If you tried to defend by jumping... Yikes.
+This time you'll need to use your hammer to defend!
+Want me to explain defending with the hammer? 
+No          
+Yes
+Figured you were good.
+Hammer defense is definitely tougher than jumping!
+To defend yourself with a hammer...
+You have to raise it well before the attack.
+This can be a bit tricky, so let's get some practice!
+STOP!
+Here comes the attack! Press and hold the A Button!
+Keep holding down that A Button, OK?
+All right! There! Release the A Button now!
+Good! That's how it's DONE!
+When you defend with the hammer, carefully watch the enemy's moves!
+Well, the rest is all you!
+Here, you guys! Ready your hammers!
+Mario uses the A Button! Luigi uses the B Button!
+Press to ready them and release to swing!
+Getting the hang of it? Need more practice? 
+No          
+Yes
+Getting the hang of it? Want me to explain again? 
+No          
+Yes
+Let's try the Bros. Attack you learned just now!
+Wanna hear about how to do the Bros. Attack? 
+No          
+Yes
+OK, gotcha!
+First, choose Bros. Attack from the command blocks!
+Choose the Bros. Attack you'd like to use here.
+3D Red Shell is the only one you can choose right now.
+For this attack, Mario and Luigi will take turns kicking the shell!
+Please check here if you need a more detailed explanation!
+Give it a try right now!
+Press the button to start it once you're ready!
+STOP!
+Luigi can kick back the shell with the B Button!
+It's Mario's turn now! Kick it back with the A Button!
+Hit the enemy multiple times by continuously kicking the shell!
+But if you don't time your kick right, you'll trip and fail. Keep that in mind!
+Also, you'll need BP to use any Bros. Attack!
+BP are Bros. Points...
+They're the number right next to the shell, OK?
+This is the amount of BP that'll get used each time!
+Without enough BP, you can't use Bros. Attacks!
+You can use Syrup Jars to restore your BP!
+Also, Bros. Attacks require you two to work together...
+So if either of you can't fight, you can't use these attacks!
+OK! Let's wrap this up then!
+If you need to, you can go to the Attacks guide in the menu...
+It's pretty handy, you know. You can practice Bros. Attacks!
+Use it anytime you practice!
+Ah, that's right!
+Youch...
+OK! You oughta use dat move you just learned...
+Da Luiginary Ball oughta wipe out dese chumps!
+Pick da Luiginary Attack command block, will ya!
+Da explanation appears on dat Touch Screen, so peep it later!
+Noice! Attaboy!
+Too bad, buddy! Try harder, huh?
+Luiginary Attacks, dey also use BP, so don't, like, use 'em all da time!
+An' if you ain't sure how ta do a move or somethin'...
+Pick da Attacks guide from dat menu ta practice it up.
+Noice! Keep housin' on dese numbskulls till it's ovah!
+OK! Keep tryin' till you're done wit dese twerps!
+Here it comes, punks!
+FOR MUSHRISE PARK! Gonna go UGH! ARGH!
+So yeah, it's on you!
+Whoa, but first...
+Noice! I just restored everythin' for ya!
+Gromba
+Smoldergeist
+Dromba
+Storch
+Dreamy Mario
+Bloatula
+Capnap
+Thorb
+Flibbee
+Flibbee R
+Grobot
+Dreamcap
+Dreamcap Captain
+Dreamcap R
+Dreamcap Captain R
+Propellion
+Bowser
+Antasma
+Flounderflage
+Sandoon
+Caccac
+Torkscrew
+Dreamy Sandoon
+Lob-omb
+Lob-omb R
+Skipdrill
+Skipdrill R
+Hermite Crab
+Hermite Crab R
+????
+Cocoknight
+Cocoknight R
+Ticksquawk
+Big Massif
+Heavy Zest 
+Sorrow Fist
+Thunder Sass
+Beef Cloud
+Hooraw
+Monolift
+Monolift R
+Grumbell
+Pi'illodactyl
+Pi'illodactyl R
+Mammoshka
+Block Monolift
+Chizzle
+Magmad
+Icead
+Durapurl
+Fly Guy
+Fly Guy R
+Goomba
+Goomba R
+Spiny
+Spiny R
+Lakitu
+Lakitu R
+Piranha Plant
+Nipper Plant
+Bloopurn
+Corporal Paraplonk
+Sergeant Guy
+Private Goomp
+Sub-Goomba
+Sergeant Guy Cannon
+Dark Block
+Shy Guy Airtub
+Shy Guy Airtub R
+Shy Guy
+Shy Guy R
+Red Virus
+Yellow Virus
+Blue Virus
+Bandit
+Golden Egg
+Wiggler
+Popple
+Krubbish
+Eyepi'illo
+Beehoss
+Boomerang Bro
+Commander Lakitu
+Pi'illodium
+Wings
+Mini Pi'illoid
+Pelicrump
+Spritzbloom
+Fire Bro
+Inky Piranha Plant
+Flaming Antasmaton
+Chain Chomp
+Walker Guy
+Mechakoopa
+Big Tail Goomba
+Antasman
+Kamek
+Kamek (Red)
+Kamek (Green)
+Kamek (White)
+Dry Bones
+Antasma
+????
+Antasmunchie
+Dreamy Bowser
+Right Arm
+Left Arm
+Dreamy Goomba
+Dreamy Shy Guy
+Dreamy Paratroopa
+Dreamy Bob-omb
+Shy Guy Airtub DX
+Grobot X
+Bowser X
+Antasma X
+Torkscrew X
+Big Massif X
+Hooraw X
+Mammoshka X
+Block Monolift X
+Corporal Paraplonk X
+Sergeant Guy X
+Private Goomp X
+Sub-Goomba X
+Sergeant Guy Cannon X
+Pi'illodium X
+Mini Pi'illo X
+Antasma X
+Antasmunchie X
+Bowser Jr.
+Junior Clown Car
+Monty Mole
+Gold Beanie
+Snuff the Flames
+Dodge all ghostly flames, and the foe's flames will extinguish, allowing you to jump on it! It will reignite if you leave it alone, so concentrate on attacking while the ghostly flames are out.
+Walk on Fire
+You'll take a little damage, but you can also extinguish ghostly flames by jumping on them.
+Attack the Original
+There's only one real Dreamy Mario. This foe will only fall if you damage the real one. He'll create Dreamy Mario copies, but the one there from the start is the real one. Keep track of him. You'll always get attacked after you jump on a Dreamy Mario copy, so be careful!
+Watch the Thread
+Bloatula's thread sometimes snaps as it attacks. When the thread snaps, the foe will bounce over your heads, so be careful!
+Hammer Away
+Jumping on a spiked enemy will always damage you. If you're battling a Thorb, use a hammer to attack!
+The Right Attack
+Each time you attack a Flibbee, it flips its top and bottom. Note where its stinger is pointing, and use the right attack. Stinger down? Jump! Stinger up? Hammer! Choose those attacks wisely.
+Dodge Water Balloons
+Grobot launches large and small water balloons from its mouth. The large ones will bounce over your heads, so don't jump!
+Balloon Run 'n' Dodge
+Grobot will also launch water balloons while it's chasing you. Watch Grobot's arms to see which will launch the balloons. If it readies both arms, you'll both need to jump together!
+Drop the Captain
+The Dreamcap Captain will keep calling Dreamcap reinforcements. Your best bet is to defeat the Dreamcap Captain first!
+Attack the Colony
+When Bowser takes damage, the Antasma bats counterattack. Any damage you take from the Antasma bats will get added to Bowser's HP. Targeting individual Antasma bats is too slow, so attack them all at once with the Luiginary Ball.
+Flounderflage Colors
+Red Flounderflages attack Mario. Green Flounderflages attack Luigi. Memorize their colors before they coat themselves in sand.
+Dodge Flounderflage
+When Flounderflages attack individually, they have two jumping patterns: they jump straight at you, or they jump over your head. Red Flounderflages jump straight at Mario and jump over Luigi. Green Flounderflages jump right at Luigi and jump over Mario. Stay calm! Don't jump when a Flounderflage goes sailing over your head!
+Jump in Sandoon
+Mario and Luigi can still jump even if they're consumed by a Sandoon. When a Sandoon slams into someone, press the button of the character it consumed.
+Magic Caccac Number
+A Caccac's counterattacks equal the number of times it gets hit. The last counterattack is unique, so remember the number that appears above the Caccac.
+Shock Bomb Surprise
+When Torkscrew goes underground, use a Shock Bomb! It won't be able to attack while it's flipped over!
+Send Torkscrew Under
+After you damage Torkscrew enough, it will burrow into the ground to escape. Make it burrow quicker by using attacks that do a lot of damage at once, like the Bros. Attacks 3D Red Shell or 3D Green Shell!
+Dreamy Sandoon Leap
+If Dreamy Sandoons rise up short, they'll stretch as they approach. Jump over those closest to Mario! Conversely, if they rise up tall, they'll shrink as they approach. Jump over the farthest ones! 
+Bomb Targeting
+When a Lob-omb tosses 1 bomb, watch the way it's held for a sign of where it will land. Right hand means behind Mario. Left hand means in front of Mario. Both hands mean at Mario's feet. If the Lob-omb jumps, it's aiming for Mario's back! Watch out!
+Real-Bomb Spotting
+When a Lob-omb throws 3 bombs, only the starred one is real! Don't let it out of your sight!
+Skipdrill Volley
+Skipdrills coming from above will go flying wherever Mario is facing as he whacks them. You cannot directly attack the buried Skipdrills, so smash their buddies into them instead!
+Jump In Time
+Ticksquawks attack after 1 revolution of the needle. Jump right as it completes the circuit! The distance the needle travels may change with each attack. Time your jump carefully! Even if the shutter closes, the needle keeps moving behind it. Try to get the timing down before the shutter closes!
+Target Big Massif 
+Whenever you defeat Hooraws, Big Massif's POW will go up. Using Luiginary Attacks is risky! Try countering Big Massif's attacks to thin out the Hooraws without enraging Big Massif. Reduce the Hooraws' numbers, and then use Luiginary Attacks!
+Coconut Trawling
+When a big coconut appears during Big Massif's turn, it's your chance to engage the Hooraws. The key: get the charging Big Massif to hit the coconut! Big Massif will charge toward Mario, so match your moves with the coconut to make him hit it!
+Repel Big Massif!
+When Big Massif flies into the air, watch the Hooraws standing in four groups. Big Massif will always bounce off the group of Hooraws currently raising their hands. After bouncing off the last group, he'll come straight toward Mario! Face him and counterattack!
+All-Out Offensive!
+Time is of the essence, so don't waste it on healing! Focus on powerful Luiginary Attacks only. Hitting Heavy Zest with the Luiginary Stack should work! You can mop up any leftover Hooraws with the Luiginary Ball.
+Coconut Ricochet
+If you see a giant coconut appear during Heavy Zest's attack, it's your chance to hurt the Hooraws! The key is to make Heavy Zest charge headlong into the coconut! Heavy Zest charges at Mario, so match your movements with those of the coconut.
+A Hopeless Cause?
+If Mario simply cannot defeat all enemies within 3 moves, you will get the chance to give up. Use it to better prepare before retrying! Stock up badge effects of the Strike and Master badges to deliver more damage at once! Mix the Virus and Master badges to lower Heavy Zest's DEF. Buy those in the Wakeport shop!
+Be Excellent
+It'd be ideal to stay safe and win with Luiginary Attacks. If getting Excellent hits is a bit challenging, get in some practice! To practice Luiginary Attacks, go to the Guide menu before the battle and choose Attacks. And if the Excellent hits just aren't happening, counters will also let you get some damage in.
+Throw In the Towel
+If you want to leave the battle, you can always give up. After Mario has 3 attack turns, the host will come out and give you the option to give up.
+Counter Thunder Sass
+When Thunder Sass goes flying, watch the Hooraws around you. Thunder Sass will rebound off of each of the Hooraw groups with their arms raised. After bouncing off the final group, he will fly straight at Mario. Turn that way, and let him have it!
+Drop a Monolift
+A Monolift carrying four rocks looks pretty miserable. That's the time to stomp it flat.
+Look Before You Leap
+Every time a Flibbee R attacks, it'll flip upside down. Watch where its stinger points, and choose the right attack! Jump when the stinger points down, and hammer it when the stinger points up!
+Pi'illodactyl Bait
+As long as it's in the background, you can't attack a Pi'illodactyl. To defeat a Pi'illodactyl, you'll need to use a Taunt Ball! But be careful! It's really strong!
+Once Burnt, Twice Shy
+When a Pi'illodactyl spouts 2 tongues of flame, watch its legs as it charges up the attack. Right leg up is a sign that Mario will be attacked first, while left leg up means Luigi's first! If you avoid the fire, stay alert! The ground under your feet will be hot for a while, so keep hopping!
+Head First!
+Mammoshka's weak point is the head—go on, give it a stomp! But if it puts on a spiky helmet, switch to a ground assault... When the spiky helmet comes out, try to get rid of it posthaste!
+Snowball Breakout
+If you get trapped in a snowball, make getting out your priority. Press the button just as your legs touch the ground to spring free!
+Orchestrated Effort
+The huge rocks Mammoshka lobs cannot be countered by one man! Swing your hammers in concert!
+Through Fire and Ice
+Avoid enough Magmad attacks to make it cool enough to stomp. When a Magmad's body becomes darker, that's the time to jump! Iceads change color just like Magmads—you know what to do!
+Bomb Targeting
+When a Lob-omb R hurls 1 bomb, watch the way it's held for a sign of where it will land. Right hand means behind Mario. Left hand means in front of Mario. Both hands mean at Mario's feet. If the Lob-omb R jumps, it's aiming for Mario's back! Watch out!
+Real-Bomb Spotting
+When a Lob-omb R throws 3 bombs, only the starred one is real! Don't let it out of your sight!
+Hammer Away
+A Durapurl's leaping attack always comes out on the third shell opening. Raise your hammer ahead of time, and prepare to swing it as the shell opens for the third time. If you connect, it'll drop on the ground, so smack it some more before it can hide in its shell!
+Defeat Lakitu
+Whenever a Lakitu attacks, it'll have Spinies in tow. If you can't thin out the Spinies, try defeating the Lakitu first. Using a Taunt Ball to enrage it might help defeat a Lakitu quickly. It'll attack you without fail, so use counters for big damage!
+Dreamcap Priority
+A Dreamcap Captain R will call in more and more Dreamcaps R. Prioritize the defeat of the Dreamcap Captain R first!
+Wholesale Damage
+Private Goomp, Sergeant Guy, and Corporal Paraplonk... Defeat all three at once, or they rise again! Deal damage to all three at once with the Luiginary Ball!
+Goomba Stompfest
+Towers made of Goombas! Give them a taste of your boots. If they get behind Mario, they can spread out and gang up on him. By then it's too late to dodge...
+Cannon Fodder
+After the Banzai Bill gets loaded into the Sgt. Guy Cannon, THAT is stomp time. Massive damage for everyone!
+Dark Block Knock
+Midattack, hit Dark Blocks from below to weaken them. A weakened Dark Block will take extra damage from attacks!
+Drub the Airtub
+The only way to deal damage to a Shy Guy Airtub is with counters. To defeat a Shy Guy Airtub, use a Taunt Ball to enrage it. It'll come closer to attack you, so keep on countering!
+Go Viral
+Whenever a Virus gets attacked, it'll change color. If you can line up three or more Viruses of the same color, they'll all go down!
+Drop a Monolift R
+A Monolift R carrying four rocks looks really miserable. Stomp it out of its misery.
+Egg Snatcher!
+When a Bandit appears carrying a Golden Egg, toss a Taunt Ball. This'll make it drop the egg. Bandits will flock to get it back, so smash the Golden Egg quickly!
+Pi'illodactyl R Bait
+As long as it's in the background, you can't attack a Pi'illodactyl R. To defeat a Pi'illodactyl R, you'll need to use a Taunt Ball! But be careful! It's really strong!
+Once Burnt, Twice Shy
+When a Pi'illodactyl R spouts 2 tongues of flame, watch its legs as it charges up the attack. Right leg up is a sign that Mario will be attacked first, while left leg up means Luigi's first! If you avoid the fire, stay alert! The ground under your feet will be hot for a while, so keep hopping!
+Don't Tease!
+If Popple starts teasing Wiggler, Wiggler will lash out at you with a powerful attack. Attack Popple when he comes out first to prevent his teasing!
+Clinging Popple
+Sometimes when Wiggler comes charging around, Popple can try to hobble Mario and Luigi. If you do end up getting grabbed, there'll be a delay between your button press and your jump, so plan for it when dodging!
+Empty the Krubbish
+If you defeat a Krubbish after it swallows a Cocoknight R, the Cocoknight R will also get hurt. Prioritize stomping the Krubbish with the most Cocoknights R in it!
+Poison Control
+The poison smog Krubbish spews comes from up high and down low. Move to the low areas and jump! The direction its mouth points to at the start will be the high lane. It can point either behind, in front of, or straight at you. The tells it gives will number the same as its attacks, so pay close attention!
+Laser Targeting
+When an Eyepi'illo starts circling, time your counters carefully! When you hit it, it'll fire a nasty laser beam wherever it happens to be pointing, so swing when it points away from Mario and Luigi. Of course, it wouldn't be a bad thing if it blasted some baddies.
+Vault the Bees
+You shouldn't stomp on the bees that come out of a Beehoss. If you stomp them, they'll come back and attack you! You won't be able to dodge their return attack, so be sure to jump over the bees to dodge them!
+Bee Free
+Bees that leave a Beehoss sometimes never return. Hitting the Beehoss at times like that will be consequence free! Defeat it while the bees are gone!
+Telltale Signs
+Watch a Commander Lakitu for tells about Boomerang Bros. It'll show a tell just before a Boomerang Bro attacks, so pay close attention! If a Boomerang Bro attacks alone, its Commander Lakitu's moves will be the tell. The boomerang follows the same path as the Commander Lakitu.
+Double Boomerangs
+When two Boomerang Bros. attack, the Commander Lakitu will signal the order of the attacks. If the Commander Lakitu in front waves a red flag, the attack will first target Mario, while a green one means Luigi!
+Taunt to Victory
+A defeated Commander Lakitu will sometimes drop a neat little item. Use a Taunt Ball if you want to defeat a Commander Lakitu! You'll lose the benefit of tells about the Boomerang Bros. attacks, but it may be worth it!
+Split Wings
+Pi'illodium will become a lot weaker if you destroy both wings. Attacks against a weakened Pi'illodium deal extra damage!
+Pelicrump Watch
+Some Pelicrumps ferry Bob-ombs in their cavernous bills. They'll lob them at you and deal unavoidable damage, so try and get rid of those targets first! Keep an eye on those Pelicrumps... You might spot a Bob-omb!
+The Log Roll
+Be ready when a Pelicrump brings a giant statue to the party! It'll chase Mario faster than he can run! Ride on the logs that the Pelicrump drops to run faster than the statue for a while! Jump on logs multiple times until the statue breaks!
+Pop the Balloons
+Knock back Spritzbloom balloons by jumping as they descend. If one lands before you can hit it, avoid it by moving up or down.
+Skipdrill R Volley
+A Skipdrill R coming from above will go flying wherever Mario is facing as he whacks it. You cannot directly attack a buried Skipdrill R, so bash its buddies into it instead!
+Blow Off the Ink
+Inky Piranha Plants are annoying enemies who obscure your screen. Blow into the mic to clean it off! A Taunt Ball will knock them out, giving you time to defeat other monsters! 
+Avoid the Fire Bar
+Watch a Flaming Antasmaton's wingspan to predict its attacks. Folded wings mean fast speed, spread wings mean slow, and original size means normal speed.
+Where to Walk?
+A Chain Chomp will stare at Mario or Luigi before attacking. Be sure to check where it's looking before it flings its companion Walker Guy. But careful! If a Chain Chomp closes its eyes while it's rolling, the Walker Guy will fly at the opposite opponent!
+Drub the Airtub R
+The only way to damage a Shy Guy Airtub R is with counters. To defeat a Shy Guy Airtub R, use a Taunt Ball to enrage it. It'll come closer to attack you, so keep on countering!
+Major Malfunction
+Dealing damage to a Mechakoopa makes it break down immediately. Broken Mechakoopa attacks are erratic, so be extra careful!
+Nowhere to Hide!
+When Mechakoopas encircle Mario, they attack from all directions, one by one. Broken Mechakoopas run around and attack from the opposite direction of their original spot! Watch out!
+Draw Heavy Fire
+When Mechakoopas start firing, try drawing their fire and moving away at the last moment. Shots faulty Mechakoopas fire come back around to hit them. Get broken Mechakoopas to fire many shots for maximum damage!
+Mecha Column
+When Mechakoopa numbers drop, they'll all line up in one column. If they hop before charging out, they'll fly over Mario's head. Let them pass by without jumping. For broken Mechakoopas, the tell is reversed. If broken Mechakoopas hop, they'll charge straight at you! Incidentally, if you stomp a broken Mechakoopa, it'll run the other way. Make it collide with other Mechakoopas for easy damage!
+Break the Chains
+Before an Antasman moves, it'll heal itself and those cohorts who are bound to it with magic. Use jumping attacks first to pick them off one by one!
+Defeat Lakitu R
+Whenever a Lakitu R attacks, it'll have Spinies R in tow. If you can't thin out the Spinies R, try defeating the Lakitu R first. Using a Taunt Ball to enrage it might help defeat a Lakitu R quickly. It'll attack you without fail, so counter for big damage!
+Beat the Real Kamek
+Kamek will make 4 doppelgangers. He'll recover health if you hit his copies, so make sure not to miss the real Kamek!
+Remember the Shapes
+The ○△□▽ spells from Kamek's magic move in specific directions depending on their shape. ○: Comes from the front. □: Comes from the rear. △: Comes from the right. ▽: Comes from the left. Be careful! It's tricky to distinguish △ from ▽!
+Beat the Real Kamek
+Kamek will make 4 doppelgangers. He'll recover health if you hit his copies, so make sure not to miss the real Kamek!
+Remember the Shapes
+The ○△□▽ spells from Kamek's magic move in specific directions depending on their shape. ○: Comes from the front. □: Comes from the rear. △: Comes from the right. ▽: Comes from the left. Be careful! It's tricky to distinguish △ from ▽!
+Use the Dry Bones
+Sometimes Kamek will leave his Dry Bones in charge and hide in the background. Kamek slowly restores his health back there, and you can't attack him with normal attacks. Counterattack the Dry Bones to get the chance to launch them into Kamek! It's hard to stomp on all the Dry Bones. If there are too many coming your way, break some of them using a Luiginary Attack! If that's tough, break all of the Dry Bones to bring Kamek back to the fore!
+Defeat Kamek (Green)
+In the third battle with Kamek, each of the 4 Kamek copies has a different role! The green one boosts the group's stats, so defeat that one first!
+Remember the Shapes
+The ○△□▽ spells from Kamek's magic move in specific directions depending on their shape. ○: Comes from the front. □: Comes from the rear. △: Comes from the right. ▽: Comes from the left. Be careful! It's tricky to distinguish △ from ▽! Keep in mind that the enemy's SPEED stat gets faster with the green Kamek copy's magic!
+Giant-Broom Service
+Focus on the giant broom's moves to foresee its attack! When it sweeps on the same spot, that's its tell! It's going to attack Mario! Slide the Circle Pad at the right time to escape from the broom's trajectory.
+Escape the Nightmare
+If you get hit by Antasma and fall asleep, you'll be caught in an endless nightmare. Jump out through the exit hole, or remain trapped forever! There is only one exit. All other holes are decoys. Jump through a hole to discover its nature. Find the exit—hurry!
+Get In the Ring!
+When Antasma throws a ring, make sure you get inside it. If you stay outside of the ring, you'll always get hit by the shock wave...and that'll hurt badly! When Antasma raises his hand, the direction where the ring falls will change, so move toward the side where he raised his hand. It's easier if you stay in the middle to prepare yourself!
+Inside the Ring
+Once you're in the ring, look at Antasma again! When Antasma drops both hands, the ring will shrink shortly thereafter. Wait a bit to jump and dodge it!
+Wake Up, Sleepyhead!
+After Antasma goes to sleep, he'll start steadily regaining HP. When sleeping, Antasma is impervious to all attacks. Wake up Antasma by destroying all of the Antasmunchies ASAP! You can defeat Antasmunchies en masse with Luiginary Attacks!
+Bye, Dreamy Bowser!
+Dreamy Bowser will block attacks to his body with his right arm. Defeat the right arm first to be able to damage his body. If Mario or Luigi gets caught, attack the left arm to free him.
+Minion Mop-Up
+If the Koopa Corps show up, aim for Dreamy Bob-ombs first. When you defeat one, it'll explode, damaging nearby enemies! Use a Taunt Ball to enrage Dreamy Bowser and make him attack you. Deal damage to the Koopa Corps en masse!
+Taunt Balls Ahoy
+Anger the Shy Guy Airtub DX with Taunt Balls to get it to attack. That's your chance to counter for massive damage!
+Counter Offensive
+The Gold Beanie often flees. But hit it with a counterattack, and the Gold Beanie won't be able to flee on its next turn!
+Gold Beanie's Tell
+Watch the Gold Beanie after countering its running attack. If it stumbles on its way back, it'll jump for its next attack! The timing of when it hits Mario will be slightly late, so wait a beat before swinging the hammer!
+Creeping Beanie
+Be extra careful if the Gold Beanie calls a crowd of buddies! It'll hide behind its buddies to sneak up on Mario. Stomp on the enemies concealing the Gold Beanie to counter! While the Gold Beanie is hiding, it'll keep changing its position, so keep an eye on it!
+Mix It Up
+There's a badge effect for every combination of badges held by Mario and Luigi. Check various badge combinations to find powerful badge effects that match your play style. You can even swap badges midbattle. Just touch the Badges icon on the Touch Screen!
+Watch and Learn
+When you eat a Boo Biscuit, you won't be able to attack for a while but you won't take any damage either! Use those moments of peace to observe enemy attacks and plan your defense!
+Slow and Steady
+Mess up an attack a few times, and you'll unlock Slow Attack Mode. In Slow Attack Mode, time will slow down midattack to make it easier. Practice makes perfect!
+Bros. Attacks
+The quicker you defeat monsters, the fewer attacks you'll endure! Use Bros. Attacks to deal big damage and get it over with!
+Restore Your BP!
+Using Bros. Attacks depletes BP. If you run out of BP, you can't use Bros. Attacks, so restore it by drinking syrup. Buy Syrup Jars from item shops, or pick up any dropped by enemies you defeat.
+Use Luiginary Attacks
+The quicker you defeat monsters, the fewer attacks you'll endure! Use Luiginary Attacks to deal big damage and get it over with!
+Restore Your BP!
+Using Luiginary Attacks uses BP. If you run out of BP, you can't use Luiginary Attacks, so restore it by drinking syrup. Buy Syrup Jars from item shops, or pick up any dropped by enemies you defeat.
+Level Up!
+Enemies getting too strong? Go back to an earlier area and fight some monsters to level up. As you gain levels, you take less damage and deal more punishment. It makes battling a cinch!
+Equip Strong Gear
+To make battles easier, equip stronger gear. If you're getting hit a lot, buy apparel with high DEF to reduce the damage you take. Stay safe! Buy gear in gear shops, or pick up spoils from defeated foes.
+Use Badge Effects!
+When things are going poorly, try using badge effects to make your life easier. When it's your turn to move, touch the badge-effect icon twice on the Touch Screen to use it!
+Save Badge Effects
+As much as possible, save up your badge effects to the maximum you can stock. Saved-up healing effects make battles less scary! Stocking up on damage-dealing effects is also a good strategy!
+Heal Early and Often
+If you take damage and get low on HP, eat a Mushroom to heal. Buy Mushrooms from item shops, or pick up ones enemies drop!
+Rise from the KO
+It gets harder to defend if either Mario or Luigi goes down, and your offense also suffers! Revive with 1-Up Mushrooms! ASAP!
+Heal before Battle
+You can use Mushrooms and Syrup Jars outside of battle, too. Go to the Items menu and recover before fighting. Battles go easier if you start with full HP and BP!

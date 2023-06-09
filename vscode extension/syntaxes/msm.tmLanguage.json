@@ -1,0 +1,90 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "Message Studio Markup",
+	"patterns": [
+		{
+			"include": "#commands"
+		},
+		{
+			"include": "#string"
+		},
+		{
+			"include": "#numeric"
+		}
+	],
+	"repository": {
+		"commands": {
+			"patterns": [{
+				"name": "keyword.control.msm",
+				"match": "\\\\\\b(ruby|color|size|pagebreak|code|endcode|newline|backslash|vbar|lbrack|rbrack|lbrace|rbrace|codepoint|space|carriage|tab|wspace|file|empty|embed|archive|bigendian|unknown|padding|ato|atr|lbl|nli|tsy|string|wait|hspace|option|hset)\\b|\\\\\\\\"
+			}]
+		},
+		"string": {
+			"begin": "\\{",
+			"end": "\\}",
+			"beginCaptures": {},
+			"endCaptures": {},
+			"name": "expression.group.msm",
+			"patterns": [
+				{
+					"include": "#commands"
+				},
+				{
+					"name": "string.quoted.double",
+					"match": "[^ ^\\{^\\}^\\[^\\]]"
+				},
+				{
+					"include": "#string"
+				},
+				{
+					"include": "#numeric"
+				}
+			]
+		},
+		"numeric": {
+			"begin": "\\[",
+			"end": "\\]",
+			"beginCaptures": {},
+			"endCaptures": {},
+			"name": "expression.group.msm",
+			"patterns": [
+				{
+					"name": "constant.numeric",
+					"match": "\\b(0b[01]+|0x[0-9a-fA-F]+|0[1-7]+|[1-9][0-9]+|[0-9])\\b"
+				},
+				{
+					"name": "storage.type",
+					"match": "\\b([A-Z|a-z|_]|[A-Z|a-z|_][A-Z|a-z|0-9|_]+)\\b"
+				},
+				{
+					"name": "invalid.illegal",
+					"match": "[^ ^\\]^,]"
+				},
+				{
+					"include": "#numeric"
+				}
+			]
+		}
+	},
+	"scopeName": "source.msm",
+
+	"_comment": {
+		"expression": {
+			"patterns": [{
+				"include": "#paren-expression",
+				"strings": {
+					"name": "string.quoted.double.msm",
+					"match": "[^ ^\\{\\}]"
+				}
+			}]
+		},
+		"paren-expression": {
+			"begin": "\\{",
+			"end": "\\}",
+			"beginCaptures": {},
+			"endCaptures": {},
+			"name": "expression.group.msm",
+			"patterns": [{"include": "#expression"}]
+		}
+	}
+}

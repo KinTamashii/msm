@@ -1,0 +1,580 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[165,0,0,0,4,0,0,0,24,1,0,0,0,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,24,1,0,0,0,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,24,1,0,0,0,1,0,0,0,1,0,0,24,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,24,1,0,0,0,1,0,0,24,1,0,0,24,1,0,0,24,1,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,76,1,0,0,0,1,0,0,76,1,0,0,0,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,1,0,0,76,1,0,0,0,1,0,0,76,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,0,0,0,24,1,0,0,0,0,0,0,76,1,0,0,0,0,0,0,24,1,0,0,0,1,0,0,0,0,0,0,24,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,24,1,0,0,0,0,0,0,24,1,0,0,0,1,0,0,0,0,0,0,24,1,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,24,1,0,0,24,1,0,0,24,1,0,0]
+\tsy[11,12,11,11,11,12,11,12,11,11,11,12,11,12,12,11,11,11,12,12,11,12,11,11,11,12,11,11,11,11,12,11,12,12,12,12,11,11,12,12,11,12,12,12,12,12,11,12,11,12,11,11,12,12,12,11,12,11,11,11,11,11,11,12,11,12,11,11,11,11,11,11,11,12,11,11,12,12,12,11,11,12,12,11,12,11,11,12,11,11,12,11,12,11,12,11,12,12,11,12,12,12,12,4,12,4,12,11,12,11,12,11,12,12,11,12,11,11,12,11,11,12,12,12,12,11,11,12,12,11,12,12,12,12,12,12,11,12,12,12,12,12,12,11,12,12,11,12,12,12,11,12,11,12,11,11,11,12,12,11,11,11,11,11,11]
+
+\string{AtkMaster_04_3}
+\code[8,0,11]If you hit all the Dash Panels, you'll have a\\
+chance to smash a big target at the end for\\
+even more points.
+
+\string{EC_Title_BRcb06S}
+\code[8,0,12]メドレーでＳランク！
+
+\string{AtkMaster_04_4}
+\code[8,0,11]If you miss a Dash Panel or run into a\color[44,100,255,255]\\
+Thwomp\color[230,230,230,255], your run will end.
+
+\string{EC_Text_BRObullS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Chargin' Chuck Corps\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_Wkuribo}
+\code[8,0,11]Defeat \color[44,100,255,255]2 Goombas\color[230,230,230,255] and \color[44,100,255,255]2 Paper Goombas\color[230,230,230,255].
+
+\string{EC_Title_BROkteresaS}
+\code[8,0,12]King Boo S Rating
+
+\string{AtkMaster_04_5}
+\code[8,0,11]Pick up bonus points along the way by\\
+smashing the smaller targets. How many\\
+\space[1]can you hit?
+
+\string{EC_Title_AMsquashA}
+\code[8,0,12]Trio Racquet A Rating
+
+\string{AtkMaster_02_0}
+\code[8,0,11]Use the\color[44,100,255,255] Circle Pad\color[230,230,230,255] to aim for the falling\\
+cards, and then throw shuriken using \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] and \color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255].
+
+\string{EC_Text_AMtekkyuS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Cannonball Chuck\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_BRcb01S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Megacrinkle\\
+Goomba\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_BRPbpackun}
+\code[8,0,12]Paper Petey Piranha
+
+\string{AtkMaster_02_1}
+\code[8,0,11]As your shuriken hits the card, press \color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to\\
+rip through it and earn points.
+
+\string{EC_Title_BROPsambo}
+\code[8,0,12]Big Pokey Duo
+
+\string{EC_Title_Wkuribo}
+\code[8,0,12]Just Getting Started
+
+\string{AtkMaster_02_2}
+\code[8,0,11]Cards with an \color[44,100,255,255]M\color[230,230,230,255] icon can be scored only by\\
+Mario, and ones with an \color[44,100,255,255]L\color[230,230,230,255] icon can be scored\\
+\space[1]only by Luigi.
+
+\string{AtkMaster_02_3}
+\code[8,0,11]Hitting a card with a\color[44,100,255,255] POW Block\color[230,230,230,255] icon will score\\
+all of the cards on the screen at once. Cards\\
+\space[1]with the\color[44,100,255,255] clock\color[230,230,230,255] icon will stop time briefly.
+
+\string{EC_Text_BROPkameckS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Kamek Duo\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Title_AMarrowA}
+\code[8,0,12]Trio Whirligig A Rating
+
+\string{EC_Title_AMgiantA}
+\code[8,0,12]Mega Thwonk A Rating
+
+\string{AtkMaster_02_4}
+\code[8,0,11]Hitting a card with a\color[44,100,255,255] Bowser\color[230,230,230,255] icon is the same\\
+as letting a card fall to the ground.
+
+\string{EC_Title_BRcb01S}
+\code[8,0,12]Megacrinkle Goomba S Rating
+
+\string{AtkMaster_02_5}
+\code[8,0,11]In between rounds, giant enemies will appear.\\
+You get only one shot, so try to hit as many\\
+\space[1]as you can!
+
+\string{AtkMaster_02_6}
+\code[8,0,11]Aim carefully! If \color[44,100,255,255]\color[230,230,230,255]3 cards hit the ground,\\
+the game will end.
+
+\string{AtkMaster_00_0}
+\code[8,0,11]Hit targets with the ball to score points.\\
+Use \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255], \color[255,67,67,255]\color[230,230,230,255]\color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255], and \color[0,187,39,255]\color[230,230,230,255]\color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to swing your rackets.
+
+\string{msg_battlering_result_00}
+\code[8,0,12]Excellent Attacks
+
+\string{AtkMaster_00_1}
+\code[8,0,11]Pay attention to the targets you're hitting! The\\
+ball will slow down if you hit a\color[44,100,255,255] Cheep Cheep\color[230,230,230,255],\\
+\space[1]and it will speed up if you hit a\color[44,100,255,255] Ninji\color[230,230,230,255].
+
+\string{EC_Text_AMshurikenA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Shuriken\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_BRObking}
+\code[8,0,11]Clear\color[44,100,255,255] King Bob-omb\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BROhchan}
+\code[8,0,11]Clear\color[44,100,255,255] Rampaging Wiggler\color[230,230,230,255] in the Battle Ring.
+
+\string{msg_battlering_result_01}
+\code[8,0,12]Times Hit by Enemies
+
+\string{AtkMaster_00_2}
+\code[8,0,11]Watch out! If you hit a\color[44,100,255,255] Boo\color[230,230,230,255], the ball will\\
+disappear completely!
+
+\string{msg_battlering_result_02}
+\code[8,0,12]Times Boss Moved
+
+\string{msg_battlering_result_03}
+\code[8,0,12]Number of Items Used
+
+\string{msg_battlering_result_04}
+\code[8,0,12]Times Fainted
+
+\string{EC_Title_BROkteresa}
+\code[8,0,12]King Boo
+
+\string{EC_Text_Invalid}
+\code[8,0,11]??????
+
+\string{EC_Text_BROhkoopa}
+\code[8,0,11]Clear\color[44,100,255,255] Boss Medley\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AMsquashS}
+\code[8,0,12]Trio Racquet S Rating
+
+\string{EC_Title_BROPkameck}
+\code[8,0,12]Kamek Duo
+
+\string{EC_Text_BRcb03S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Bowser Jr.\color[230,230,230,255]\\
+in the Battle Ring.
+
+\string{EC_Title_BROPkpjr}
+\code[8,0,12]Bowser Jr. Duo
+
+\string{EC_Title_Invalid}
+\code[8,0,12]???
+
+\string{EC_Title_AMarrowS}
+\code[8,0,12]Trio Whirligig S Rating
+
+\string{EC_Title_AMgiantS}
+\code[8,0,12]Mega Thwonk S Rating
+
+\string{EC_Title_BRcb03S}
+\code[8,0,12]Papercraft Bowser Jr. S Rating
+
+\string{EC_Text_BROhkoopaS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Boss Medley\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AMsliderA}
+\code[8,0,12]Toad Trail A Rating
+
+\string{EC_Text_AMshurikenS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Shuriken\color[230,230,230,255] in Attackathon.
+
+\string{EC_Title_BRObpackunS}
+\code[8,0,12]Petey Piranha S Rating
+
+\string{EC_Text_BROPkameck}
+\code[8,0,11]Clear\color[44,100,255,255] Kamek Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BROPkpjrS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Bowser Jr. Duo\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{BattleRing_cb_00}
+\code[8,0,12]Papercraft Battle Rules
+
+\string{EC_Title_BROPsamboS}
+\code[8,0,12]Big Pokey Duo S Rating
+
+\string{EC_Title_BRObpackun}
+\code[8,0,12]Petey Piranha
+
+\string{EC_Text_BRObull}
+\code[8,0,11]Clear\color[44,100,255,255] Chargin' Chuck Corps\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_BRObkingS}
+\code[8,0,12]King Bob-omb S Rating
+
+\string{BattleRing_00_0}
+\code[8,0,11]You'll receive a score based on your\color[44,100,255,255] clear time\color[230,230,230,255],\color[44,100,255,255]\\
+damage taken\color[230,230,230,255], and\color[44,100,255,255] successful attacks\color[230,230,230,255].
+
+\string{EC_Text_BRcb05S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Bowser\color[230,230,230,255]\\
+in the Battle Ring.
+
+\string{BattleRing_00_1}
+\code[8,0,11]You can't use normal items, but certain unique\\
+items will be available. However, the more of\\
+\space[1]them you use, the\color[44,100,255,255] lower\color[230,230,230,255] your score will be!
+
+\string{BattleRing_00_2}
+\code[8,0,11]\color[44,100,255,255]Assist\color[230,230,230,255] and\color[44,100,255,255] Easy Mode\color[230,230,230,255] are not available in\\
+the Battle Ring. If you have them turned on,\\
+\space[1]they will automatically be turned off.
+
+\string{BattleRing_00_3}
+\code[8,0,11]You can end the battle at any time by\\
+selecting FLEE.
+
+\string{EC_Text_BRcb01}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Megacrinkle Goomba\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Title_BRObull}
+\code[8,0,12]Chargin' Chucks Corps
+
+\string{EC_Text_BRcb02}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Kamek\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_BRcb05S}
+\code[8,0,12]Papercraft Bowser S Rating
+
+\string{EC_Text_BRcb03}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Bowser Jr.\color[230,230,230,255] in the Battle Ring.
+
+\string{AtkMaster_05_0}
+\code[8,0,11]Press \color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255] each time one of Luigi's feet touches\\
+the ground. You'll score points and build\\
+\space[1]power with each successful foot strike.
+
+\string{EC_Text_AMsquashA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Racquet\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_BROkteresaS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] King Boo\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_BRcb04}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft King Boo\color[230,230,230,255] in the Battle Ring.
+
+\string{AtkMaster_05_1}
+\code[8,0,11]As you approach a fortress, press \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] to swing\\
+Luigi's hammer. If you've built up enough\\
+\space[1]power, you'll destroy it and move on.
+
+\string{EC_Text_BRcb05}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Bowser\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AMtekkyuA}
+\code[8,0,12]Cannonball Chuck A Rating
+
+\string{AtkMaster_05_2}
+\code[8,0,11]Watch out for\color[44,100,255,255] mud puddles\color[230,230,230,255]! The timing of\\
+Luigi's footsteps will slow down.
+
+\string{EC_Text_BRcb06}
+\code[8,0,11]ドデカクラフトバトルの\color[44,100,255,255]\\
+「ドデカクラフトメドレー」\color[230,230,230,255]を\color[230,230,230,255] クリアしよう\color[230,230,230,255]
+
+\string{EC_Title_AMsliderS}
+\code[8,0,12]Toad Trail S Rating
+
+\string{msg_battlering_mon_00}
+\code[8,0,12]Petey Piranha
+
+\string{msg_yarikomi_save_1}
+\code[8,0,12]\code[5,0]\code[1,1]セーブ\ruby{ちゅう}{中}です \ruby{でんげん}{電源}をOFFにしないでください。\wait 
+
+\string{AtkMaster_05_3}
+\code[8,0,11]Whe\color[44,100,255,255]n enemies\color[230,230,230,255] appear, press \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] at the right\\
+time to avoid them.
+
+\string{EC_Text_BROPsambo}
+\code[8,0,11]Defeat\color[44,100,255,255] Big Pokey Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{msg_battlering_mon_01}
+\code[8,0,12]Big Pokey Duo
+
+\string{msg_yarikomi_save_2}
+\code[8,0,12]\code[5,0]\code[1,1]セーブが\ruby{お}{終}わりました\\
+\codepoint[0xE073]を\ruby{お}{押}すとHOMEメニューに\ruby{もど}{戻}ります
+
+\string{AtkMaster_05_4}
+\code[8,0,11]The game ends if you run into an enemy or\\
+fail to destroy a fortress.
+
+\string{msg_battlering_mon_02}
+\code[8,0,12]Paper Petey Piranha
+
+\string{EC_Text_AMarrowA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Whirligig\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AMgiantA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Mega Thwonk\color[230,230,230,255] in Attackathon.
+
+\string{msg_battlering_mon_03}
+\code[8,0,12]Rampaging Wiggler
+
+\string{EC_Text_BROPsamboS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Big Pokey Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BRObpackun}
+\code[8,0,11]Clear\color[44,100,255,255] Petey Piranha\color[230,230,230,255] in the Battle Ring.
+
+\string{msg_battlering_mon_04}
+\code[8,0,12]Chargin' Chuck Corps
+
+\string{AtkMaster_03_0}
+\code[8,0,11]Press \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] to begin swinging the cannonball, and\\
+then press \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] again to release it. You'll get \color[44,100,255,255]5\color[230,230,230,255]\\
+tries to pop as many balloons as possible.
+
+\string{BattleRing_00}
+\code[8,0,12]Battle Ring Rules
+
+\string{EC_Text_BRPbpackun}
+\code[8,0,11]Clear\color[44,100,255,255] Paper Petey Piranha\color[230,230,230,255] in the Battle Ring.
+
+\string{msg_battlering_mon_05}
+\code[8,0,12]Bowser Jr. Duo
+
+\string{AtkMaster_03_1}
+\code[8,0,11]Use the Circle Pad to aim the cannonball in\\
+the air, and aim for the flying balloons to\\
+increase your score multiplier.
+
+\string{EC_Title_BRPbpackunS}
+\code[8,0,12]Paper Petey Piranha S Rating
+
+\string{msg_battlering_mon_06}
+\code[8,0,12]King Boo
+
+\string{AtkMaster_03_2}
+\code[8,0,11]Watch out for the Parabombs, and be sure to\\
+correct for wind. If you miss the target\\
+completely, the game will end.
+
+\string{EC_Title_BROhchanS}
+\code[8,0,12]Rampaging Wiggler S Rating
+
+\string{msg_battlering_mon_07}
+\code[8,0,12]King Bob-omb
+
+\string{msg_battlering_mon_08}
+\code[8,0,12]Kamek Duo
+
+\string{msg_battlering_mon_09}
+\code[8,0,12]Boss Medley
+
+\string{menu_save_1}
+\code[8,0,4]Saving. Don't turn off the\\
+power.
+
+\string{msg_craft_mon_00}
+\code[8,0,12]Papercraft Megacrinkle Goomba
+
+\string{menu_save_2}
+\code[8,0,4]Save complete. Press \codepoint[0xE073] to return to\\
+the HOME Menu.
+
+\string{msg_craft_mon_01}
+\code[8,0,12]Papercraft Kamek
+
+\string{AtkMaster_01_0}
+\code[8,0,11]Collect the spiraling cards by sliding\color[44,100,255,255] left and\\
+right\color[230,230,230,255] on the Circle Pad. Then press \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] to rip\\
+through the paper barriers and move on.
+
+\string{msg_craft_mon_02}
+\code[8,0,12]Papercraft Bowser Jr.
+
+\string{AtkMaster_01_1}
+\code[8,0,11]Look out for cards with star icons to earn\\
+the most points!
+
+\string{msg_craft_mon_03}
+\code[8,0,12]Papercraft King Boo
+
+\string{AtkMaster_01_2}
+\code[8,0,11]If you miss \color[44,100,255,255]3\color[230,230,230,255] cards, the game will end.
+
+\string{EC_Title_BRObullS}
+\code[8,0,12]Chargin' Chucks Corps S Rating
+
+\string{msg_craft_mon_04}
+\code[8,0,12]Papercraft Bowser
+
+\string{AtkMaster_01_3}
+\code[8,0,11]Avoid the\color[44,100,255,255] whirlwind—i\color[230,230,230,255]t will blow away all of\\
+the cards you've collected. And if you hit a\color[44,100,255,255]\\
+Fire Bar\color[230,230,230,255], your game will go up in smoke!
+
+\string{msg_craft_mon_05}
+\code[8,0,12]Papercraft Medley
+
+\string{EC_Text_AMsquashS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Racquet\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_BRcb02S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Kamek\color[230,230,230,255] in\\
+the Battle Ring.
+
+\string{EC_Title_AMtekkyuS}
+\code[8,0,12]Cannonball Chuck S Rating
+
+\string{EC_Text_BROPkpjr}
+\code[8,0,11]Clear\color[44,100,255,255] Bowser Jr. Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BROkteresa}
+\code[8,0,11]Clear\color[44,100,255,255] King Boo\color[230,230,230,255] in the Battle Ring.
+
+\string{msg_yarikomi_sys_00}
+\code[8,0,12]Times Attempted
+
+\string{EC_Title_BROPkameckS}
+\code[8,0,12]Kamek Duo S Rating
+
+\string{msg_yarikomi_sys_01}
+\code[8,0,12]Try again?
+
+\string{msg_yarikomi_sys_02}
+\code[8,0,12]???
+
+\string{EC_Text_AMarrowS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Whirligig\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AMgiantS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Mega Thwonk\color[230,230,230,255] in Attackathon.
+
+\string{EC_Title_BRcb02S}
+\code[8,0,12]Papercraft Kamek S Rating
+
+\string{msg_yarikomi_sys_03}
+\code[8,0,12]???
+
+\string{EC_Text_AMsliderA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Toad Trail\color[230,230,230,255] in Attackathon.
+
+\string{EC_Title_AMshurikenA}
+\code[8,0,12]Trio Shuriken A Rating
+
+\string{EC_Title_BRObking}
+\code[8,0,12]King Bob-omb
+
+\string{EC_Title_BROhchan}
+\code[8,0,12]Rampaging Wiggler
+
+\string{menu_save_err_1}
+\code[8,0,12]\code[5,0]\code[1,1]The game data is corrupted and must\\
+be deleted. Delete corrupted data\\
+and create new data? \option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{menu_save_err_2}
+\code[8,0,12]\code[5,0]\code[1,1]Creating new game data.\\
+Please wait.
+
+\string{menu_save_err_3}
+\code[8,0,12]\code[5,0]\code[1,1]Press \codepoint[0xE073] to return to the HOME Menu,\\
+and then close the game.
+
+\string{EC_Text_BRObpackunS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Petey Piranha\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Title_BRcb01}
+\code[8,0,12]Papercraft Megacrinkle Goomba
+
+\string{menu_save_err_4}
+\code[8,0,12]\code[5,0]\code[1,1]The Game Card has been removed.\\
+Press \codepoint[0xE073] to return to the HOME Menu.
+
+\string{EC_Title_BRcb02}
+\code[8,0,12]Papercraft Kamek
+
+\string{EC_Title_BRcb03}
+\code[8,0,12]Papercraft Bowser Jr.
+
+\string{EC_Title_BRcb04}
+\code[8,0,12]Papercraft King Boo
+
+\string{EC_Title_BRcb05}
+\code[8,0,12]Papercraft Bowser
+
+\string{EC_Text_BRObkingS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] King Bob-omb\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Title_BROhkoopa}
+\code[8,0,12]Boss Medley
+
+\string{EC_Title_BRcb06}
+\code[8,0,12]メドレーをクリア！
+
+\string{EC_Text_BRcb04S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft King Boo\color[230,230,230,255]\\
+in the Battle Ring.
+
+\string{EC_Title_BROhkoopaS}
+\code[8,0,12]Boss Medley S Rating
+
+\string{msg_craft_result_00}
+\code[8,0,12]Clear Time
+
+\string{msg_craft_result_01}
+\code[8,0,12]Damage Taken
+
+\string{BattleRing_cb_00_0}
+\code[8,0,11]You'll receive a score based on your\color[44,100,255,255] clear time\color[230,230,230,255],\color[44,100,255,255]\\
+damage taken\color[230,230,230,255], and success at\color[44,100,255,255] Papercraft\\
+Charge Spots\color[230,230,230,255].
+
+\string{msg_craft_result_02}
+\code[8,0,12]Charge Spot Success
+
+\string{BattleRing_cb_00_1}
+\code[8,0,11]The less damage you take and the faster you\\
+finish the battle, the higher your rating will be.
+
+\string{EC_Title_BRcb04S}
+\code[8,0,12]Papercraft King Boo S Rating
+
+\string{BattleRing_cb_00_2}
+\code[8,0,11]Your accuracy at\color[44,100,255,255] Papercraft Charge Spots\color[230,230,230,255]\\
+also counts. Stay in the groove!
+
+\string{EC_Text_AMtekkyuA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Cannonball Chuck\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AMsliderS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Toad Trail\color[230,230,230,255] in Attackathon.
+
+\string{EC_Title_AMshurikenS}
+\code[8,0,12]Trio Shuriken S Rating
+
+\string{EC_Title_BROPkpjrS}
+\code[8,0,12]Bowser Jr. Duo S Rating
+
+\string{EC_Text_BROhchanS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Rampaging Wiggler\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_BRPbpackunS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] wit\color[44,100,255,255]h Paper Petey Piranha\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_BRcb06S}
+\code[8,0,11]ドデカクラフトバトルの\color[44,100,255,255]\\
+「ドデカクラフトメドレー」でSランク\color[230,230,230,255]\color[230,230,230,255]\color[44,100,255,255]\color[230,230,230,255]を\ruby{と}{取}ろう\color[230,230,230,255]
+
+\string{AtkMaster_04_0}
+\code[8,0,11]Use the\color[44,100,255,255] Circle Pad\color[230,230,230,255] to help Mario and Luigi\\
+navigate along the path. Be sure to press\\
+forward at all times!
+
+\string{AtkMaster_04_1}
+\code[8,0,11]You can jump over gaps in the path by\\
+pressing \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255].
+
+\string{AtkMaster_04_2}
+\code[8,0,11]At the end of the line, you'll have a chance\\
+to speed up even more by passing over\\
+several\color[44,100,255,255] Dash Panels\color[230,230,230,255].

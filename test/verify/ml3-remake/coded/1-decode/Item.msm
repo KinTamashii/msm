@@ -1,0 +1,2618 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[31,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+\tsy[3,3,12,13,13,13,3,3,3,13,13,13,3,13,13,3,13,13,3,3,3,12,13,13,13,5,3,3,3,13,13,13,5,3,3,3,3,12,13,13,13,13,13,3,3,3,3,12,13,13,13,13,5,3,3,3,3,12,12,13,13,13,13,4,5,3,3,3,13,3,12,13,13,13,13,13,13,13,3,3,3,3,3,12,13,13,13,13,3,3,3,3,13,13,13,13,3,3,13,13,13,13,13,13,3,3,12,12,13,13,13,13,3,12,12,12,12,13,13,13,13,13,3,12,12,12,13,13,13,13,13,13,12,13,13,13,13,13,12,12,12,12,13,13,13,13,13,13,13,3,12,13,13,13,13,3,13,12,13,13,13,3,13,13,13,13,13,13,13,3,13,12,12,13,13,13,13,13,13,3,3,12,13,13,13,13,13,3,3,3,12,12,13,13,13,13,13,13,3,3,12,12,12,13,13,13,13,13,13,3,13,3,12,12,12,13,13,13,13,13,13,3,3,12,13,13,13,13,13,4,13,13,13,13,3,3,12,13,13,13,13,13,13,13,13,3,3,13,13,13,13,13,13,13,13,3,13,3,12,13,13,13,13,13,13,13,13,3,12,13,13,13,13,13,3,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,13,12,13,13,13,13,12,13,13,13,12,12,13,13,13,13,13,13,12,13,13,13,13,13,13,12,13,13,13,13,13,13,13,13,3,13,3,3,12,13,13,3,3,13,13,13,13,5,3,3,12,13,13,13,13,13,3,3,3,12,13,13,13,13,13,13,3,3,13,13,3,13,13,13,13,13,13,5,3,3,3,13,13,13,13,13,13,5,3,3,13,13,13,13,13,13,13,3,3,3,3,12,13,13,13,13,13,13,5,3,3,3,3,12,13,13,13,13,13,13,5,3,3,3,13,13,13,13,3,3,3,13,13,5,3,3,3,13,13,13,13,13,3,3,3,12,12,12,13,13,13,13,13,3,3,13,12,13,12,13,13,13,3,12,13,13,13,3,3,12,13,13,13,3,13,3,3,12,12,13,13,13,3,3,13,13,13,13,13,13,3,3,13,13,3,3,12,13,13,13,3,3,3,13,13,13,13,3,3,3,12,12,13,13,13,13,3,3,3,12,13,13,13,13,13,3,3,3,13,13,13,13,13,3,3,3,13,13,13,13,13,3,3,13,13,13,13,13,13,13,3,12,12,12,13,13,13,13,13,13,13,13,13,3,12,13,13,13,13,13,13,13,13,3,12,12,13,13,13,13,13,13,13,3,12,12,12,12,13,13,13,13,13,13,13,12,13,13,13,13,13,13,13,13,12,12,12,13,13,13,13,12,13,13,13,13,13,13,12,13,13,13,12,12,13,13,13,13,12,13,13,13,13,13,12,12,12,13,13,13,13,13,12,13,13,13,13,13,3,13,13,13,13,13,13,13,13,3,13,13,13,13,13,13,13,13,13,13,3,13,13,13,13,13,13,13,13,3,13,13,13,13,13,13,3,3,13,12,12,13,13,13,13,13,13,13,3,3,12,13,13,13,13,13,13,13,3,3,12,13,13,13,13,13,13,3,3,12,13,13,13,13,13,13,3,3,12,12,13,13,13,13,13,5,3,3,13,13,12,13,13,13,13,13,5,3,3,13,13,13,13,5,3,3,13,3,13,13,13,13,13,5,3,3,3,12,13,13,13,13,13,13,5,3,3,3,12,12,13,13,13,5,3,3,12,13,13,13,3,3,12,13,13,13,3,3,12,13,3,12,13,13,13,13,13,3,12,13]
+
+\string{E_Boots08}
+\code[9,0,3]Will occasionally lower an enemy's POW after the\\
+wearer hits it with a Jump attack.
+
+\string{E_Socks00}
+\code[9,0,3]Increase the wearer's HP a small amount.
+
+\string{F_Shell09}
+\code[9,0,12]\color[78,212,255,255]Ironclad Shells\color[230,230,230,255] full!
+
+\string{Ns_Accessory04}
+\code[9,0,13]Tight Belts
+
+\string{Ns_HeartMame}
+\code[9,0,13]Heart Beans
+
+\string{Ns_Socks20}
+\code[9,0,13]Fill-up Socks
+
+\string{E_Boots09}
+\code[9,0,3]Allow the wearer to occasionally BURN an enemy\\
+with a successful counterattack.
+
+\string{E_Socks01}
+\code[9,0,3]Increase the wearer's HP a good amount.
+
+\string{E_Wear10}
+\code[9,0,3]Beefs up the wearer's muscles...and the\\
+power of their Critical and Lucky Hits.
+
+\string{N_GekiChicken}
+\code[9,0,13]Fiery Drumstick
+
+\string{Ns_Accessory05}
+\code[9,0,13]Advice Patches
+
+\string{Ns_Socks21}
+\code[9,0,13]Mushroom Socks
+
+\string{E_Socks02}
+\code[9,0,3]Increase the wearer's BP a small amount.
+
+\string{E_SuperNut}
+\code[9,0,13]Restores 40 HP to\\
+both bros.
+
+\string{E_UltraSyrup}
+\code[9,0,13]Restores 60 BP for\\
+either Mario or Luigi.
+
+\string{E_Wear11}
+\code[9,0,3]Perfect for perfectionists. Increases the power\\
+of the wearer's Critical and Lucky Hits.
+
+\string{Ns_Accessory06}
+\code[9,0,13]Luxury Patches
+
+\string{Ns_Socks22}
+\code[9,0,13]Badge Socks
+
+\string{E_Shell00}
+\code[9,0,3]A glorious shell with spikes fit for Bowser.
+
+\string{E_Socks03}
+\code[9,0,3]Increase the wearer's BP a good amount.
+
+\string{E_Wear12}
+\code[9,0,3]Literally fit for a king. Increases POW when\\
+the wearer defeats an enemy.
+
+\string{F_HeartMame}
+\code[9,0,12]\color[78,212,255,255]Heart Beans\color[230,230,230,255] full!
+
+\string{N_Glove10}
+\code[9,0,13]Siphon Gloves
+
+\string{Ns_Accessory07}
+\code[9,0,13]Heroic Patches
+
+\string{EFF_Badge_02_06}
+\code[9,0,13]Gives you \color[44,100,255,255]twice \color[230,230,230,255]as many coins at the end of\\
+the battle when equipped.
+
+\string{E_AItm20}
+\code[9,0,5]\code[1,1]Quickly trace the Magikoopa's formation!\\
+Bowser's power boosts your magic!\\
+Target: \color[44,100,255,255]Random\color[55,55,55,255]. Effect: \color[44,100,255,255]BURN\color[55,55,55,255].
+
+\string{E_Shell01}
+\code[9,0,3]A sturdy custom-built shell. Completely blocks\\
+the DIZZY status effect.
+
+\string{E_Socks04}
+\code[9,0,3]Increase the wearer's hustle and bustle, and\\
+make his first attack in each battle stronger.
+
+\string{E_Wear13}
+\code[9,0,3]Makes the wearer the star of the show.\\
+Also helps avoid attacks by slow enemies.
+
+\string{N_Glove11}
+\code[9,0,13]Dent Gloves
+
+\string{Ns_Accessory08}
+\code[9,0,13]Small Shells
+
+\string{EFF_Badge_02_07}
+\code[9,0,13]Will cause defeated enemies to drop\\
+an item for \color[44,100,255,255]three\color[230,230,230,255] turns.
+
+\string{E_AItm21}
+\code[9,0,5]\code[1,1]Press \color[44,100,255,255]left or right on \codepoint[0xE077]\color[55,55,55,255] to eat, then repeatedly\\
+press \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255] to throw Luigi. Slam down with \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255]!\\
+Target: \color[44,100,255,255]All ground-based enemies\color[55,55,55,255]. Effect: \color[44,100,255,255]None\color[55,55,55,255].
+
+\string{E_Accessory20}
+\code[9,0,3]Greatly increases the damage both dealt and\\
+received by the wearer.
+
+\string{E_Shell02}
+\code[9,0,3]This safety-conscious shell reduces damage\\
+to the wearer from all incoming attacks.
+
+\string{E_Socks05}
+\code[9,0,3]Give the wearer extra coins for completing\\
+a battle without taking damage.
+
+\string{E_Wear14}
+\code[9,0,3]Infused with the power of the Dark Star.\\
+The wearer can fill up their Badge Meter\\
+to raise all stats.
+
+\string{F_Accessory21}
+\code[9,0,12]\color[78,212,255,255]Vengeance Patches\color[230,230,230,255] full!
+
+\string{N_Boots10}
+\code[9,0,13]Siphon Boots
+
+\string{N_Glove12}
+\code[9,0,13]Siphon Gloves DX
+
+\string{Ns_Accessory09}
+\code[9,0,13]Big Shells
+
+\string{Ns_CheeseChicken}
+\code[9,0,13]Cheesy Drumsticks
+
+\string{EFF_Badge_02_08}
+\code[9,0,13]Gives you \color[44,100,255,255]twice\color[230,230,230,255] as much EXP at the end\\
+of a battle when equipped.
+
+\string{E_Accessory21}
+\code[9,0,3]Increases all of the wearer's stats when his\\
+brother is KO'd.
+
+\string{E_Shell03}
+\code[9,0,3]Turns the wearer's fury into power in the battle.
+
+\string{E_Socks06}
+\code[9,0,3]Increase the wearer's DEF a small amount.
+
+\string{E_Wear15}
+\code[9,0,3]Increases all of the wearer's stats.\\
+That's OK, right?
+
+\string{F_SuperKinoko}
+\code[9,0,12]\color[78,212,255,255]Super Mushrooms\color[230,230,230,255] full!
+
+\string{N_Boots11}
+\code[9,0,13]Big Stomp Boots
+
+\string{N_Glove13}
+\code[9,0,13]Excellent Gloves
+
+\string{Ns_Glove00}
+\code[9,0,13]POW Gloves
+
+\string{EFF_Badge_02_09}
+\code[9,0,13]Will cause defeated enemies to drop\\
+rare items when defeated for \color[44,100,255,255]three\color[230,230,230,255]\\
+turns.
+
+\string{E_AItm23}
+\code[9,0,5]\code[1,1]Scrub all the dirt off that filthy Broggy!\\
+Scrub him until he's clean!\\
+Target: \color[44,100,255,255]One enemy\color[55,55,55,255]. Effect: \color[44,100,255,255]DIZZY\color[55,55,55,255].
+
+\string{E_Accessory22}
+\code[9,0,3]With this equipped, the faster you defeat your \\
+enemies, the more items you will receive.
+
+\string{E_Shell04}
+\code[9,0,3]The rock-solid shell completely blocks\\
+all status effects.
+
+\string{E_Socks07}
+\code[9,0,3]Increase the wearer's gumption to a level that\\
+will actually revive him after a KO.
+
+\string{E_Wear16}
+\code[9,0,3]Helps fill up the wearer's Badge Meter with\\
+each Excellent rating.
+
+\string{F_Accessory23}
+\code[9,0,12]\color[78,212,255,255]Parry Glasses\color[230,230,230,255] full!
+
+\string{F_SpecialMame}
+\code[9,0,12]\color[78,212,255,255]Special Beans\color[230,230,230,255] full!
+
+\string{N_Boots12}
+\code[9,0,13]Rookie Boots
+
+\string{N_Glove14}
+\code[9,0,13]Sharing Gloves
+
+\string{Ns_Fung00}
+\code[9,0,13]Power Fangs
+
+\string{Ns_Glove01}
+\code[9,0,13]DX POW Gloves
+
+\string{Ns_Template}
+\code[9,0,4]\code[3,1,0,0,0] x \code[3,0,0,0,1]
+
+\string{E_AItm24}
+\code[9,0,5]\code[1,1]Move Starlow with \color[44,100,255,255]\codepoint[0xE077]\color[55,55,55,255]. Throw at the star with\\
+\color[255,67,67,255]\codepoint[0xE000] if the light is red\color[55,55,55,255], \color[0,187,39,255]\codepoint[0xE001] if it's green\color[55,55,55,255]!\\
+Target: \color[44,100,255,255]One enemy\color[55,55,55,255]. Effect: \color[44,100,255,255]DEF down\color[55,55,55,255].
+
+\string{E_Accessory23}
+\code[9,0,3]The wearer will automatically guard against\\
+enemy attacks.
+
+\string{E_Shell05}
+\code[9,0,3]Doubles DEF when the wearer is badly hurt.
+
+\string{E_Socks08}
+\code[9,0,3]If the wearer gets an Excellent rating in a Bros.\\
+Attack, these socks will recover all BP used.
+
+\string{E_SpecialMame}
+\code[9,0,13]Adds 1 point to\\
+max BP.
+
+\string{E_Wear17}
+\code[9,0,3]Perfect for beginners. Lowers the amount of\\
+damage taken by the wearer.
+
+\string{F_1upKinokodx}
+\code[9,0,12]\color[78,212,255,255]1-Up Deluxes\color[230,230,230,255] full!
+
+\string{N_Boots13}
+\code[9,0,13]Mushroom Boots
+
+\string{N_Glove15}
+\code[9,0,13]Gourmet Gloves
+
+\string{N_Kinoko}
+\code[9,0,13]Mushroom
+
+\string{N_StarCandy}
+\code[9,0,13]Star Candy
+
+\string{Ns_Fung01}
+\code[9,0,13]Power Fangs X
+
+\string{Ns_Glove02}
+\code[9,0,13]Mushroom Gloves
+
+\string{Ns_SuperSyrup}
+\code[9,0,13]Supersyrup Jars
+
+\string{E_Accessory24}
+\code[9,0,3]The wearer will land Critical Hits on enemies\\
+with BURN and DIZZY status effects.
+
+\string{E_Bracelet10}
+\code[9,0,3]Increases the wearer's fury power.
+
+\string{E_Shell06}
+\code[9,0,3]Enrages its wearer and activates the FURY\\
+status effect.
+
+\string{E_Socks09}
+\code[9,0,3]Recover the wearer's BP for all Excellent ratings.
+
+\string{E_Wear18}
+\code[9,0,3]Allows the bros to share the BP cost when\\
+using a Bros. Attack.
+
+\string{F_Accessory25}
+\code[9,0,12]\color[78,212,255,255]Surprisal Scarves\color[230,230,230,255] full!
+
+\string{N_Boots14}
+\code[9,0,13]Farmer Boots
+
+\string{N_Glove16}
+\code[9,0,13]Special Gloves DX
+
+\string{Ns_Fung02}
+\code[9,0,13]Special Fangs
+
+\string{Ns_Glove03}
+\code[9,0,13]Special Gloves
+
+\string{E_Accessory25}
+\code[9,0,3]Increases the power of the wearer's encountering\\
+attack at the start of battle.
+
+\string{E_Bracelet11}
+\code[9,0,3]Recovers some of the wearer's BP after a\\
+successful counterattack.
+
+\string{E_Shell07}
+\code[9,0,3]Increases the power of the wearer's Punch attack.
+
+\string{E_Wear19}
+\code[9,0,3]This robust outfit can block certain types\\
+of enemy attacks completely.
+
+\string{N_Accessory00}
+\code[9,0,13]Happy Charm
+
+\string{N_Boots15}
+\code[9,0,13]Leap Boots
+
+\string{Ns_Fung03}
+\code[9,0,13]Special Fangs X
+
+\string{Ns_Glove04}
+\code[9,0,13]Heavy Gloves
+
+\string{E_Bracelet12}
+\code[9,0,3]Recovers some of the wearer's HP and increases\\
+POW after a successful Vacuum.
+
+\string{E_Shell08}
+\code[9,0,3]Greatly enrages its wearer and activates the FURY\\
+status effect.
+
+\string{N_Accessory01}
+\code[9,0,13]Luck Charm
+
+\string{N_Boots16}
+\code[9,0,13]Greedy Boots
+
+\string{N_SuperSyrup}
+\code[9,0,13]Supersyrup Jar
+
+\string{Ns_1upKinoko}
+\code[9,0,13]1-Up Mushrooms
+
+\string{Ns_Fung04}
+\code[9,0,13]Red-hot Fangs
+
+\string{Ns_Glove05}
+\code[9,0,13]Delicious Gloves
+
+\string{E_Bracelet13}
+\code[9,0,3]Cures all of the wearer's status effects after eating\\
+a Drumstick.
+
+\string{E_Shell09}
+\code[9,0,3]Increases the power of the wearer's Critical\\
+and Lucky Hits.
+
+\string{F_Fung10}
+\code[9,0,12]\color[78,212,255,255]Flashy Fangs\color[230,230,230,255] full!
+
+\string{F_Glove01}
+\code[9,0,12]\color[78,212,255,255]DX POW Gloves\color[230,230,230,255] full!
+
+\string{N_Accessory02}
+\code[9,0,13]Thrift Charm
+
+\string{N_UltraKinoko}
+\code[9,0,13]Ultra Mushroom
+
+\string{Ns_Fung05}
+\code[9,0,13]Burning Fangs
+
+\string{Ns_Glove06}
+\code[9,0,13]Flower Gloves
+
+\string{E_Bracelet14}
+\code[9,0,3]Allows the wearer to occasionally defeat an\\
+enemy with a single Punch attack.
+
+\string{F_Boots00}
+\code[9,0,12]\color[78,212,255,255]POW Boots\color[230,230,230,255] full!
+
+\string{F_DefMame}
+\code[9,0,12]\color[78,212,255,255]Defense Beans\color[230,230,230,255] full!
+
+\string{F_SuperSyrup}
+\code[9,0,12]\color[78,212,255,255]Supersyrup Jars\color[230,230,230,255] full!
+
+\string{F_Wear02}
+\code[9,0,12]\color[78,212,255,255]Leisure Wear\color[230,230,230,255] full!
+
+\string{N_Accessory03}
+\code[9,0,13]Budget Charm
+
+\string{N_Socks10}
+\code[9,0,13]Rugged Socks
+
+\string{Ns_Accessory20}
+\code[9,0,13]Challenge Medals
+
+\string{Ns_Fung06}
+\code[9,0,13]Fury Fangs
+
+\string{Ns_Glove07}
+\code[9,0,13]Bye-Bye Gloves
+
+\string{E_Bracelet15}
+\code[9,0,3]Increases the power of the wearer's encountering\\
+attack at the start of battle.
+
+\string{F_1upKinoko}
+\code[9,0,12]\color[78,212,255,255]1-Up Mushrooms\color[230,230,230,255] full!
+
+\string{F_Fung12}
+\code[9,0,12]\color[78,212,255,255]Double-edged Fangs\color[230,230,230,255] full!
+
+\string{F_Wear03}
+\code[9,0,12]\color[78,212,255,255]Fighter Wear\color[230,230,230,255] full!
+
+\string{N_Accessory04}
+\code[9,0,13]Tight Belt
+
+\string{N_Socks11}
+\code[9,0,13]EXP Socks
+
+\string{Ns_Accessory21}
+\code[9,0,13]Vengeance Patches
+
+\string{Ns_Fung07}
+\code[9,0,13]Bone Fangs
+
+\string{Ns_GhostCookie}
+\code[9,0,13]Boo Biscuits
+
+\string{Ns_Glove08}
+\code[9,0,13]Softener Gloves
+
+\string{F_Wear04}
+\code[9,0,12]\color[78,212,255,255]Heart Wear\color[230,230,230,255] full!
+
+\string{N_Accessory05}
+\code[9,0,13]Advice Patch
+
+\string{N_Socks12}
+\code[9,0,13]No-touch Socks
+
+\string{Ns_Accessory22}
+\code[9,0,13]Speed Stars
+
+\string{Ns_Fung08}
+\code[9,0,13]Intruder Fangs
+
+\string{Ns_Glove09}
+\code[9,0,13]Item Gloves
+
+\string{F_Boots03}
+\code[9,0,12]\color[78,212,255,255]Special Boots\color[230,230,230,255] full!
+
+\string{F_Fung14}
+\code[9,0,12]\color[78,212,255,255]Red-hot Fangs DX\color[230,230,230,255] full!
+
+\string{F_Glove05}
+\code[9,0,12]\color[78,212,255,255]Delicious Gloves\color[230,230,230,255] full!
+
+\string{F_Wear05}
+\code[9,0,12]\color[78,212,255,255]Brawny Wear\color[230,230,230,255] full!
+
+\string{N_Accessory06}
+\code[9,0,13]Luxury Patch
+
+\string{N_Socks13}
+\code[9,0,13]Nurse Socks
+
+\string{N_SuperNut}
+\code[9,0,13]Super Nut
+
+\string{Ns_Accessory23}
+\code[9,0,13]Parry Glasses
+
+\string{Ns_Fung09}
+\code[9,0,13]Block Fangs
+
+\string{Ns_SpecialMame}
+\code[9,0,13]Special Beans
+
+\string{Ns_UltraNut}
+\code[9,0,13]Ultra Nuts
+
+\string{E_Socks20}
+\code[9,0,3]Increase the wearer's POW when his\\
+Badge Meter is filled.
+
+\string{F_Glove06}
+\code[9,0,12]\color[78,212,255,255]Flower Gloves\color[230,230,230,255] full!
+
+\string{N_Accessory07}
+\code[9,0,13]Heroic Patch
+
+\string{N_LuckyMame}
+\code[9,0,13]Flex Bean
+
+\string{N_Socks14}
+\code[9,0,13]Doctor Socks
+
+\string{Ns_Accessory24}
+\code[9,0,13]Sequel Scarves
+
+\string{E_Socks21}
+\code[9,0,3]For the true Mushroom connoisseur. Increases the\\
+wearer's POW for each Mushroom he collects.
+
+\string{E_SpeedMame}
+\code[9,0,13]Adds 1 point to\\
+max SPEED.
+
+\string{F_Glove07}
+\code[9,0,12]\color[78,212,255,255]Bye-Bye Gloves\color[230,230,230,255] full!
+
+\string{N_Accessory08}
+\code[9,0,13]Small Shell
+
+\string{N_Socks15}
+\code[9,0,13]Special Socks
+
+\string{Ns_Accessory25}
+\code[9,0,13]Surprisal Scarves
+
+\string{E_Socks22}
+\code[9,0,3]Help fill the wearer's Badge Meter after\\
+each successful counterattack.
+
+\string{N_Accessory09}
+\code[9,0,13]Big Shell
+
+\string{N_Socks16}
+\code[9,0,13]Surprising Socks
+
+\string{N_Socks17}
+\code[9,0,13]Guardian Socks
+
+\string{Ns_Bracelet00}
+\code[9,0,13]Power Bands
+
+\string{N_Socks18}
+\code[9,0,13]Medical Socks
+
+\string{N_Wear00}
+\code[9,0,13]Thin Wear
+
+\string{Ns_Bracelet01}
+\code[9,0,13]Power Bands +
+
+\string{E_Ring10}
+\code[9,0,3]Makes it more likely for enemies to drop an item.
+
+\string{E_UltraNut}
+\code[9,0,13]Restores 65 HP to\\
+both bros.
+
+\string{F_Boots09}
+\code[9,0,12]\color[78,212,255,255]Blaze Boots\color[230,230,230,255] full!
+
+\string{F_Socks01}
+\code[9,0,12]\color[78,212,255,255]Deluxe HP Socks\color[230,230,230,255] full!
+
+\string{N_Fung10}
+\code[9,0,13]Flashy Fangs
+
+\string{N_Socks19}
+\code[9,0,13]Counter Socks
+
+\string{N_Wear01}
+\code[9,0,13]Picnic Wear
+
+\string{Ns_Bracelet02}
+\code[9,0,13]Minion Bands
+
+\string{Ns_None}
+\code[9,0,13]No Gear
+
+\string{Ns_PowMame}
+\code[9,0,13]Power Beans
+
+\string{E_Glove00}
+\code[9,0,3]Increases the wearer's POW a small amount.
+
+\string{E_Ring11}
+\code[9,0,3]Reduces damage received by the wearer.
+
+\string{F_Nut}
+\code[9,0,12]\color[78,212,255,255]Nuts\color[230,230,230,255] full!
+
+\string{N_Bracelet00}
+\code[9,0,13]Power Band
+
+\string{N_Fung11}
+\code[9,0,13]Gaudy Fangs
+
+\string{N_Wear02}
+\code[9,0,13]Leisure Wear
+
+\string{Ns_Bracelet03}
+\code[9,0,13]Minion Bands SP
+
+\string{Ns_Wear10}
+\code[9,0,13]Muscle Wear
+
+\string{E_Glove01}
+\code[9,0,3]Increase the wearer's POW a good amount.
+
+\string{E_None}
+\code[9,0,3]［とくしゅ効果なし］\\
+
+
+\string{E_Ring12}
+\code[9,0,3]Increases the wearer's DEF a small amount.
+
+\string{F_Ring11}
+\code[9,0,12]\color[78,212,255,255]Safety Rings\color[230,230,230,255] full!
+
+\string{F_Socks03}
+\code[9,0,12]\color[78,212,255,255]DX BP Socks\color[230,230,230,255] full!
+
+\string{N_AItm10}
+\code[9,0,13]Koopa Corps
+
+\string{N_Bracelet01}
+\code[9,0,13]Power Band +
+
+\string{N_Fung12}
+\code[9,0,13]Double-edged Fangs
+
+\string{N_Wear03}
+\code[9,0,13]Fighter Wear
+
+\string{Ns_Bracelet04}
+\code[9,0,13]Iron Fist Bands
+
+\string{Ns_Wear11}
+\code[9,0,13]Master Wear
+
+\string{E_Glove02}
+\code[9,0,3]Automatically feed the wearer a Mushroom if\\
+his HP gets low.
+
+\string{E_Ring13}
+\code[9,0,3]A gift from Broque Monsieur. Increases the\\
+wearer's DEF.
+
+\string{F_Bracelet00}
+\code[9,0,12]\color[78,212,255,255]Power Bands\color[230,230,230,255] full!
+
+\string{F_PiriChicken}
+\code[9,0,12]\color[78,212,255,255]Hot Drumsticks\color[230,230,230,255] full!
+
+\string{F_Ring12}
+\code[9,0,12]\color[78,212,255,255]Hard Rings\color[230,230,230,255] full!
+
+\string{N_Bracelet02}
+\code[9,0,13]Minion Band
+
+\string{N_Fung13}
+\code[9,0,13]Breath Fangs
+
+\string{N_Shell00}
+\code[9,0,13]Royal Shell
+
+\string{N_Wear04}
+\code[9,0,13]Heart Wear
+
+\string{Ns_Bracelet05}
+\code[9,0,13]Vampire Bands
+
+\string{Ns_Wear12}
+\code[9,0,13]King Wear
+
+\string{E_Glove03}
+\code[9,0,3]Increase the power of Bros. Attacks a small amount.
+
+\string{E_PiriChicken}
+\code[9,0,13]Restores 80 HP to\\
+Bowser.
+
+\string{E_Ring14}
+\code[9,0,3]Increases the power of the wearer's counterattacks\\
+by a small amount.
+
+\string{F_Bracelet01}
+\code[9,0,12]\color[78,212,255,255]Power Bands \color[230,230,230,255]+ full!
+
+\string{F_CheeseChicken}
+\code[9,0,12]\color[78,212,255,255]Cheesy Drumsticks\color[230,230,230,255] full!
+
+\string{F_Socks05}
+\code[9,0,12]\color[78,212,255,255]Coin Socks\color[230,230,230,255] full!
+
+\string{N_Bracelet03}
+\code[9,0,13]Minion Band SP
+
+\string{N_Fung14}
+\code[9,0,13]Red-hot Fangs DX
+
+\string{N_Shell01}
+\code[9,0,13]Special Shell
+
+\string{N_Wear05}
+\code[9,0,13]Brawny Wear
+
+\string{Ns_Bracelet06}
+\code[9,0,13]Stamina Bands
+
+\string{Ns_Wear13}
+\code[9,0,13]Star Wear
+
+\string{E_Glove04}
+\code[9,0,3]Increase the wearer's Hammer power.
+
+\string{E_Ring15}
+\code[9,0,3]Increases the power of the wearer's counterattacks\\
+by a good amount.
+
+\string{F_Bracelet02}
+\code[9,0,12]\color[78,212,255,255]Minion Bands\color[230,230,230,255] full!
+
+\string{N_AItm13}
+\code[9,0,13]Jump Helmet
+
+\string{N_Accessory20}
+\code[9,0,13]Challenge Medal
+
+\string{N_Bracelet04}
+\code[9,0,13]Iron Fist Band
+
+\string{N_Fung15}
+\code[9,0,13]Brawl Fangs
+
+\string{N_Shell02}
+\code[9,0,13]Safety Shell
+
+\string{N_Template}
+\code[9,0,4]\code[3,1,0,0,0]
+
+\string{N_Wear06}
+\code[9,0,13]Grown-up Wear
+
+\string{Ns_Bracelet07}
+\code[9,0,13]Hunter Bands
+
+\string{Ns_Wear14}
+\code[9,0,13]D-Star Wear
+
+\string{EFF_Badge_04_06}
+\code[9,0,13]Deals a small amount of damage to all\\
+enemies. Flying enemies take more damage\\
+than others.
+
+\string{E_Glove05}
+\code[9,0,3]Make all consumable items delicious and double\\
+the HP they recover for the wearer during battle.
+
+\string{E_Ring16}
+\code[9,0,3]Increases the power of the wearer's Critical and\\
+Lucky Hits by a small amount.
+
+\string{F_Ring15}
+\code[9,0,12]\color[78,212,255,255]Counter Rings DX\color[230,230,230,255] full!
+
+\string{N_AItm14}
+\code[9,0,13]Super Bouncer
+
+\string{N_Accessory21}
+\code[9,0,13]Vengeance Patch
+
+\string{N_Bracelet05}
+\code[9,0,13]Vampire Band
+
+\string{N_Shell03}
+\code[9,0,13]Judge Shell
+
+\string{N_Wear07}
+\code[9,0,13]Koopa Wear
+
+\string{Ns_Bracelet08}
+\code[9,0,13]Lucky Bands
+
+\string{Ns_Wear15}
+\code[9,0,13]A-OK Wear
+
+\string{EFF_Badge_04_07}
+\code[9,0,13]Deals damage to all enemies and has a\\
+chance of inflicting BURN status. Flying\\
+enemies take more damage than others.
+
+\string{E_Glove06}
+\code[9,0,3]Increase the wearer's Fire Flower power.
+
+\string{E_Ring17}
+\code[9,0,3]Increases the power of the wearer's Critical and\\
+Lucky Hits by a good amount.
+
+\string{N_Accessory22}
+\code[9,0,13]Speed Star
+
+\string{N_Bracelet06}
+\code[9,0,13]Stamina Band
+
+\string{N_Shell04}
+\code[9,0,13]Rock Shell
+
+\string{N_SuperKinoko}
+\code[9,0,13]Super Mushroom
+
+\string{N_Wear08}
+\code[9,0,13]Hero Wear
+
+\string{Ns_Bracelet09}
+\code[9,0,13]Block Bands
+
+\string{Ns_Wear16}
+\code[9,0,13]Excellent Wear
+
+\string{EFF_Badge_04_08}
+\code[9,0,13]Deals damage to all enemies and has\\
+a chance of inflicting DIZZY status.
+
+\string{E_Glove07}
+\code[9,0,3]Allow the wearer to occasionally defeat an enemy\\
+with a single Hammer attack.
+
+\string{E_Kinoko}
+\code[9,0,13]Restores 30 HP for\\
+either Mario or Luigi.
+
+\string{E_Ring18}
+\code[9,0,3]Make all enemies drop rare items when defeated\\
+by the wearer.
+
+\string{F_Ring17}
+\code[9,0,12]\color[78,212,255,255]Lucky Rings DX\color[230,230,230,255] full!
+
+\string{N_AItm16}
+\code[9,0,13]Mighty Meteor
+
+\string{N_Accessory23}
+\code[9,0,13]Parry Glasses
+
+\string{N_Bracelet07}
+\code[9,0,13]Hunter Band
+
+\string{N_Shell05}
+\code[9,0,13]Armored Shell
+
+\string{N_SpecialMame}
+\code[9,0,13]Special Bean
+
+\string{N_Wear09}
+\code[9,0,13]Balm Wear
+
+\string{Ns_Wear17}
+\code[9,0,13]Rookie Wear
+
+\string{EFF_Badge_04_09}
+\code[9,0,13]Deals a good amount of damage to all\\
+enemies and has a chance of inflicting\\
+a random status effect.
+
+\string{E_Glove08}
+\code[9,0,3]Will occasionally lower an enemy's DEF after\\
+the wearer hits it with a Hammer attack.
+
+\string{F_Bracelet06}
+\code[9,0,12]\color[78,212,255,255]Stamina Bands\color[230,230,230,255] full!
+
+\string{N_AItm17}
+\code[9,0,13]Fire Flower
+
+\string{N_Accessory24}
+\code[9,0,13]Sequel Scarf
+
+\string{N_Bracelet08}
+\code[9,0,13]Lucky Band
+
+\string{N_Shell06}
+\code[9,0,13]Rampage Shell
+
+\string{Ns_Wear18}
+\code[9,0,13]Bros. Wear
+
+\string{E_Glove09}
+\code[9,0,3]Will occasionally cause an enemy to drop an item\\
+after the wearer hits it with a Hammer attack.
+
+\string{N_Accessory25}
+\code[9,0,13]Surprisal Scarf
+
+\string{N_Bracelet09}
+\code[9,0,13]Block Band
+
+\string{N_Shell07}
+\code[9,0,13]Dream Shell
+
+\string{Ns_Wear19}
+\code[9,0,13]Barrier Wear
+
+\string{E_BakuChicken}
+\code[9,0,13]Restores 280 HP to\\
+Bowser.
+
+\string{N_AItm19}
+\code[9,0,13]Magic Window
+
+\string{N_None}
+\code[9,0,13]No Gear
+
+\string{N_Ring10}
+\code[9,0,13]Treasure Ring
+
+\string{N_Shell08}
+\code[9,0,13]Wicked Shell
+
+\string{Ns_SpeedMame}
+\code[9,0,13]Speed Beans
+
+\string{N_Ring11}
+\code[9,0,13]Safety Ring
+
+\string{N_Shell09}
+\code[9,0,13]Ironclad Shell
+
+\string{Ns_Boots10}
+\code[9,0,13]Siphon Boots
+
+\string{Ns_PiriChicken}
+\code[9,0,13]Hot Drumsticks
+
+\string{N_Ring12}
+\code[9,0,13]Hard Ring
+
+\string{Ns_Boots11}
+\code[9,0,13]Big Stomp Boots
+
+\string{E_Syrup}
+\code[9,0,13]Restores 15 BP for\\
+either Mario or Luigi.
+
+\string{F_SpeedMame}
+\code[9,0,12]\color[78,212,255,255]Speed Beans\color[230,230,230,255] full!
+
+\string{N_Ring13}
+\code[9,0,13]Block Ring
+
+\string{N_UltraNut}
+\code[9,0,13]Ultra Nut
+
+\string{Ns_Boots12}
+\code[9,0,13]Rookie Boots
+
+\string{Ns_MaxSyrup}
+\code[9,0,13]Max Syrup Jars
+
+\string{F_SuperNut}
+\code[9,0,12]\color[78,212,255,255]Super Nuts\color[230,230,230,255] full!
+
+\string{N_Ring14}
+\code[9,0,13]Counter Ring
+
+\string{Ns_Boots13}
+\code[9,0,13]Mushroom Boots
+
+\string{E_MaxKinoko}
+\code[9,0,13]Restores full HP for\\
+either Mario or Luigi.
+
+\string{F_GhostCookie}
+\code[9,0,12]\color[78,212,255,255]Boo Biscuits\color[230,230,230,255] full!
+
+\string{F_Socks20}
+\code[9,0,12]\color[78,212,255,255]Fill-up Socks\color[230,230,230,255] full!
+
+\string{N_Ring15}
+\code[9,0,13]Counter Ring DX
+
+\string{N_Wear20}
+\code[9,0,13]Medical Wear
+
+\string{Ns_Boots14}
+\code[9,0,13]Farmer Boots
+
+\string{E_GhostCookie}
+\code[9,0,13]Receive no damage from foes for a limited\\
+time. A great way to practice dodging.
+
+\string{E_PowMame}
+\code[9,0,13]Adds 1 point to\\
+max POW.
+
+\string{E_SuperSyrup}
+\code[9,0,13]Restores 35 BP for\\
+either Mario or Luigi.
+
+\string{F_Socks21}
+\code[9,0,12]\color[78,212,255,255]Mushroom Socks\color[230,230,230,255] full!
+
+\string{N_MaxCheese}
+\code[9,0,13]Miracle Cheese
+
+\string{N_Ring16}
+\code[9,0,13]Lucky Ring
+
+\string{N_Wear21}
+\code[9,0,13]Synchronized Wear
+
+\string{Ns_Boots15}
+\code[9,0,13]Leap Boots
+
+\string{Ns_UltraCheese}
+\code[9,0,13]Ultra Cheeses
+
+\string{Ns_UltraSyrup}
+\code[9,0,13]Ultrasyrup Jars
+
+\string{F_Socks22}
+\code[9,0,12]\color[78,212,255,255]Badge Socks\color[230,230,230,255] full!
+
+\string{N_Ring17}
+\code[9,0,13]Lucky Ring DX
+
+\string{Ns_Boots16}
+\code[9,0,13]Greedy Boots
+
+\string{N_Ring18}
+\code[9,0,13]Greedy Ring
+
+\string{Ns_BakuChicken}
+\code[9,0,13]TNT Drumsticks
+
+\string{Ns_Nut}
+\code[9,0,13]Nuts
+
+\string{N_UltraSyrup}
+\code[9,0,13]Ultrasyrup Jar
+
+\string{Ns_Socks10}
+\code[9,0,13]Rugged Socks
+
+\string{E_CheeseChicken}
+\code[9,0,13]Fully restores HP & BP for Bowser.
+
+\string{E_Wear00}
+\code[9,0,3]Light, comfy, and easy to walk in.
+
+\string{Ns_Socks11}
+\code[9,0,13]EXP Socks
+
+\string{E_Fung10}
+\code[9,0,3]No special effect, but these sell for a good price\\
+at the shop.
+
+\string{E_Wear01}
+\code[9,0,3]For bros who like to play outside.\\
+Increases DEF when affected by a\\
+status effect.
+
+\string{F_UltraSyrup}
+\code[9,0,12]\color[78,212,255,255]Ultrasyrup Jars\color[230,230,230,255] full!
+
+\string{Ns_Ring10}
+\code[9,0,13]Treasure Rings
+
+\string{Ns_Socks12}
+\code[9,0,13]No-touch Socks
+
+\string{E_Fung11}
+\code[9,0,3]Reduces the wearer's HP by half, but increases\\
+all other stats for four turns.
+
+\string{E_Wear02}
+\code[9,0,3]Thick jeans that automatically restore\\
+the wearer's HP a small amount.
+
+\string{N_Glove00}
+\code[9,0,13]POW Gloves
+
+\string{Ns_Ring11}
+\code[9,0,13]Safety Rings
+
+\string{Ns_Shell10}
+\code[9,0,13]Lightweight Shells
+
+\string{Ns_Socks13}
+\code[9,0,13]Nurse Socks
+
+\string{E_AItm10}
+\code[9,0,5]\code[1,1]Slide the stylus to move Bowser up\\
+and down and repel the Koopa shells!\\
+Target: \color[44,100,255,255]Random\color[55,55,55,255]. Effect: \color[44,100,255,255]None\color[55,55,55,255].
+
+\string{E_Fung12}
+\code[9,0,3]Makes the wearer more powerful, but can deal\\
+damage back to the wearer for any attack\\
+that receives less than an Excellent rating.
+
+\string{E_Wear03}
+\code[9,0,3]Suitable for anyone with a fighting spirit.\\
+Increases POW when the wearer defeats an enemy.
+
+\string{F_Accessory10}
+\code[9,0,12]\color[78,212,255,255]Counter Scarves\color[230,230,230,255] full!
+
+\string{N_Glove01}
+\code[9,0,13]DX POW Gloves
+
+\string{N_HeartMame}
+\code[9,0,13]Heart Bean
+
+\string{Ns_Ring12}
+\code[9,0,13]Hard Rings
+
+\string{Ns_Shell11}
+\code[9,0,13]King Shells
+
+\string{Ns_Socks14}
+\code[9,0,13]Doctor Socks
+
+\string{E_Accessory10}
+\code[9,0,3]Doubles the damage of the wearer's counterattacks.
+
+\string{E_Fung13}
+\code[9,0,3]Allows the wearer to Vacuum a random bean.
+
+\string{E_Wear04}
+\code[9,0,3]Fashionable jeans with heart design.\\
+Recovers HP when the wearer gets an\\
+Excellent rating.
+
+\string{F_Accessory11}
+\code[9,0,12]\color[78,212,255,255]KO Shells\color[230,230,230,255] full!
+
+\string{N_Boots00}
+\code[9,0,13]POW Boots
+
+\string{N_DefMame}
+\code[9,0,13]Defense Bean
+
+\string{N_Glove02}
+\code[9,0,13]Mushroom Gloves
+
+\string{Ns_Ring13}
+\code[9,0,13]Block Rings
+
+\string{Ns_Shell12}
+\code[9,0,13]Blazing Shells
+
+\string{Ns_Socks15}
+\code[9,0,13]Special Socks
+
+\string{E_Accessory11}
+\code[9,0,3]Blocks enemy attacks when KO is activated.
+
+\string{E_Fung14}
+\code[9,0,3]Increases the power of the wearer's Fire attack\\
+a good amount.
+
+\string{E_StarCandy}
+\code[9,0,13]Fully restores HP & BP for\\
+either Mario or Luigi.
+
+\string{E_SuperCheese}
+\code[9,0,13]Restores 35 BP for Bowser.
+
+\string{E_Wear05}
+\code[9,0,3]Fills up the wearer with the power of denim.\\
+Increases the power of Critical and Lucky Hits.
+
+\string{N_Boots01}
+\code[9,0,13]DX POW Boots
+
+\string{N_Glove03}
+\code[9,0,13]Special Gloves
+
+\string{N_PiriChicken}
+\code[9,0,13]Hot Drumstick
+
+\string{Ns_Ring14}
+\code[9,0,13]Counter Rings
+
+\string{Ns_Shell13}
+\code[9,0,13]Gilt Shells
+
+\string{Ns_Socks16}
+\code[9,0,13]Surprising Socks
+
+\string{E_AItm13}
+\code[9,0,5]\code[1,1]Land on the helmet and jump with \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255]! Dash to the\\
+landing spots by pressing \color[44,100,255,255]left or right on \codepoint[0xE077]\color[55,55,55,255]!\\
+Target: \color[44,100,255,255]One enemy\color[55,55,55,255]. Effect: \color[44,100,255,255]None\color[55,55,55,255].
+
+\string{E_Accessory12}
+\code[9,0,3]Makes it easier for the wearer to fill his Badge\\
+Meter with Excellent ratings.
+
+\string{E_Fung15}
+\code[9,0,3]Increases the power of a wearer's Brawl Attack\\
+at random and reduces BP usage.
+
+\string{E_Wear06}
+\code[9,0,3]This outfit makes the wearer's Badge\\
+Meter fill up more than normal when\\
+getting an Excellent rating.
+
+\string{N_Boots02}
+\code[9,0,13]Tip-Top Boots
+
+\string{N_Glove04}
+\code[9,0,13]Heavy Gloves
+
+\string{Ns_Ring15}
+\code[9,0,13]Counter Rings DX
+
+\string{Ns_Shell14}
+\code[9,0,13]Stamina Shells
+
+\string{Ns_Socks17}
+\code[9,0,13]Guardian Socks
+
+\string{EFF_Badge_03_06}
+\code[9,0,13]Restores \color[44,100,255,255]20\color[230,230,230,255]% of BP for \color[44,100,255,255]both\color[230,230,230,255] bros.
+
+\string{E_AItm14}
+\code[9,0,5]\code[1,1]Launch HIGH with \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255]. Move Luigi to the ball's top \\
+by pressing \color[44,100,255,255]left or right on \codepoint[0xE077]\color[55,55,55,255]. Use \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255] to squash.\\
+Target: \color[44,100,255,255]Random\color[55,55,55,255]. Effect: \color[44,100,255,255]DIZZY\color[55,55,55,255].
+
+\string{E_Accessory13}
+\code[9,0,3]Rumored to have once belonged to a Lakitu King.\\
+Can be sold for a good price.
+
+\string{E_Wear07}
+\code[9,0,3]A cool outfit that also cools off any incoming\\
+attacks by reducing damage to the wearer.
+
+\string{N_Boots03}
+\code[9,0,13]Special Boots
+
+\string{N_Glove05}
+\code[9,0,13]Delicious Gloves
+
+\string{N_Nut}
+\code[9,0,13]Nut
+
+\string{Ns_Ring16}
+\code[9,0,13]Lucky Rings
+
+\string{Ns_Shell15}
+\code[9,0,13]Divine Shells
+
+\string{Ns_Socks18}
+\code[9,0,13]Medical Socks
+
+\string{EFF_Badge_03_07}
+\code[9,0,13]Restores \color[44,100,255,255]40\color[230,230,230,255]% of BP for \color[44,100,255,255]both\color[230,230,230,255] bros.
+
+\string{E_Accessory14}
+\code[9,0,3]Increases DEF when the wearer is badly hurt.
+
+\string{E_Boots10}
+\code[9,0,3]Recover the wearer's HP a small amount when\\
+using a Jump attack.
+
+\string{E_Bracelet00}
+\code[9,0,3]Increases the wearer's POW a small amount.
+
+\string{E_Wear08}
+\code[9,0,3]For the busy hero who can't afford to be KO'd.\\
+The wearer will automatically be revived on the\\
+next turn after being KO'd.
+
+\string{F_Accessory15}
+\code[9,0,12]\color[78,212,255,255]Mushroom Stones\color[230,230,230,255] full!
+
+\string{N_Boots04}
+\code[9,0,13]Heavy Boots
+
+\string{N_Glove06}
+\code[9,0,13]Flower Gloves
+
+\string{Ns_Ring17}
+\code[9,0,13]Lucky Rings DX
+
+\string{Ns_Shell16}
+\code[9,0,13]Command Shells
+
+\string{Ns_Socks19}
+\code[9,0,13]Counter Socks
+
+\string{EFF_Badge_03_08}
+\code[9,0,13]Restores \color[44,100,255,255]60\color[230,230,230,255]% of BP for \color[44,100,255,255]both\color[230,230,230,255] bros.
+
+\string{E_AItm16}
+\code[9,0,5]\code[1,1]Dash by pressing \color[44,100,255,255]left or right on \codepoint[0xE077]\color[55,55,55,255]! Press and hold\\
+\color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255] or \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255] to build power, and release to swing!\\
+Target: \color[44,100,255,255]Random\color[55,55,55,255]. Effect: \color[44,100,255,255]POW down\color[55,55,55,255].
+
+\string{E_Accessory15}
+\code[9,0,3]The more Mushrooms the owner of this stone has,\\
+the greater his odds of getting a Lucky Hit.
+
+\string{E_Boots11}
+\code[9,0,3]Increase the wearer's Jump attack power\\
+at the start of a battle.
+
+\string{E_Bracelet01}
+\code[9,0,3]Increases the wearer's POW a good amount.
+
+\string{E_Wear09}
+\code[9,0,3]So glamorous, it blocks the DIZZY status\\
+effect completely.
+
+\string{F_Accessory16}
+\code[9,0,12]\color[78,212,255,255]POW Mush Jams\color[230,230,230,255] full!
+
+\string{N_Boots05}
+\code[9,0,13]Daredevil Boots
+
+\string{N_Glove07}
+\code[9,0,13]Bye-Bye Gloves
+
+\string{Ns_Kinoko}
+\code[9,0,13]Mushrooms
+
+\string{Ns_Ring18}
+\code[9,0,13]Greedy Rings
+
+\string{Ns_Shell17}
+\code[9,0,13]Golden Shells
+
+\string{EFF_Badge_03_09}
+\code[9,0,13]Restores \color[44,100,255,255]80\color[230,230,230,255]% of BP for \color[44,100,255,255]both\color[230,230,230,255] bros.
+
+\string{E_AItm17}
+\code[9,0,5]\code[1,1]Repeatedly press the button of\\
+whoever's holding the big fireball!\\
+Target: \color[44,100,255,255]Random\color[55,55,55,255]. Effect: \color[44,100,255,255]BURN\color[55,55,55,255].
+
+\string{E_Accessory16}
+\code[9,0,3]Adds zest to a Mushroom and gives whoever uses\\
+it a little extra POW.
+
+\string{E_Boots12}
+\code[9,0,3]Allow the wearer to perform Excellent Jump attacks\\
+without pressing the button.
+
+\string{E_Bracelet02}
+\code[9,0,3]Automatically recovers a small amount of\\
+the wearer's BP.
+
+\string{N_Boots06}
+\code[9,0,13]Shell Boots
+
+\string{N_Glove08}
+\code[9,0,13]Softener Gloves
+
+\string{N_Refleshhb}
+\code[9,0,13]Refreshing Herb
+
+\string{Ns_MaxKinoko}
+\code[9,0,13]Max Mushrooms
+
+\string{E_Accessory17}
+\code[9,0,3]Adds zest to a Mushroom and gives whoever uses\\
+it a little extra DEF.
+
+\string{E_Boots13}
+\code[9,0,3]Occasionally grants the wearer extra Mushrooms\\
+instead of coins at the end of battle.
+
+\string{E_Bracelet03}
+\code[9,0,3]Automatically recovers a good amount of\\
+the wearer's BP.
+
+\string{N_Boots07}
+\code[9,0,13]Dizzy Boots
+
+\string{N_Glove09}
+\code[9,0,13]Item Gloves
+
+\string{E_AItm19}
+\code[9,0,5]\code[1,1]Mario stomps with \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255]; Luigi with \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255].\\
+Both stomp together with \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255] and \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255]!\\
+Target: \color[44,100,255,255]Random\color[55,55,55,255]. Effect: \color[44,100,255,255]DIZZY\color[55,55,55,255].
+
+\string{E_Accessory18}
+\code[9,0,3]Make enemies drop items more frequently.
+
+\string{E_Boots14}
+\code[9,0,3]Force an enemy to drop a random bean when\\
+defeated by the wearer.
+
+\string{E_Bracelet04}
+\code[9,0,3]Increases the power of the wearer's Punch attack.
+
+\string{N_BakuChicken}
+\code[9,0,13]TNT Drumstick
+
+\string{N_Boots08}
+\code[9,0,13]Shroob Boots
+
+\string{N_Socks00}
+\code[9,0,13]HP Socks
+
+\string{Ns_Accessory10}
+\code[9,0,13]Counter Scarves
+
+\string{Ns_GekiChicken}
+\code[9,0,13]Fiery Drumsticks
+
+\string{E_Accessory19}
+\code[9,0,3]Increases POW every time the wearer takes damage.
+
+\string{E_Boots15}
+\code[9,0,3]Allow the wearer to use normal jumps to try to\\
+evade attacks even when carrying a KO'd bro.
+
+\string{E_Bracelet05}
+\code[9,0,3]Recovers the wearer's HP a small amount when\\
+using a Punch attack.
+
+\string{F_Fung02}
+\code[9,0,12]\color[78,212,255,255]Special Fangs\color[230,230,230,255] full!
+
+\string{F_MaxKinoko}
+\code[9,0,12]\color[78,212,255,255]Max Mushrooms\color[230,230,230,255] full!
+
+\string{F_Shell16}
+\code[9,0,12]\color[78,212,255,255]Command Shells\color[230,230,230,255] full!
+
+\string{N_Boots09}
+\code[9,0,13]Blaze Boots
+
+\string{N_MaxSyrup}
+\code[9,0,13]Max Syrup Jar
+
+\string{N_Socks01}
+\code[9,0,13]Deluxe HP Socks
+
+\string{Ns_Accessory11}
+\code[9,0,13]KO Shells
+
+\string{Ns_SuperCheese}
+\code[9,0,13]Super Cheeses
+
+\string{E_Boots16}
+\code[9,0,3]Make all enemies drop rare items when defeated\\
+by the wearer.
+
+\string{E_Bracelet06}
+\code[9,0,3]Increases the wearer's POW after eating\\
+a Drumstick.
+
+\string{E_LuckyMame}
+\code[9,0,13]Adds 1 point to max\\
+STACHE or HORN.
+
+\string{F_Fung03}
+\code[9,0,12]\color[78,212,255,255]Special Fangs X\color[230,230,230,255] full!
+
+\string{F_Shell17}
+\code[9,0,13]きんぴかこうら は いっぱいです！
+
+\string{F_UltraNut}
+\code[9,0,12]\color[78,212,255,255]Ultra Nuts\color[230,230,230,255] full!
+
+\string{N_1upKinoko}
+\code[9,0,13]1-Up Mushroom
+
+\string{N_Socks02}
+\code[9,0,13]BP Socks
+
+\string{Ns_Accessory12}
+\code[9,0,13]EX Badge Rings
+
+\string{E_Bracelet07}
+\code[9,0,3]Increases the wearer's POW after defeating\\
+an enemy.
+
+\string{F_Fung04}
+\code[9,0,12]\color[78,212,255,255]Red-hot Fangs\color[230,230,230,255] full!
+
+\string{N_Socks03}
+\code[9,0,13]DX BP Socks
+
+\string{Ns_Accessory13}
+\code[9,0,13]Gold Crowns
+
+\string{EFF_Badge_01_06}
+\code[9,0,13]POW up \color[44,100,255,255]20\color[230,230,230,255]% for \color[44,100,255,255]three \color[230,230,230,255]turns.
+
+\string{E_Bracelet08}
+\code[9,0,3]A floral band that once belonged to Wiggler.\\
+Increases the wearer's HORN a small amount.
+
+\string{E_Socks10}
+\code[9,0,3]Increase the wearer's DEF.
+
+\string{F_Fung05}
+\code[9,0,12]\color[78,212,255,255]Burning Fangs\color[230,230,230,255] full!
+
+\string{N_Socks04}
+\code[9,0,13]Hustle Socks
+
+\string{Ns_Accessory14}
+\code[9,0,13]Lazy Scarves
+
+\string{EFF_Badge_01_07}
+\code[9,0,13]\color[44,100,255,255]KO\color[230,230,230,255] activated! Your next attack will\\
+be \color[44,100,255,255]three \color[230,230,230,255]times as powerful!
+
+\string{E_Bracelet09}
+\code[9,0,3]A reward for collecting Blitties. Increases the\\
+wearer's DEF a small amount.
+
+\string{E_Refleshhb}
+\code[9,0,13]Cures status effects and has a\\
+calming effect.
+
+\string{E_Socks11}
+\code[9,0,3]Give the wearer double EXP for finishing a\\
+battle without taking damage.
+
+\string{E_Wear20}
+\code[9,0,3]Relieves any and all of the wearer's status\\
+effect in a single turn.
+
+\string{F_Fung06}
+\code[9,0,12]\color[78,212,255,255]Fury Fangs\color[230,230,230,255] full!
+
+\string{F_PowMame}
+\code[9,0,12]\color[78,212,255,255]Power Beans\color[230,230,230,255] full!
+
+\string{N_Socks05}
+\code[9,0,13]Coin Socks
+
+\string{Ns_Accessory15}
+\code[9,0,13]Mushroom Stones
+
+\string{EFF_Badge_01_08}
+\code[9,0,13]POW up \color[44,100,255,255]30\color[230,230,230,255]% for \color[44,100,255,255]four \color[230,230,230,255]turns.
+
+\string{E_Socks12}
+\code[9,0,3]Completely protect the wearer from\\
+all status effects.
+
+\string{E_Wear21}
+\code[9,0,3]Grants the wearer a good deal more badge power\\
+from a successful Bros. Attack.
+
+\string{N_CheeseChicken}
+\code[9,0,13]Cheesy Drumstick
+
+\string{N_GhostCookie}
+\code[9,0,13]Boo Biscuit
+
+\string{N_Socks06}
+\code[9,0,13]Starched Socks
+
+\string{N_Syrup}
+\code[9,0,13]Syrup Jar
+
+\string{Ns_Accessory16}
+\code[9,0,13]POW Mush Jams
+
+\string{EFF_Badge_01_09}
+\code[9,0,13]\color[44,100,255,255]KO\color[230,230,230,255] activated! Your next attack will\\
+be \color[44,100,255,255]six \color[230,230,230,255]times as powerful!
+
+\string{E_Shell10}
+\code[9,0,3]Increases the wearer's SPEED a small amount.
+
+\string{E_Socks13}
+\code[9,0,3]Recover a small amount of the wearer's HP.
+
+\string{N_Socks07}
+\code[9,0,13]Gumption Socks
+
+\string{Ns_Accessory17}
+\code[9,0,13]DEF Mush Jams
+
+\string{E_Shell11}
+\code[9,0,3]Increases the wearer's HORN.
+
+\string{E_Socks14}
+\code[9,0,3]Recover a good amount of the wearer's HP.
+
+\string{F_UltraCheese}
+\code[9,0,12]\color[78,212,255,255]Ultra Cheeses\color[230,230,230,255] full!
+
+\string{N_Socks08}
+\code[9,0,13]Bro Socks
+
+\string{Ns_Accessory18}
+\code[9,0,13]Treasure Specs
+
+\string{Ns_StarCandy}
+\code[9,0,13]Star Candies
+
+\string{E_Ring00}
+\code[9,0,3]Reduces the amount of BP required for the wearer\\
+to perform a random Brawl Attack by a good amount.
+
+\string{E_Shell12}
+\code[9,0,3]Afflicts an enemy with BURN when the wearer\\
+performs a successful counterattack.
+
+\string{E_Socks15}
+\code[9,0,3]Recover a good amount of the wearer's BP.
+
+\string{E_UltraCheese}
+\code[9,0,13]Restores 60 BP for Bowser.
+
+\string{N_Fung00}
+\code[9,0,13]Power Fangs
+
+\string{N_Socks09}
+\code[9,0,13]Excellent Socks
+
+\string{Ns_Accessory19}
+\code[9,0,13]Vengeance Scarves
+
+\string{E_Ring01}
+\code[9,0,3]Reduces the amount of BP required for the wearer\\
+to perform a Brawl Attack by a small amount.
+
+\string{E_Shell13}
+\code[9,0,3]Heals any of the wearer's status effects in one turn.
+
+\string{E_Socks16}
+\code[9,0,3]Recover a small amount of the wearer's BP.
+
+\string{F_BakuChicken}
+\code[9,0,12]\color[78,212,255,255]TNT Drumsticks\color[230,230,230,255] full!
+
+\string{F_Ring00}
+\code[9,0,12]\color[78,212,255,255]Cheap Rings\color[230,230,230,255] full!
+
+\string{N_Fung01}
+\code[9,0,13]Power Fangs X
+
+\string{Ns_Glove10}
+\code[9,0,13]Siphon Gloves
+
+\string{Ns_Wear00}
+\code[9,0,13]Thin Wear
+
+\string{E_Badge00}
+\code[9,0,13]Harnesses the meter's power to\\
+restore your HP.
+
+\string{E_Ring02}
+\code[9,0,3]Increases both the power and BP cost for the wearer\\
+to perform a Brawl Attack by a good amount.
+
+\string{E_Shell14}
+\code[9,0,3]Increases the wearer's HP under normal conditions,\\
+and DEF when badly hurt.
+
+\string{E_Socks17}
+\code[9,0,3]Recover a small amount of the wearer's HP and BP.
+
+\string{F_StarCandy}
+\code[9,0,12]\color[78,212,255,255]Star Candies\color[230,230,230,255] full!
+
+\string{N_Fung02}
+\code[9,0,13]Special Fangs
+
+\string{Ns_Fung10}
+\code[9,0,13]Flashy Fangs
+
+\string{Ns_Glove11}
+\code[9,0,13]Dent Gloves
+
+\string{Ns_Wear01}
+\code[9,0,13]Picnic Wear
+
+\string{E_Badge01}
+\code[9,0,13]Harnesses the meter's power to\\
+make your attack power go up.
+
+\string{E_Ring03}
+\code[9,0,3]Allows the wearer to use two Drumsticks\\
+at the same time.
+
+\string{E_Shell15}
+\code[9,0,3]Automatically recovers the wearer's HP and BP.
+
+\string{E_Socks18}
+\code[9,0,3]Grant the wearer a Mushroom or Refreshing Herb\\
+at the beginning of his turn.
+
+\string{N_Fung03}
+\code[9,0,13]Special Fangs X
+
+\string{Ns_Fung11}
+\code[9,0,13]Gaudy Fangs
+
+\string{Ns_Glove12}
+\code[9,0,13]Siphon Gloves DX
+
+\string{Ns_Wear02}
+\code[9,0,13]Leisure Wear
+
+\string{E_Badge02}
+\code[9,0,13]Harnesses the meter's power to\\
+earn you extra bonus coins.
+
+\string{E_Ring04}
+\code[9,0,3]Recover the wearer's BP for all Excellent ratings.
+
+\string{E_Shell16}
+\code[9,0,3]Increases the power of a random Brawl Attack\\
+and reduces BP usage.
+
+\string{E_Socks19}
+\code[9,0,3]Recover the wearer's BP after each successful\\
+counterattack.
+
+\string{N_Fung04}
+\code[9,0,13]Red-hot Fangs
+
+\string{Ns_Fung12}
+\code[9,0,13]Double-edged Fangs
+
+\string{Ns_Glove13}
+\code[9,0,13]Excellent Gloves
+
+\string{Ns_Wear03}
+\code[9,0,13]Fighter Wear
+
+\string{E_Badge03}
+\code[9,0,13]Harnesses the meter's power to\\
+restore your BP.
+
+\string{E_Ring05}
+\code[9,0,3]Automatically feed the wearer a Drumstick if\\
+his HP gets low.
+
+\string{E_Shell17}
+\code[9,0,3]A shiny golden trophy given to those who have\\
+cleared the Gauntlet.
+
+\string{N_AItm03}
+\code[9,0,13]Spin Pipe
+
+\string{N_Accessory10}
+\code[9,0,13]Counter Scarf
+
+\string{N_Fung05}
+\code[9,0,13]Burning Fangs
+
+\string{Ns_Fung13}
+\code[9,0,13]Breath Fangs
+
+\string{Ns_Glove14}
+\code[9,0,13]Sharing Gloves
+
+\string{Ns_Wear04}
+\code[9,0,13]Heart Wear
+
+\string{E_Badge04}
+\code[9,0,13]Harnesses your meter's power to\\
+damage your enemies.
+
+\string{E_Ring06}
+\code[9,0,3]Automatically recovers the wearer's HP\\
+a small amount.
+
+\string{F_Glove10}
+\code[9,0,12]\color[78,212,255,255]Siphon Gloves\color[230,230,230,255] full!
+
+\string{F_Ring05}
+\code[9,0,12]\color[78,212,255,255]Drumstick Rings\color[230,230,230,255] full!
+
+\string{F_Wear10}
+\code[9,0,12]\color[78,212,255,255]Muscle Wear\color[230,230,230,255] full!
+
+\string{N_AItm04}
+\code[9,0,13]Yoo Who Cannon
+
+\string{N_Accessory11}
+\code[9,0,13]KO Shell
+
+\string{N_Fung06}
+\code[9,0,13]Fury Fangs
+
+\string{N_SuperCheese}
+\code[9,0,13]Super Cheese
+
+\string{Ns_Fung14}
+\code[9,0,13]Red-hot Fangs DX
+
+\string{Ns_Glove15}
+\code[9,0,13]Gourmet Gloves
+
+\string{Ns_Wear05}
+\code[9,0,13]Brawny Wear
+
+\string{E_Badge05}
+\code[9,0,13]Harnesses the meter's power to\\
+block enemy attacks.
+
+\string{E_Cheese}
+\code[9,0,13]Restores 15 BP for Bowser.
+
+\string{E_Ring07}
+\code[9,0,3]Automatically recovers the wearer's BP\\
+a small amount.
+
+\string{F_Wear11}
+\code[9,0,12]\color[78,212,255,255]Master Wear\color[230,230,230,255] full!
+
+\string{N_AItm05}
+\code[9,0,13]Bob-omb Blitz
+
+\string{N_Accessory12}
+\code[9,0,13]EX Badge Ring
+
+\string{N_Fung07}
+\code[9,0,13]Bone Fangs
+
+\string{Ns_Fung15}
+\code[9,0,13]Brawl Fangs
+
+\string{Ns_Glove16}
+\code[9,0,13]Special Gloves DX
+
+\string{Ns_Wear06}
+\code[9,0,13]Grown-up Wear
+
+\string{E_Badge06}
+\code[9,0,13]For the beginner with a long way to go.
+
+\string{E_MaxNut}
+\code[9,0,13]Restores full HP to\\
+both bros.
+
+\string{E_Ring08}
+\code[9,0,3]Automatically recovers the wearer's HP and BP.
+
+\string{F_Cheese}
+\code[9,0,12]\color[78,212,255,255]Cheeses\color[230,230,230,255] full!
+
+\string{F_Wear12}
+\code[9,0,12]\color[78,212,255,255]King Wear\color[230,230,230,255] full!
+
+\string{N_AItm06}
+\code[9,0,13]Goomba Storm
+
+\string{N_Accessory13}
+\code[9,0,13]Gold Crown
+
+\string{N_Fung08}
+\code[9,0,13]Intruder Fangs
+
+\string{N_Socks20}
+\code[9,0,13]Fill-up Socks
+
+\string{Ns_LuckyMame}
+\code[9,0,13]Flex Beans
+
+\string{Ns_Wear07}
+\code[9,0,13]Koopa Wear
+
+\string{E_Badge07}
+\code[9,0,13]For the battle-hardened professional.
+
+\string{E_Ring09}
+\code[9,0,3]Increases the number of coins the wearer will\\
+get for defeating a small enemy in the field.
+
+\string{F_Boots11}
+\code[9,0,12]\color[78,212,255,255]Big Stomp Boots\color[230,230,230,255] full!
+
+\string{F_MaxNut}
+\code[9,0,12]\color[78,212,255,255]Max Nuts\color[230,230,230,255] full!
+
+\string{F_Ring08}
+\code[9,0,12]\color[78,212,255,255]Restore Rings\color[230,230,230,255] full!
+
+\string{F_Wear13}
+\code[9,0,12]\color[78,212,255,255]Star Wear\color[230,230,230,255] full!
+
+\string{N_AItm07}
+\code[9,0,13]Shy Guy Squad
+
+\string{N_Accessory14}
+\code[9,0,13]Lazy Scarf
+
+\string{N_Fung09}
+\code[9,0,13]Block Fangs
+
+\string{N_Socks21}
+\code[9,0,13]Mushroom Socks
+
+\string{Ns_Wear08}
+\code[9,0,13]Hero Wear
+
+\string{EFF_Badge_05_06}
+\code[9,0,13]Reduces damage received from enemy\\
+attacks to \color[44,100,255,255]50\color[230,230,230,255]% for \color[44,100,255,255]two \color[230,230,230,255]turns.
+
+\string{E_Badge08}
+\code[9,0,13]For a true master of battles.
+
+\string{F_Boots12}
+\code[9,0,12]\color[78,212,255,255]Rookie Boots\color[230,230,230,255] full!
+
+\string{N_AItm08}
+\code[9,0,13]Green Shell
+
+\string{N_Accessory15}
+\code[9,0,13]Mushroom Stone
+
+\string{N_Socks22}
+\code[9,0,13]Badge Socks
+
+\string{Ns_Wear09}
+\code[9,0,13]Balm Wear
+
+\string{EFF_Badge_05_07}
+\code[9,0,13]Reduces damage received from enemy\\
+attacks to \color[44,100,255,255]70\color[230,230,230,255]% for \color[44,100,255,255]four \color[230,230,230,255]turns.
+
+\string{E_Badge09}
+\code[9,0,13]For the expert with a great deal of\\
+battle experience.
+
+\string{E_MaxSyrup}
+\code[9,0,13]Restores full BP for\\
+either Mario or Luigi.
+
+\string{E_SuperKinoko}
+\code[9,0,13]Restores 50 HP for\\
+either Mario or Luigi.
+
+\string{F_Boots13}
+\code[9,0,12]\color[78,212,255,255]Mushroom Boots\color[230,230,230,255] full!
+
+\string{F_Glove15}
+\code[9,0,12]\color[78,212,255,255]Gourmet Gloves\color[230,230,230,255] full!
+
+\string{F_LuckyMame}
+\code[9,0,12]\color[78,212,255,255]Flex Beans\color[230,230,230,255] full!
+
+\string{N_Accessory16}
+\code[9,0,13]POW Mush Jam
+
+\string{N_Ring00}
+\code[9,0,13]Cheap Ring
+
+\string{Ns_Refleshhb}
+\code[9,0,13]Refreshing Herbs
+
+\string{EFF_Badge_05_08}
+\code[9,0,13]Blocks an enemy attack with a barrier\\
+\color[44,100,255,255]five\color[230,230,230,255] times.
+
+\string{F_Boots14}
+\code[9,0,12]\color[78,212,255,255]Farmer Boots\color[230,230,230,255] full!
+
+\string{N_Accessory17}
+\code[9,0,13]DEF Mush Jam
+
+\string{N_Ring01}
+\code[9,0,13]Economy Ring
+
+\string{Ns_Boots00}
+\code[9,0,13]POW Boots
+
+\string{Ns_DefMame}
+\code[9,0,13]Defense Beans
+
+\string{EFF_Badge_05_09}
+\code[9,0,13]Prevents being KO'd regardless of how\\
+much HP you lose and blocks all \color[44,100,255,255]status\\
+effects \color[230,230,230,255]for \color[44,100,255,255]three\color[230,230,230,255] turns.
+
+\string{E_1upKinokodx}
+\code[9,0,13]Revives a fallen bro with full HP.
+
+\string{F_MaxSyrup}
+\code[9,0,12]\color[78,212,255,255]Max Syrup Jars\color[230,230,230,255] full!
+
+\string{N_Accessory18}
+\code[9,0,13]Treasure Specs
+
+\string{N_Ring02}
+\code[9,0,13]Heroic Ring
+
+\string{Ns_Boots01}
+\code[9,0,13]DX POW Boots
+
+\string{F_Boots16}
+\code[9,0,12]\color[78,212,255,255]Greedy Boots\color[230,230,230,255] full!
+
+\string{F_Refleshhb}
+\code[9,0,12]\color[78,212,255,255]Refreshing Herbs\color[230,230,230,255] full!
+
+\string{N_Accessory19}
+\code[9,0,13]Vengeance Scarf
+
+\string{N_Ring03}
+\code[9,0,13]Glutton Ring
+
+\string{Ns_Boots02}
+\code[9,0,13]Tip-Top Boots
+
+\string{E_MaxCheese}
+\code[9,0,13]Restores full BP for Bowser.
+
+\string{F_GekiChicken}
+\code[9,0,12]\color[78,212,255,255]Fiery Drumsticks\color[230,230,230,255] full!
+
+\string{N_Ring04}
+\code[9,0,13]Excellent Ring
+
+\string{N_SpeedMame}
+\code[9,0,13]Speed Bean
+
+\string{Ns_Boots03}
+\code[9,0,13]Special Boots
+
+\string{Ns_Bracelet10}
+\code[9,0,13]Fury Bands
+
+\string{E_GekiChicken}
+\code[9,0,13]Restores 150 HP to\\
+Bowser.
+
+\string{F_Socks10}
+\code[9,0,12]\color[78,212,255,255]Rugged Socks\color[230,230,230,255] full!
+
+\string{F_SuperCheese}
+\code[9,0,12]\color[78,212,255,255]Super Cheeses\color[230,230,230,255] full!
+
+\string{F_Syrup}
+\code[9,0,12]\color[78,212,255,255]Syrup Jars\color[230,230,230,255] full!
+
+\string{N_Ring05}
+\code[9,0,13]Drumstick Ring
+
+\string{N_Wear10}
+\code[9,0,13]Muscle Wear
+
+\string{Ns_Boots04}
+\code[9,0,13]Heavy Boots
+
+\string{Ns_Bracelet11}
+\code[9,0,13]Counter Bands
+
+\string{EFF_Badge_00_06}
+\code[9,0,13]Restores \color[44,100,255,255]20\color[230,230,230,255]% of HP for both bros.
+
+\string{F_Socks11}
+\code[9,0,12]\color[78,212,255,255]EXP Socks\color[230,230,230,255] full!
+
+\string{N_Ring06}
+\code[9,0,13]Peace Ring
+
+\string{N_Wear11}
+\code[9,0,13]Master Wear
+
+\string{Ns_Boots05}
+\code[9,0,13]Daredevil Boots
+
+\string{Ns_Bracelet12}
+\code[9,0,13]Breath Bands
+
+\string{EFF_Badge_00_07}
+\code[9,0,13]Restores \color[44,100,255,255]20\color[230,230,230,255]% of HP for both bros.\\
+Cures any \color[44,100,255,255]status effects\color[230,230,230,255].
+
+\string{E_Glove10}
+\code[9,0,3]Recover the wearer's BP a small amount when\\
+using a Hammer attack.
+
+\string{N_Bracelet10}
+\code[9,0,13]Fury Band
+
+\string{N_Cheese}
+\code[9,0,13]Cheese
+
+\string{N_Ring07}
+\code[9,0,13]Fill-up Ring
+
+\string{N_Wear12}
+\code[9,0,13]King Wear
+
+\string{Ns_Boots06}
+\code[9,0,13]Shell Boots
+
+\string{Ns_Bracelet13}
+\code[9,0,13]Gourmet Bands
+
+\string{Ns_Wear20}
+\code[9,0,13]Medical Wear
+
+\string{EFF_Badge_00_08}
+\code[9,0,13]Restores \color[44,100,255,255]70\color[230,230,230,255]% of HP for both bros.\\
+Cures any \color[44,100,255,255]status effects \color[230,230,230,255]and revives\\
+\color[44,100,255,255]KO'd\color[230,230,230,255] bros.
+
+\string{E_Glove11}
+\code[9,0,3]Allows the wearer to occasionally defeat an enemy\\
+with one Hammer attack at the start of battle.
+
+\string{N_AItm20}
+\code[9,0,13]Magikoopa Mob
+
+\string{N_Bracelet11}
+\code[9,0,13]Counter Band
+
+\string{N_MaxNut}
+\code[9,0,13]Max Nut
+
+\string{N_Ring08}
+\code[9,0,13]Restore Ring
+
+\string{N_Wear13}
+\code[9,0,13]Star Wear
+
+\string{Ns_Boots07}
+\code[9,0,13]Dizzy Boots
+
+\string{Ns_Bracelet14}
+\code[9,0,13]KO Bands
+
+\string{Ns_SuperKinoko}
+\code[9,0,13]Super Mushrooms
+
+\string{Ns_Wear21}
+\code[9,0,13]Synchronized Wear
+
+\string{EFF_Badge_00_09}
+\code[9,0,13]Restores \color[44,100,255,255]100\color[230,230,230,255]% of HP for both bros, even\\
+when \color[44,100,255,255]KO'd\color[230,230,230,255]. Cures any \color[44,100,255,255]status effects\color[230,230,230,255].
+
+\string{E_Glove12}
+\code[9,0,3]Recover the wearer's BP a good amount when\\
+using a Hammer attack.
+
+\string{N_AItm21}
+\code[9,0,13]Snack Basket
+
+\string{N_Bracelet12}
+\code[9,0,13]Breath Band
+
+\string{N_Ring09}
+\code[9,0,13]Fast Cash Ring
+
+\string{N_Shell10}
+\code[9,0,13]Lightweight Shell
+
+\string{N_Wear14}
+\code[9,0,13]D-Star Wear
+
+\string{Ns_Boots08}
+\code[9,0,13]Shroob Boots
+
+\string{Ns_Bracelet15}
+\code[9,0,13]Shocking Bands
+
+\string{Ns_Socks00}
+\code[9,0,13]HP Socks
+
+\string{E_Glove13}
+\code[9,0,3]Increase the wearer's Badge Meter faster\\
+after an Excellent rating.
+
+\string{N_Bracelet13}
+\code[9,0,13]Gourmet Band
+
+\string{N_Shell11}
+\code[9,0,13]King Shell
+
+\string{N_Wear15}
+\code[9,0,13]A-OK Wear
+
+\string{Ns_1upKinokodx}
+\code[9,0,13]1-Up Deluxes
+
+\string{Ns_Boots09}
+\code[9,0,13]Blaze Boots
+
+\string{Ns_Socks01}
+\code[9,0,13]Deluxe HP Socks
+
+\string{E_Fung00}
+\code[9,0,3]Increase the wearer's POW a small amount.
+
+\string{E_Glove14}
+\code[9,0,3]Allow the brothers to share the BP cost\\
+for each Bros. Attack.
+
+\string{E_HeartMame}
+\code[9,0,13]Adds 1 point to\\
+max HP.
+
+\string{F_Bracelet12}
+\code[9,0,12]\color[78,212,255,255]Breath Bands\color[230,230,230,255] full!
+
+\string{F_Socks16}
+\code[9,0,12]\color[78,212,255,255]Surprising Socks\color[230,230,230,255] full!
+
+\string{N_AItm23}
+\code[9,0,13]Broggy Bonker
+
+\string{N_Bracelet14}
+\code[9,0,13]KO Band
+
+\string{N_Shell12}
+\code[9,0,13]Blazing Shell
+
+\string{N_UltraCheese}
+\code[9,0,13]Ultra Cheese
+
+\string{N_Wear16}
+\code[9,0,13]Excellent Wear
+
+\string{Ns_Ring00}
+\code[9,0,13]Cheap Rings
+
+\string{Ns_Socks02}
+\code[9,0,13]BP Socks
+
+\string{E_Fung01}
+\code[9,0,3]Increase the wearer's POW a good amount.
+
+\string{E_Glove15}
+\code[9,0,3]Cure any status effect when the wearer uses\\
+a Mushroom.
+
+\string{F_Socks17}
+\code[9,0,12]\color[78,212,255,255]Guardian Socks\color[230,230,230,255] full!
+
+\string{N_AItm24}
+\code[9,0,13]Falling Star
+
+\string{N_Bracelet15}
+\code[9,0,13]Shocking Band
+
+\string{N_Shell13}
+\code[9,0,13]Gilt Shell
+
+\string{N_Wear17}
+\code[9,0,13]Rookie Wear
+
+\string{Ns_Ring01}
+\code[9,0,13]Economy Rings
+
+\string{Ns_Shell00}
+\code[9,0,13]Royal Shells
+
+\string{Ns_Socks03}
+\code[9,0,13]DX BP Socks
+
+\string{E_Fung02}
+\code[9,0,3]Increase the wearer's BP a small amount.
+
+\string{E_Glove16}
+\code[9,0,3]Increase the wearer's Bros. Attack power.
+
+\string{F_Bracelet14}
+\code[9,0,12]\color[78,212,255,255]KO Bands\color[230,230,230,255] full!
+
+\string{N_Badge00}
+\code[9,0,13]Mushroom Badge
+
+\string{N_Shell14}
+\code[9,0,13]Stamina Shell
+
+\string{N_Wear18}
+\code[9,0,13]Bros. Wear
+
+\string{Ns_Ring02}
+\code[9,0,13]Heroic Rings
+
+\string{Ns_Shell01}
+\code[9,0,13]Special Shells
+
+\string{Ns_Socks04}
+\code[9,0,13]Hustle Socks
+
+\string{E_Accessory00}
+\code[9,0,3]Increases the wearer's STACHE a small amount.
+
+\string{E_Fung03}
+\code[9,0,3]Increase the wearer's BP a good amount.
+
+\string{F_Bracelet15}
+\code[9,0,12]\color[78,212,255,255]Shocking Bands\color[230,230,230,255] full!
+
+\string{N_Badge01}
+\code[9,0,13]Powerful Badge
+
+\string{N_Shell15}
+\code[9,0,13]Divine Shell
+
+\string{N_Wear19}
+\code[9,0,13]Barrier Wear
+
+\string{Ns_Ring03}
+\code[9,0,13]Glutton Rings
+
+\string{Ns_Shell02}
+\code[9,0,13]Safety Shells
+
+\string{Ns_Socks05}
+\code[9,0,13]Coin Socks
+
+\string{E_Accessory01}
+\code[9,0,3]Increases the wearer's STACHE a good amount.
+
+\string{E_Fung04}
+\code[9,0,3]Increase the power of the wearer's Fire attack.
+
+\string{F_Accessory02}
+\code[9,0,12]\color[78,212,255,255]Thrift Charms\color[230,230,230,255] full!
+
+\string{F_UltraKinoko}
+\code[9,0,12]\color[78,212,255,255]Ultra Mushrooms\color[230,230,230,255] full!
+
+\string{N_Badge02}
+\code[9,0,13]Bonus Badge
+
+\string{N_Shell16}
+\code[9,0,13]Command Shell
+
+\string{Ns_Ring04}
+\code[9,0,13]Excellent Rings
+
+\string{Ns_Shell03}
+\code[9,0,13]Judge Shells
+
+\string{Ns_Socks06}
+\code[9,0,13]Starched Socks
+
+\string{E_AItm03}
+\code[9,0,5]\code[1,1]Memorize how the bros stack up!\\
+Mario stomps with \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255]; Luigi with \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255]!\\
+Target: \color[44,100,255,255]One enemy\color[55,55,55,255]. Effect: \color[44,100,255,255]DIZZY\color[55,55,55,255].
+
+\string{E_Accessory02}
+\code[9,0,3]Greatly reduce the amount of BP required for the\\
+wearer to perform a random Bros. Attack.
+
+\string{E_Fung05}
+\code[9,0,3]Makes it more likely for enemies to be affected\\
+with BURN by the wearer's Fire attacks.
+
+\string{E_Nut}
+\code[9,0,13]Restores 20 HP to\\
+both bros.
+
+\string{E_UltraKinoko}
+\code[9,0,13]Restores 100 HP for\\
+either Mario or Luigi.
+
+\string{F_Accessory03}
+\code[9,0,12]\color[78,212,255,255]Budget Charms\color[230,230,230,255] full!
+
+\string{N_Badge03}
+\code[9,0,13]Bro Badge
+
+\string{N_Shell17}
+\code[9,0,13]Golden Shell
+
+\string{Ns_Ring05}
+\code[9,0,13]Drumstick Rings
+
+\string{Ns_Shell04}
+\code[9,0,13]Rock Shells
+
+\string{Ns_Socks07}
+\code[9,0,13]Gumption Socks
+
+\string{E_AItm04}
+\code[9,0,5]\code[1,1]Remember which barrels the bros are in!\\
+\color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255] launches Mario; \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255] launches Luigi!\\
+Target: \color[44,100,255,255]Random\color[55,55,55,255]. Effect: \color[44,100,255,255]None\color[55,55,55,255].
+
+\string{E_Accessory03}
+\code[9,0,3]Reduces the BP required for the wearer to\\
+perform a Bros. Attack by a small amount.
+
+\string{E_Fung06}
+\code[9,0,3]Make the wearer irritable and easily enraged,\\
+activating the FURY status effect.
+
+\string{N_Badge04}
+\code[9,0,13]Miracle Badge
+
+\string{Ns_Ring06}
+\code[9,0,13]Peace Rings
+
+\string{Ns_Shell05}
+\code[9,0,13]Armored Shells
+
+\string{Ns_Socks08}
+\code[9,0,13]Bro Socks
+
+\string{E_AItm05}
+\code[9,0,5]\code[1,1]Slide the Bob-ombs into place fast!\\
+Line up with your foe and charge!\\
+Target: \color[44,100,255,255]Adjustable\color[55,55,55,255]. Effect: \color[44,100,255,255]DIZZY\color[55,55,55,255].
+
+\string{E_Accessory04}
+\code[9,0,3]Reduces the BP required for the wearer to\\
+perform a Bros. Attack by a good amount.
+
+\string{E_Boots00}
+\code[9,0,3]Increase the wearer's POW a small amount.
+
+\string{E_DefMame}
+\code[9,0,13]Adds 1 point to\\
+max DEF.
+
+\string{E_Fung07}
+\code[9,0,3]Increase the wearer's DEF after eating a Drumstick.
+
+\string{N_Badge05}
+\code[9,0,13]Shield Badge
+
+\string{Ns_Cheese}
+\code[9,0,13]Cheeses
+
+\string{Ns_Ring07}
+\code[9,0,13]Fill-up Rings
+
+\string{Ns_Shell06}
+\code[9,0,13]Rampage Shells
+
+\string{Ns_Socks09}
+\code[9,0,13]Excellent Socks
+
+\string{E_AItm06}
+\code[9,0,5]\code[1,1]Touch each Goomba to fire him up!\\
+Flaming Goombas cause more damage!\\
+Target: \color[44,100,255,255]One enemy\color[55,55,55,255]. Effect: \color[44,100,255,255]BURN\color[55,55,55,255].
+
+\string{E_Accessory05}
+\code[9,0,3]Increases the power of a wearer's Bros. Attack\\
+at random and reduces BP usage.
+
+\string{E_Boots01}
+\code[9,0,3]Increase the wearer's POW a good amount.
+
+\string{E_Fung08}
+\code[9,0,3]Allows the wearer to take two actions in a\\
+single turn.
+
+\string{F_Accessory06}
+\code[9,0,12]\color[78,212,255,255]Luxury Patches\color[230,230,230,255] full!
+
+\string{N_Badge06}
+\code[9,0,13]Beginner Badge
+
+\string{N_PowMame}
+\code[9,0,13]Power Bean
+
+\string{Ns_MaxCheese}
+\code[9,0,13]Miracle Cheeses
+
+\string{Ns_MaxNut}
+\code[9,0,13]Max Nuts
+
+\string{Ns_Ring08}
+\code[9,0,13]Restore Rings
+
+\string{Ns_Shell07}
+\code[9,0,13]Dream Shells
+
+\string{E_AItm07}
+\code[9,0,5]\code[1,1]←Quickly slide the stylus repeatedly left.\\
+Roll Bowser far back for more damage!\\
+Target: \color[44,100,255,255]One enemy\color[55,55,55,255]. Effect: \color[44,100,255,255]None\color[55,55,55,255].
+
+\string{E_Accessory06}
+\code[9,0,3]Increases both the power and BP required for the\\
+wearer to perform a Bros. Attack by a small amount.
+
+\string{E_Boots02}
+\code[9,0,3]Increase the wearer's POW when HP is full.
+
+\string{E_Fung09}
+\code[9,0,3]A gift from Broque Monsieur. Increase the\\
+wearer's DEF.
+
+\string{F_Accessory07}
+\code[9,0,12]\color[78,212,255,255]Heroic Patches\color[230,230,230,255] full!
+
+\string{F_Shell03}
+\code[9,0,12]\color[78,212,255,255]Judge Shells\color[230,230,230,255] full!
+
+\string{N_Badge07}
+\code[9,0,13]Pro Badge
+
+\string{Ns_Ring09}
+\code[9,0,13]Fast Cash Rings
+
+\string{Ns_Shell08}
+\code[9,0,13]Wicked Shells
+
+\string{E_AItm08}
+\code[9,0,5]\code[1,1]Mario kicks with \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255]; Luigi with \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255]!\\
+Keep on kicking the shell!\\
+Target: \color[44,100,255,255]One enemy\color[55,55,55,255]. Effect: \color[44,100,255,255]None\color[55,55,55,255].
+
+\string{E_Accessory07}
+\code[9,0,3]Increases both the power and BP required for the\\
+wearer to perform a Bros. Attack by a good amount.
+
+\string{E_Boots03}
+\code[9,0,3]Increase the wearer's Bros. Attack power\\
+a small amount.
+
+\string{F_Shell04}
+\code[9,0,12]\color[78,212,255,255]Rock Shells\color[230,230,230,255] full!
+
+\string{N_Badge08}
+\code[9,0,13]Master Badge
+
+\string{Ns_Shell09}
+\code[9,0,13]Ironclad Shells
+
+\string{E_1upKinoko}
+\code[9,0,13]Revives a fallen bro with half HP.
+
+\string{E_Accessory08}
+\code[9,0,3]Blocks one enemy attack.
+
+\string{E_Boots04}
+\code[9,0,3]Despite their weight, these boots increase\\
+the wearer's Jump attack power.
+
+\string{F_MaxCheese}
+\code[9,0,12]\color[78,212,255,255]Miracle Cheeses\color[230,230,230,255] full!
+
+\string{N_Badge09}
+\code[9,0,13]Expert Badge
+
+\string{Ns_Accessory00}
+\code[9,0,13]Happy Charms
+
+\string{Ns_SuperNut}
+\code[9,0,13]Super Nuts
+
+\string{E_Accessory09}
+\code[9,0,3]Blocks a few enemy attacks.
+
+\string{E_Boots05}
+\code[9,0,3]Increase the wearer's POW a great deal, but make\\
+him vulnerable enough to be KO'd by a single hit.
+
+\string{F_Shell06}
+\code[9,0,12]\color[78,212,255,255]Rampage Shells\color[230,230,230,255] full
+
+\string{Ns_Accessory01}
+\code[9,0,13]Luck Charms
+
+\string{E_Boots06}
+\code[9,0,3]Increase the wearer's Green Shell Bros.\\
+Attack power.
+
+\string{F_Kinoko}
+\code[9,0,12]\color[78,212,255,255]Mushrooms\color[230,230,230,255] full!
+
+\string{N_1upKinokodx}
+\code[9,0,13]1-Up Deluxe
+
+\string{N_MaxKinoko}
+\code[9,0,13]Max Mushroom
+
+\string{Ns_Accessory02}
+\code[9,0,13]Thrift Charms
+
+\string{Ns_Syrup}
+\code[9,0,13]Syrup Jars
+
+\string{Ns_UltraKinoko}
+\code[9,0,13]Ultra Mushrooms
+
+\string{E_Boots07}
+\code[9,0,3]Allow the wearer to occasionally turn an enemy\\
+DIZZY with a Jump attack.
+
+\string{F_Shell08}
+\code[9,0,12]\color[78,212,255,255]Wicked Shells\color[230,230,230,255] full!
+
+\string{Ns_Accessory03}
+\code[9,0,13]Budget Charms

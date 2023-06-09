@@ -1,0 +1,62 @@
+???
+Your Score
+Kick the shell as many times as you can! Drop the boss for 20 points!
+A big flame is worth 3 points! Small flames will net you nothing!
+Jump on monsters to increase your score with each bounce! 1→2→3!
+Grab timers to increase the time. Then drop on monsters' heads!
+Smack the bombs into the monsters! Watch for different kinds of bombs.
+Shoot monsters with the B Button! Try to hit multiple monsters at once.
+Tilt the Star Rocket to collect stars, but avoid damage balloons!
+Bowl over the small Madames, and then crash into the big Madame!
+Stack the Luiginoids, and jump on Broque Madame. Avoid the hazards!
+Bounce the flames back, and then use your hammer to hit the last one!
+Hit all of the small Madames back! Hitting items will affect play.
+Mad Skillathon
+Battle Broque Madame
+Awww yeah! You 'bout to pull out the mad skills, boyeeeee?
+Try for a new record next time! HOLLA!
+Oh snap! That's a new record, son!
+Your rank went up, playa! Take your prize!
+Your rank went up, playa! Take your prize!
+OH SNAP! You got the illest, maddest skills ever!
+You earned a special gift, home slice!
+Say whaaaaat?! That's the highest score ever, son!
+You wanna try again? 
+No          
+Yes
+Hold up. Lemme save your score and prize data, dawg.
+A'ight, it's all saved!
+But, yo! I only saved your score and prize data!
+Don't forget to save your game data too, playa!
+Hold up. Lemme save your score and prize data, dawg.
+A'ight, it's all saved!
+But, yo! I only saved your score and prize data!
+Don't forget to save your game data too, playa!
+Hold up. Lemme save your score data, dawg.
+A'ight, it's all saved!
+But, yo! I only saved your score data!
+Don't forget to save your game data too, playa!
+What?! An error occurred? That's wack, man. For real.
+You are wanting zee battle with moi, non?
+Zis does not impress moi...
+Zut alors! Zis is a new record!
+C'est bon! Your rank has increased! Please accept zis gift from me...
+Ooh la la! You are zee best! I have zee tingles all over!
+Zis is a gift from me to you. Cherish it!
+Magnifique! It is zee highest of scores! Congratulations!
+You desire an encore? 
+Non          
+Oui
+I will save your score and prize data, oui?
+Fin.
+I have ONLY saved zee score and prize data.
+You must save zee game data by yourself, honh?
+I will save your score and prize data...
+Fin.
+I have only saved your score and prize data.
+Vous must save your game data by yourself! I am not your muzza!
+I will save zee score data...
+Fin.
+I have ONLY saved zee score data.
+Save zee game data by yourself, honh?
+Oh non! An error!

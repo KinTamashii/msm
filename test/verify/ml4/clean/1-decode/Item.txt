@@ -1,0 +1,944 @@
+ × 
+Mushroom
+Mushrooms
+Mushrooms Full!
+Restores 30 HP.
+Super Mushroom
+Super Mushrooms
+Super Mushrooms Full!
+Restores 60 HP.
+Ultra Mushroom
+Ultra Mushrooms
+Ultra Mushrooms Full!
+Restores 100 HP.
+Max Mushroom
+Max Mushrooms
+Max Mushrooms Full!
+Restores 160 HP.
+1-Up Mushroom
+1-Up Mushrooms
+1-Up Mushrooms Full!
+Revives a fallen bro with half of his HP.
+1-Up Deluxe
+1-Up Deluxes
+1-Up Deluxes Full!
+Revives a fallen bro with full HP.
+Syrup Jar
+Syrup Jars
+Syrup Jars Full!
+Restores 20 BP.
+Supersyrup Jar
+Supersyrup Jars
+Supersyrup Jars Full!
+Restores 40 BP.
+Ultrasyrup Jar
+Ultrasyrup Jars
+Ultrasyrup Jars Full!
+Restores 60 BP.
+Max Syrup Jar
+Max Syrup Jars
+Max Syrup Jars Full!
+Restores 80 BP.
+Refreshing Herb
+Refreshing Herbs
+Refreshing Herbs Full!
+Cures statuses like BURN, DIZZY, TRIP, and MINI.
+Candy
+Candies
+Candies Full!
+Restores HP and BP a bit.
+Super Candy
+Super Candies
+Super Candies Full!
+Restores a decent amount of HP and BP. 
+Ultra Candy
+Ultra Candies
+Ultra Candies Full!
+Restores a solid chunk of both HP and BP.
+Max Candy
+Max Candies
+Max Candies Full!
+Completely restores both HP and BP.
+Nut
+Nuts
+Nuts Full!
+Restores 15 HP to both Mario and Luigi.
+Super Nut
+Super Nuts
+Super Nuts Full!
+Restores 30 HP to both Mario and Luigi.
+Ultra Nut
+Ultra Nuts
+Ultra Nuts Full!
+Restores 50 HP to both Mario and Luigi.
+Max Nut
+Max Nuts
+Max Nuts Full!
+Restores 80 HP to both Mario and Luigi.
+Heart Bean
+Heart Beans
+Heart Beans Full!
+Adds 1 point to max HP.
+Bros. Bean
+Bros. Beans
+Bros. Beans Full!
+Adds 1 point to max BP.
+Power Bean
+Power Beans
+Power Beans Full!
+Adds 1 point to POW.
+Defense Bean
+Defense Beans
+Defense Beans Full!
+Adds 1 point to DEF.
+Speed Bean
+Speed Beans
+Speed Beans Full!
+Adds 1 point to SPEED.
+Stache Bean
+Stache Beans
+Stache Beans Full!
+Adds 1 point to STACHE.
+Heart Bean DX
+Heart Beans DX
+Heart Beans DX Full!
+Adds 3 points to max HP.
+Bros. Bean DX
+Bros. Beans DX
+Bros. Beans DX Full!
+Adds 3 points to max BP.
+Power Bean DX
+Power Beans DX
+Power Beans DX Full!
+Adds 3 points to POW.
+Defense Bean DX
+Defense Beans DX
+Defense Beans DX Full!
+Adds 3 points to DEF.
+Speed Bean DX
+Speed Beans DX
+Speed Beans DX Full!
+Adds 3 points to SPEED.
+Stache Bean DX
+Stache Beans DX
+Stache Beans DX Full!
+Adds 3 points to STACHE.
+Taunt Ball
+Taunt Balls
+Taunt Balls Full!
+Enrages an enemy in the background. Whooooosh! 
+Shock Bomb
+Shock Bombs
+Shock Bombs Full!
+Makes all enemies dizzy... maybe?
+Boo Biscuit
+Boo Biscuits
+Boo Biscuits Full!
+Grants damage immunity. Helps with dodge training!
+Secret Box
+Secret Boxes
+Secret Boxes Full!
+Does...who knows what? Use one to find out.
+Mush Badge
+Strike Badge
+Damages enemies in a flash. Quite an electrifying badge, hmm?
+Guard Badge
+Grants protection from enemy attacks. Recommended for novice defenders.
+Virus Badge
+Lowers the power of foes and makes them dizzy, much like a virus.
+Risk Badge
+Has a chance of affecting both bros and enemies. It's a real gamble!
+Miracle Badge
+Increases coin payouts, stops time, etc. Unpredictable and miraculous!
+Starter Badge
+Master Badge
+Best for experienced adventurers. Delivers moderate effects.
+Expert Badge
+Suited to real experts at adventuring. Delivers some astounding effects.
+Bronze Badge
+A practical badge at a fair price. Delivers simple, useful effects.
+Silver Badge
+The right badge for a discerning palate. Count on bright, refined effects.
+Gold Badge
+An expensive badge of great value. Delivers the most brilliant effects.
+Restores 30% of each bro's HP.
+Restores 50% of each bro's HP.
+Refills 80% of each bro's HP. Revives KO'd bros & cures bad status effects.
+Restores 30% of each bro's BP.
+Restores 50% of each bro's BP.
+Restores 80% of each bro's BP.
+Hits one enemy for 30 damage.
+Hits one enemy for 80 damage.
+Hits one enemy for 160 damage.
+Hits all enemies for 20 damage.
+Hits all enemies for 50 damage.
+Hits all enemies for 100 damage.
+Forms a barrier that reduces damage to zero for 3 attacks.
+Forms a barrier that reduces damage to zero for 6 attacks.
+For 3 turns, prevents HP from hitting zero, making the user impossible to KO.
+Temporarily increases DEF and reduces damage dealt by enemies.
+Increases how much your Badge Meter charges during battle.
+Temporarily increases your POW, letting you deal more damage to foes.
+Temporarily decreases enemies' POW, making them deal less damage.
+Temporarily decreases enemies' DEF, making them take more damage.
+Makes all enemies dizzy. (Does not work on some foes.)
+Removes all status effects from all enemies.
+Might turn any foe into a Mushroom of a type dependent on their coin count.
+Temporarily increases the power of Lucky Hits.
+Either fully recovers Mario's and Luigi's HP...or drops them to 1.
+Either fully charges the Badge Meter...or resets it.
+Gives everyone a 50% chance of taking enough damage to drop to 0 HP.
+Gives everyone a random status effect.
+Temporarily increases everyone's POW, upping damage dealt and received.
+Damages everyone.
+Produces more coins from enemies.
+Produces more EXP from enemies.
+Randomly copies one of the effects of an item in your inventory.
+Temporarily increases the chances of Lucky Hits.
+Reverts your status to the prior turn. Returns used items, canceling effects.
+Stops time for a moment so that all enemies will be unable to move.
+3D Red Shell
+3D Green Shell
+Dropchopper
+Fire Flower
+Bomb Derby
+Jet-Board Bash
+Bye-Bye Cannon
+Slingsniper
+Star Rocket
+Zee Egg
+Luiginary Ball
+Luiginary Stack
+Luiginary Hammer
+Luiginary Flame
+Luiginary Wall
+Luiginary Typhoon
+Press the A Button as you land to jump again. Time two jumps for an Excellent!
+Press the B Button as you land to jump again. Time two jumps for an Excellent!
+Press the A Button when the hammer flashes! Time it well for an Excellent.
+Press the B Button when the hammer flashes! Time it well for an Excellent.
+Use the A Button for Mario and the B Button for Luigi, and kick that shell!
+Tilt the 3DS left and right to pilot the craft once Mario and Luigi grab on.
+Jump up with the A and B Buttons! If you grab on quickly, you'll fly higher.
+Press the prompted button when you're above a foe for a devastating slam!
+Use the A and B Buttons for the bros. When the fireballs get big, throw 'em!
+If you throw all big fireballs, it's bonfire time! Mash the A and B Buttons!
+Slide right on the Circle Pad to toss bombs, then hit 'em with the A Button!
+Don't delay your swings! Toss a bunch, feel the tempo, and hit all the bombs!
+Press and hold the B Button to paddle. As you draw near, press the A Button!
+Memorize the order that the shadows of Mario and Luigi launch into the sky.
+As they land, press the A Button for Mario and the B Button for Luigi!
+If you get it perfect, they'll descend in the opposite order. Stay focused!
+Slide and hold the Circle Pad down to draw back, hold the B Button, and aim.
+Tilt the 3DS to line up your target, then release the B Button to launch Luigi!
+Tilt the 3DS to change the star's trajectory and grab all the little stars.
+Use the A and B Buttons as the bros land. More little stars mean more power.
+Slide the Circle Pad left/right to align the Zeekeeper and the Wakeorb.
+Once the Wakeorb and the Zeekeeper are aligned, Mario or Luigi will jump out!
+Use the A Button for Mario and the B Button for Luigi to hit the Wakeorb!
+Jump with the B Button, and stack as many Luiginoids straight up as possible!
+While jumping, adjust the landing zone with left/right on the Circle Pad!
+Press the B Button as the stack lands. Use the A Button at the end for Mario.
+Use left/right on the Circle Pad to move and the A Button to hit Dreamy Luigi!
+Hit Dreamy Luigi where the foes are gathering to deliver more damage!
+Depending on Mario's position when you swing, Dreamy Luigi's angle will change.
+Wind up the Luiginoid rope, and yank it with the A Button for a typhoon.
+You can move the typhoon with the Circle Pad to swallow up your foes.
+Rapidly press the B Button to deal more damage with the Luiginoids' spin!
+Tilt the Nintendo 3DS to move the ball. Grab Luiginoids to make the ball bigger!
+Line it up, and kick it with the A Button! A bigger ball means more damage!
+Press the B Button repeatedly to form the Luiginoids into a giant hammer!
+It will tilt, so use left/right on the Circle Pad to help Mario keep it balanced.
+As Mario runs, aim with up/down on the Circle Pad and swing with the A Button.
+The fire will bounce at a steady pace. Press the B Button to make it bigger!
+Mario will cover the spots where the Luiginoids aren't. Use the A Button here.
+Press the A Button once to make Mario hammer the flame at the foes!
+Attack the selected foe with the equipped boots.
+Attack multiple foes with the equipped boots.
+Target the foe and attack with the equipped boots.
+Attack many foes without using the boots or hammer.
+Attack multiple foes with the equipped hammer.
+Attack the selected foe with the equipped hammer.
+Attack the selected foe with the equipped boots.
+Aim while attacking without boots or hammer.
+Attack the selected foe with the equipped boots.
+Attack all foes with the equipped hammer.
+Aim while attacking with the equipped boots.
+Attack the selected foe with the equipped boots. 
+Aim while attacking with the equipped hammer.
+Attack all foes without using the boots or hammer.
+Aim while attacking using the equipped hammer.
+Aim while attacking using the equipped hammer.
+Run-Down Boots
+Run-Down Boots
+Run-Down Boots Full!
+No special effects.
+Discount Boots
+Discount Boots
+Discount Boots Full!
+No special effects.
+So-So Boots
+So-So Boots
+So-So Boots Full!
+No special effects.
+Picnic Boots
+Picnic Boots
+Picnic Boots Full!
+No special effects.
+Bare Boots
+Bare Boots
+Bare Boots Full!
+Increases your striking power if you have no wear equipped.
+Iron-Ball Boots
+Iron-Ball Boots
+Iron-Ball Boots Full!
+Occasionally drops a massive iron ball on a damaged foe for MORE damage!
+Steady Boots
+Steady Boots
+Steady Boots Full!
+No special effects.
+Snare Boots
+Snare Boots
+Snare Boots Full!
+Sometimes ends the turn of damaged enemies.
+Coin Boots
+Coin Boots
+Coin Boots Full!
+Increases the amount of coins a foe will drop each time you damage it.
+Super Boots
+Super Boots
+Super Boots Full!
+No special effects.
+EXP Boots
+EXP Boots
+EXP Boots Full!
+Increases the amount of EXP a foe will give the bros each time you damage it.
+Knockout Boots
+Knockout Boots
+Knockout Boots Full!
+Increases your striking power with every enemy you defeat in a battle.
+Heart Boots
+Heart Boots
+Heart Boots Full!
+Restores some of your HP whenever you deal damage.
+Elite Boots
+Elite Boots
+Elite Boots Full!
+No special effects.
+Antiair Boots
+Antiair Boots
+Antiair Boots Full!
+Deals 150% damage to flying enemies.
+Action Boots
+Action Boots
+Action Boots Full!
+Hurts you if you don't get Excellents. (Hurts Mario if Dreamy Luigi wears 'em.)
+Bros. Boots
+Bros. Boots
+Bros. Boots Full!
+Restores some BP whenever you deal damage.
+Singular Boots
+Singular Boots
+Singular Boots Full!
+No special effects.
+Glass Boots
+Glass Boots
+Glass Boots Full!
+May break while in use.
+Coin Boots DX
+Coin Boots DX
+Coin Boots DX Full!
+Increases the amount of coins an enemy will drop each time you do damage.
+Iron-Ball Boots DX
+Iron-Ball Boots DX
+Iron-Ball Boots DX Full!
+Occasionally drops a massive iron ball on a damaged foe for MORE damage!
+Celebrity Boots
+Celebrity Boots
+Celebrity Boots Full!
+No special effects.
+EXP Boots DX
+EXP Boots DX
+EXP Boots DX Full!
+Increases the amount of EXP a foe will give the bros each time you damage it.
+Antiair Boots DX
+Antiair Boots DX
+Antiair Boots DX Full!
+Deals 150% damage to flying enemies.
+Bare Boots DX
+Bare Boots DX
+Bare Boots DX Full!
+Increases your striking power if you have no wear equipped.
+Star Boots
+Star Boots
+Star Boots Full!
+Restores some HP whenever you deal damage.
+Dark Boots
+Dark Boots
+Dark Boots Full!
+Hurts you when you attack foes. (Hurts Mario if Dreamy Luigi wears 'em.)
+Crystal Boots
+Crystal Boots
+Crystal Boots Full!
+May break while in use.
+Farmer Boots
+Farmer Boots
+Farmer Boots Full!
+Makes defeated enemies occasionally drop beans instead of coins.
+Master Boots
+Master Boots
+Master Boots Full!
+Lets you jump 3 times when you use a solo jump!
+Excellent Boots
+Excellent Boots
+Excellent Boots Full!
+Hurts you if you don't get Excellents. (Hurts Mario if Dreamy Luigi wears 'em.)
+Expert Boots
+Expert Boots
+Expert Boots Full!
+Increases your striking power based on your Expert Challenge success rate.
+Hiking Boots
+Hiking Boots
+Hiking Boots Full!
+Increases power based on the steps on the pedometer (check the HOME Menu).
+Birthday Boots
+Birthday Boots
+Birthday Boots Full!
+Increases your striking power by 400% on your day of birth. Happy birthday!
+Mini Boots
+Mini Boots
+Mini Boots Full!
+Makes all attacks Lucky Hits if your status is MINI. 
+Run-Down Hammer
+Run-Down Hammers
+Run-Down Hammers Full!
+No special effects.
+Discount Hammer
+Discount Hammers
+Discount Hammers Full!
+No special effects.
+So-So Hammer
+So-So Hammers
+So-So Hammers Full!
+No special effects.
+Picnic Hammer
+Picnic Hammers
+Picnic Hammers Full!
+No special effects.
+Bare Hammer
+Bare Hammers
+Bare Hammers Full!
+Increases your striking power if you have no wear equipped.
+Iron-Ball Hammer
+Iron-Ball Hammers
+Iron-Ball Hammers Full!
+Occasionally drops a massive iron ball on a damaged foe for MORE damage!
+Steady Hammer
+Steady Hammers
+Steady Hammers Full!
+No special effects.
+Fighter Hammer
+Fighter Hammers
+Fighter Hammers Full!
+Sometimes ends the turn of damaged enemies.
+Sap Hammer
+Sap Hammers
+Sap Hammers Full!
+Possibly lowers the POW of struck enemies.
+Super Hammer
+Super Hammers
+Super Hammers Full!
+No special effects.
+Soft Hammer
+Soft Hammers
+Soft Hammers Full!
+Possibly lowers the DEF of struck enemies.
+Knockout Hammer
+Knockout Hammers
+Knockout Hammers Full!
+Increases your striking power with every enemy you defeat in a battle.
+Flame Hammer
+Flame Hammers
+Flame Hammers Full!
+Possibly will burn struck enemies.
+Elite Hammer
+Elite Hammers
+Elite Hammers Full!
+No special effects.
+Blunt Hammer
+Blunt Hammers
+Blunt Hammers Full!
+Deals 150% damage to enemies with thorns, spikes, or other pointy bits.
+Action Hammer
+Action Hammers
+Action Hammers Full!
+Hurts you if you don't get Excellents. (Hurts Mario if Dreamy Luigi wields it.)
+Spin Hammer
+Spin Hammers
+Spin Hammers Full!
+Possibly will make struck enemies dizzy.
+Singular Hammer
+Singular Hammers
+Singular Hammers Full
+No special effects.
+Glass Hammer
+Glass Hammers
+Glass Hammers Full!
+Possibly will break while in use.
+Sap Hammer DX
+Sap Hammers DX
+Sap Hammers DX Full!
+Possibly will reduce the POW of struck enemies.
+Iron-Ball Hammer DX
+Iron-Ball Hammers DX
+Iron-Ball Hammers DX Full!
+Occasionally drops a massive iron ball on a damaged foe for MORE damage!
+Celebrity Hammer
+Celebrity Hammers
+Celebrity Hammers Full!
+No special effects.
+Flame Hammer DX
+Flame Hammers DX
+Flame Hammers DX Full!
+Possibly will burn struck enemies.
+Blunt Hammer DX
+Blunt Hammers DX
+Blunt Hammers DX Full!
+Deals 150% damage to enemies with thorns, spikes, or other pointy bits.
+Bare Hammer DX
+Bare Hammers DX
+Bare Hammers DX Full!
+Increases your striking power if you have no wear equipped.
+Star Hammer
+Star Hammers
+Star Hammers Full!
+Makes struck enemies possibly lose their attack turns.
+Dark Hammer
+Dark Hammers
+Dark Hammers Full!
+Hurts you when you attack foes. (Hurts Mario if Dreamy Luigi wields it.)
+Crystal Hammer
+Crystal Hammers
+Crystal Hammers Full!
+Possibly will break while in use.
+Soft Hammer DX
+Soft Hammers DX
+Soft Hammers DX Full!
+Possibly will lower the DEF of struck enemies.
+Master Hammer
+Master Hammers
+Master Hammers Full!
+Lets you swing twice with the solo- hammer attack!
+Excellent Hammer
+Excellent Hammers
+Excellent Hammers Full!
+Hurts you if you don't get Excellents. (Hurts Mario if Dreamy Luigi wields it.)
+Expert Hammer
+Expert Hammers
+Expert Hammers Full!
+Increases your striking power based on your Expert Challenge success rate.
+Golden Hammer
+Golden Hammers
+Golden Hammers Full!
+Increases your striking power based on the number of coins you have.
+Birthday Hammer
+Birthday Hammers
+Birthday Hammers Full!
+Increases your striking power by 400% on your day of birth. Happy birthday!
+Mini Hammer
+Mini Hammers
+Mini Hammers Full!
+Makes all of your attacks Lucky Hits if your status is MINI.
+Thin Wear
+Thin Wear
+Thin Wear Full!
+No special effects.
+Picnic Wear
+Picnic Wear
+Picnic Wear Full!
+No special effects.
+Cozy Wear
+Cozy Wear
+Cozy Wear Full!
+Increases your DEF whenever you take damage.
+So-So Wear
+So-So Wear
+So-So Wear Full!
+No special effects.
+Payback Wear
+Payback Wear
+Payback Wear Full!
+Sometimes lets you deal equal damage to an enemy that damages you.
+Singular Wear
+Singular Wear
+Singular Wear Full!
+No special effects.
+Rally Wear
+Rally Wear
+Rally Wear Full!
+Restores 1 BP whenever you take damage.
+Charge Wear
+Charge Wear
+Charge Wear Full!
+Charges your Badge Meter whenever you take damage.
+Super Wear
+Super Wear
+Super Wear Full!
+No special effects.
+Fighter Wear
+Fighter Wear
+Fighter Wear Full!
+No special effects.
+Koopa Troopa Wear
+Koopa Troopa Wear
+Koopa Troopa Wear Full!
+Increases your DEF whenever you take damage.
+Balm Wear
+Balm Wear
+Balm Wear Full!
+No special effects.
+Counter Wear
+Counter Wear
+Counter Wear Full!
+Sometimes lets you deal equal damage to an enemy that damages you.
+Safety Wear
+Safety Wear
+Safety Wear Full!
+Doubles your DEF when you have low HP.
+Fancy Wear
+Fancy Wear
+Fancy Wear Full!
+No special effects.
+Hero Wear
+Hero Wear
+Hero Wear Full!
+KOs you in 3 turns.
+Bros. Wear
+Bros. Wear
+Bros. Wear Full!
+Restores 1 BP whenever you take damage.
+Metal Wear
+Metal Wear
+Metal Wear Full!
+No special effects.
+Snare Wear
+Snare Wear
+Snare Wear Full!
+No special effects.
+Heart Wear
+Heart Wear
+Heart Wear Full!
+Doubles your DEF when you have low HP.
+Energy Wear
+Energy Wear
+Energy Wear Full!
+Charges your Badge Meter whenever you take damage.
+Star Wear
+Star Wear
+Star Wear Full!
+No special effects.
+Ironclad Wear
+Ironclad Wear
+Ironclad Wear Full!
+Increases your DEF whenever you take damage.
+King Wear
+King Wear
+King Wear Full!
+Sometimes lets you deal equal damage to an enemy that damages you.
+Angel Wear
+Angel Wear
+Angel Wear Full!
+Doubles your DEF when you have low HP.
+Master Wear
+Master Wear
+Master Wear Full!
+Restores 2 BP whenever you take damage.
+Legendary Wear
+Legendary Wear
+Legendary Wear Full!
+KOs you in 2 turns.
+Expert Wear
+Expert Wear
+Expert Wear Full!
+Increases your DEF based on your Expert Challenge success rate.
+Golden Wear
+Golden Wear
+Golden Wear Full!
+Increases your DEF based on the number of coins you have.
+Birthday Wear
+Birthday Wear
+Birthday Wear Full!
+Increases your DEF by 400% on the day of your birth. Happy birthday!
+Thick Gloves
+Thick Gloves
+Thick Gloves Full!
+No special effects.
+Shell Gloves
+Shell Gloves
+Shell Gloves Full!
+No special effects.
+Metal Gloves
+Metal Gloves
+Metal Gloves Full!
+No special effects.
+HP Gloves
+HP Gloves
+HP Gloves Full!
+Increases your max HP by 20%.
+HP Gloves DX
+HP Gloves DX
+HP Gloves DX Full!
+Increases your max HP by 30%.
+BP Gloves
+BP Gloves
+BP Gloves Full!
+Increases your max BP by 20%.
+BP Gloves DX
+BP Gloves DX
+BP Gloves DX Full!
+Increases your max BP by 30%.
+POW Gloves
+POW Gloves
+POW Gloves Full!
+Increases your POW by 20%.
+POW Gloves DX
+POW Gloves DX
+POW Gloves DX Full!
+Increases your POW by 30%.
+Speed Gloves
+Speed Gloves
+Speed Gloves Full!
+Increases your SPEED by 20%.
+Stache Gloves
+Stache Gloves
+Stache Gloves Full!
+Increases your STACHE by 20%.
+Lucky Gloves
+Lucky Gloves
+Lucky Gloves Full!
+Boosts your chances of Lucky Hits.
+Lucky Gloves DX
+Lucky Gloves DX
+Lucky Gloves DX Full!
+Boosts your chances of Lucky Hits.
+Gift Gloves
+Gift Gloves
+Gift Gloves Full!
+Boosts the chance of a gift dropping when you defeat an enemy.
+Gift Gloves DX
+Gift Gloves DX
+Gift Gloves DX Full!
+Boosts the chance of a gift dropping when you defeat an enemy.
+Charge Gloves
+Charge Gloves
+Charge Gloves Full!
+Increases the amount your Badge Meter fills after attacks.
+Charge Gloves DX
+Charge Gloves DX
+Charge Gloves DX Full!
+Increases the amount your Badge Meter fills after attacks.
+Strike Gloves
+Strike Gloves
+Strike Gloves Full!
+Makes you deal 150% damage if you start battles with a preemptive strike.
+Mushroom Gloves
+Mushroom Gloves
+Mushroom Gloves Full!
+Automatically uses a Mushroom if your HP gets low.
+1-Up Gloves
+1-Up Gloves
+1-Up Gloves Full!
+Automatically uses a 1-Up Mushroom if one of the bros gets KO'd.
+Master Gloves
+Master Gloves
+Master Gloves Full!
+Gives back the BP you used if your Bros./Luiginary Attack gets Excellent.
+Rookie Gloves
+Rookie Gloves
+Rookie Gloves Full!
+Returns the BP you used if your Bros./ Luiginary Attack gets a Great or less.
+Perfect POW Gloves
+Perfect POW Gloves
+Perfect POW Gloves Full!
+Increases POW by 30% as long as you haven't taken damage.
+Perfect Bro Gloves
+Perfect Bro Gloves
+Perfect Bro Gloves Full!
+Makes Bros./Luiginary Attacks cost 0 BP as long as you remain undamaged.
+Coin Bro Gloves
+Coin Bro Gloves
+Coin Bro Gloves Full!
+Drops 20% more coins if you defeat an enemy with a Bros./Luiginary Attack.
+Coin Bro Gloves DX
+Coin Bro Gloves DX
+Coin Bro Gloves DX Full!
+Drops 40% more coins if you defeat an enemy with a Bros./Luiginary Attack.
+EXP Bro Gloves
+EXP Bro Gloves
+EXP Bro Gloves Full!
+Gives you 20% more EXP if you defeat a foe with a Bros./Luiginary Attack.
+EXP Bro Gloves DX
+EXP Bro Gloves DX
+EXP Bro Gloves DX Full!
+Gives you 40% more EXP if you defeat a foe with a Bros./Luiginary Attack.
+Bottomless Gloves
+Bottomless Gloves
+Bottomless Gloves Full!
+Lets you use items without removing them from your inventory.
+Mini Gloves
+Mini Gloves
+Mini Gloves Full!
+Boosts your POW to 400% of normal when your status is MINI.
+HP Scarf
+HP Scarves
+HP Scarves Full!
+Increases max HP by 20%.
+HP Scarf DX
+HP Scarves DX
+HP Scarves DX Full!
+Increases max HP by 30%.
+BP Scarf
+BP Scarves
+BP Scarves Full!
+Increases max BP by 20%.
+BP Scarf DX
+BP Scarves DX
+BP Scarves DX Full!
+Increases max BP by 30%.
+POW Scarf
+POW Scarves
+POW Scarves Full!
+Increases POW by 20%.
+POW Scarf DX
+POW Scarves DX
+POW Scarves DX Full!
+Increases POW by 30%.
+Speed Scarf
+Speed Scarves
+Speed Scarves Full!
+Increases SPEED by 20%.
+Stache Scarf
+Stache Scarves
+Stache Scarves Full!
+Increases STACHE by 20%.
+Bros. Ring
+Bros. Rings
+Bros. Rings Full!
+Reduces BP consumption by 50%.
+HP Bangle
+HP Bangles
+HP Bangles Full!
+Restores 10 HP per attack turn.
+HP Bangle DX
+HP Bangles DX
+HP Bangles DX Full!
+Restores 20 HP per attack turn.
+BP Bangle
+BP Bangles
+BP Bangles Full!
+Restores 1 BP per attack turn.
+BP Bangle DX
+BP Bangles DX
+BP Bangles DX Full!
+Restores 2 BP per attack turn.
+Angel Bangle
+Angel Bangles
+Angel Bangles Full!
+Restores 20 HP and 10 BP per attack turn.
+HP Knockout Bangle
+HP Knockout Bangles
+HP Knockout Bangles Full!
+Restores 2 HP for every enemy you defeat.
+BP Knockout Bangle
+BP Knockout Bangles
+BP Knockout Bangles Full!
+Restores 1 BP for every enemy you defeat.
+Healthy Ring
+Healthy Rings
+Healthy Rings Full!
+Completely protects you from all status effects.
+Guard Shell
+Guard Shells
+Guard Shells Full!
+Negates damage taken 3 times over the course of a battle.
+Guard Shell DX
+Guard Shells DX
+Guard Shells DX Full!
+Negates damage taken 6 times over the course of a battle.
+Rally Belt
+Rally Belts
+Rally Belts Full!
+Boosts POW whenever you take damage from enemies.
+Counter Belt
+Counter Belts
+Counter Belts Full!
+Greatly boosts your POW whenever your bro gets KO'd.
+POW Mush Jam
+POW Mush Jams
+POW Mush Jams Full!
+Temporarily gives you a POW Up status effect when you eat a Mushroom.
+DEF Mush Jam
+DEF Mush Jams
+DEF Mush Jams Full!
+Temporarily gives you a DEF Up status effect when you eat a Mushroom.
+Duplex Crown
+Duplex Crowns
+Duplex Crowns Full!
+Lets you move twice in a single turn.
+Mushroom Amulet
+Mushroom Amulets
+Mushroom Amulets Full!
+Throws Mushrooms away to compensate for damage taken.
+Birthday Ring
+Birthday Rings
+Birthday Rings Full!
+Increases the chances of Lucky Hits on your day of birth. Happy birthday!
+Mini Ring
+Mini Rings
+Mini Rings Full!
+Always makes your status MINI during battles.
+Silver Statue
+Silver Statues
+Silver Statues Full!
+Lacking any real purpose, but can be sold at shops for a good price.
+Gold Statue
+Gold Statues
+Gold Statues Full!
+Lacking any real purpose, but can be sold at shops for a good price.
+Gear Slot +1
+Increases your apparel slots by one, letting you use more gear!
+Gear Slot +1
+Increases your apparel slots by one, letting you use more gear!
+Badge Stock +1
+Adds an additional effect stock for your badges.
+HP Up+
+Gives you an additional +2 HP every time you gain a level.
+POW Up+
+Gives you an additional +1 POW every time you gain a level.
+BP Up+
+Gives you an additional +1 BP every time you gain a level.
+Quick Level
+Gives you 20% more EXP from enemies you defeat, making it easier to level up.
+Iron Body
+Reduces damage you receive from enemies by 25%.
+Jump Man
+Boosts your solo-jump-attack power to 125% of normal.
+Hammerhead
+Boosts your solo-hammer-attack power to 125% of normal.
+Counterer
+Boosts your counterattack power to 150% of normal.
+Shroom EXP
+Makes Mushrooms give you EXP as well as HP. Mushroom lovers level up easily!
+Big Lucky
+Boosts the power of Lucky Hits so you deliver 200% of normal damage.
+Casual Bros.
+Makes Bros./Luiginary Attacks cost half the BP they normally do.
+Quick Healer
+Makes restoration items restore 200% of what they normally do (in battle).
+If you change, your Badge Meter will reset. Is that OK?
+Raising this will make you harder to KO even if you take damage.
+Raising this will allow you to perform more Bros./Luiginary Attacks.
+Raising this will increase the damage you deal when attacking.
+Raising this will reduce the damage you take from enemies.
+Raising this will allow you to move earlier than other combatants.
+Raising this ups the chance for Lucky Hits. (Won't go up when you level up.)

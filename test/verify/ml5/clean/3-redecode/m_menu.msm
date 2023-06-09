@@ -1,0 +1,3685 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[236,0,3,0,4,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,254,0,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,254,0,0,0,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,24,1,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,254,0,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,0,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,254,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,24,1,0,0,254,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,214,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,160,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,148,0,0,0,214,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,8,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,24,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,24,1,0,0,24,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,76,1,0,0,76,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+\tsy[11,11,12,3,4,4,4,4,12,11,11,11,11,11,12,4,4,4,4,11,11,11,11,12,4,11,4,12,6,4,4,4,11,11,11,11,4,12,6,4,4,4,12,11,11,11,12,12,11,3,4,12,6,4,4,11,12,11,12,12,12,12,11,11,3,4,4,4,12,11,12,12,12,11,6,4,11,11,11,12,12,12,12,12,6,4,11,11,12,12,12,6,4,11,11,11,12,12,11,11,11,12,12,12,12,11,11,11,11,11,12,12,12,3,11,11,11,11,11,11,11,11,12,11,11,11,11,11,11,11,12,12,11,11,11,4,4,4,11,11,11,12,11,11,4,4,11,12,11,11,12,12,12,12,12,11,11,4,4,4,11,12,11,4,4,4,11,11,12,12,11,4,3,4,4,11,11,11,3,11,4,4,4,4,11,12,11,11,12,3,11,4,4,12,11,11,11,12,12,3,11,4,4,12,11,11,11,11,11,11,3,11,4,4,12,11,12,11,11,12,12,12,3,4,11,4,3,11,12,11,3,6,3,11,11,12,12,3,4,6,11,11,11,12,12,12,12,4,3,11,11,11,11,4,11,11,11,11,12,12,12,4,11,11,12,12,12,11,11,12,12,3,11,4,11,11,11,12,11,3,11,4,4,11,11,11,12,12,11,11,4,4,11,11,12,11,12,12,11,11,4,4,4,12,11,11,11,12,11,11,11,12,12,4,11,4,4,11,11,11,12,11,11,11,12,12,12,4,3,4,4,11,11,11,12,11,12,12,3,4,4,11,11,11,11,11,12,12,12,11,4,11,4,4,3,11,11,11,11,11,12,12,11,4,11,11,11,4,4,11,11,11,11,12,12,12,11,4,11,11,11,4,4,11,12,11,4,11,4,11,11,11,11,12,12,12,11,4,11,3,3,4,11,11,11,11,11,12,11,4,3,4,4,11,11,11,11,12,12,11,3,4,4,11,11,11,11,4,4,4,11,11,11,11,3,11,6,4,11,12,12,11,11,6,4,11,12,11,6,4,4,11,11,6,4,4,4,11,11,11,6,4,4,4,11,12,11,11,11,12,12,6,4,4,4,11,11,11,11,12,12,12,6,4,4,11,11,11,11,12,12,6,4,11,11,11,12,12,11,12,6,4,11,11,11,11,11,12,12,11,3,12,6,4,11,11,12,11,11,3,12,4,11,12,11,4,12,3,4,4,11,11,12,4,12,4,4,3,12,11,11,12,12,12,12,4,4,4,4,12,11,11,12,12,12,11,4,4,12,11,11,11,11,12,11,12,11,11,4,4,4,12,11,11,11,12,12,12,12,11,11,4,4,4,4,12,11,11,11,11,11,12,12,12,12,11,11,4,4,4,11,11,12,12,12,11,4,4,4,11,11,11,12,12,12,12,12,4,4,4,11,11,11,11,11,12,12,12,12,4,4,4,11,11,11,12,11,11,11,12,12,12,12,12,4,4,11,11,11,12,11,11,12,12,12,12,3,4,4,4,11,11,11,11,11,11,12,12,12,4,4,11,11,11,12,12,12,12,4,3,11,11,11,11,12,12,4,11,11,11,11,11,12,12,6,4,4,11,11,11,12,12,12,12,12,11,6,4,12,11,11,11,11,11,11,4,6,4,4,12,11,11,11,11,12,12,11,3,4,6,4,4,12,3,11,11,12,11,11,11,12,11,3,4,6,3,4,12,11,11,12,11,11,11,12,4,11,3,4,6,4,3,12,11,11,11,12,4,11,3,4,6,4,12,11,11,11,12,11,4,11,3,4,6,3,4,11,12,11,11,12,12,11,4,11,4,4,11,12,11,11,12,12,12,12,12,11,4,11,4,4,3,11,11,12,11,11,11,11,12,12,11,11,4,4,11,11,12,11,11,11,4,4,4,11,12,11,11,12,4,11,12,11,11,12,12,4,11,11,11,12,12,12,4,11,3,11,11,11,11,11,11,12,11,11,11,11,12,11,11,11,11,11,11,11,12,11,6,4,11,11,12,12,12,11,6,11,11,12,12,12,12,6,6,4,12,11,11,12,12,12,11,6,4,12,11,12,12,11,6,4,12,11,12,12,11,11,6,4,12,11,11,12,12,11,3,6,4,12,11,11,11,11,12,12,12,11,3,6,3,3,4,12,11,11,11,11,11,11,11,11,12,11,6,11,4,12,11,11,11,11,11,12,11,4,12,11,11,11,11,11,11,11,11,12,4,11,11,11,12,4,4,4,4,11,11,11,12,12,11,4,4,4,11,11,11,12,11,3,4,4,4,4,4]
+
+\string{EC_Text_BrosAtkSerial_09}
+\code[8,0,11]Get \color[44,100,255,255]\color[230,230,230,255]\color[44,100,255,255]5 Excellents\color[230,230,230,255] in a row with th\color[44,100,255,255]e Mega\\
+\space[1]Thwonk\color[230,230,230,255] Bros. Attack.
+
+\string{EC_Text_DmgOneAtkR1}
+\code[8,0,11]Deal\color[44,100,255,255] 100\color[230,230,230,255] or more damage to 1 enemy with a\\
+\space[1]single attack.
+
+\string{EC_Title_BRcb06S}
+\code[8,0,12]メドレーでＳランク！
+
+\string{amiibo_com_01b}
+\code[8,0,3]Remove the amiibo from the\color[44,100,255,255]\color[44,100,255,255] NFC reader/writer\color[44,100,255,255]\color[230,230,230,255].
+
+\string{amiibo_exp_brw_00}
+\code[8,0,4]Load character card set.
+
+\string{bgm_title_04}
+\code[8,0,4]Paper Parade!
+
+\string{menu_outline_04}
+\code[8,0,4]\code[1,1]The good news is you found a Paper Toad!\\
+The bad news is you scared him off. This\\
+could be a real challenge...
+
+\string{menu_outline_onmenu_11}
+\code[8,0,4]\code[1,1]Visit the Lakitu Info Center, and rescue more\\
+Paper Toads by completing quests.\space[1]
+
+\string{BtlGuide_03}
+\code[8,0,12]Demo and Practice
+
+\string{EC_Text_BRObullS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Chargin' Chuck Corps\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_DmgOneAtkR2}
+\code[8,0,11]Deal\color[44,100,255,255] 250\color[230,230,230,255] or more damage to 1 enemy at LV 20 or\\
+higher with a single attack.
+
+\string{EC_Text_PCopyNumR1}
+\code[8,0,11]Make\color[44,100,255,255] 20\color[230,230,230,255] Paper Mario\color[44,100,255,255] copies\color[230,230,230,255].
+
+\string{EC_Text_TrioAtkTotalR1}
+\code[8,0,11]Use Trio Attacks \color[44,100,255,255]3\color[230,230,230,255] times.
+
+\string{EC_Text_Wkuribo}
+\code[8,0,11]Defeat \color[44,100,255,255]2 Goombas\color[230,230,230,255] and \color[44,100,255,255]2 Paper Goombas\color[230,230,230,255].
+
+\string{EC_Title_BROkteresaS}
+\code[8,0,12]King Boo S Rating
+
+\string{amiibo_exp_brw_01}
+\code[8,0,4]Character card set has been loaded!
+
+\string{bgm_title_05}
+\code[8,0,4]Say Good-Bye!
+
+\string{menu_outline_05}
+\code[8,0,4]\code[1,1]Paper Mario glides into action! Now you have\\
+three heroes to help you stand up to Bowser's\\
+minions and rescue Paper Toads!
+
+\string{menu_outline_onmenu_12}
+\code[8,0,4]\code[1,1]Head back under Doop Doop Dunes, and see if\\
+you can find a spot to place your new item.
+
+\string{EC_Text_AvoidPBBros}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Boomerang Bro\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_DmgOneAtkR3}
+\code[8,0,11]Deal\color[44,100,255,255] 500\color[230,230,230,255] or more damage to 1 enemy at LV 30 or\\
+higher with a single attack.
+
+\string{EC_Text_PCopyNumR2}
+\code[8,0,11]Make\color[44,100,255,255] 100\color[230,230,230,255] Paper Mario\color[44,100,255,255] copies\color[230,230,230,255].
+
+\string{EC_Text_TrioAtkTotalR2}
+\code[8,0,11]Use Trio Attacks\color[44,100,255,255] 50\color[230,230,230,255] times.
+
+\string{EC_Title_AMsquashA}
+\code[8,0,12]Trio Racquet A Rating
+
+\string{amiibo_exp_brw_02}
+\code[8,0,4]Loading character card set.
+
+\string{amiibo_sys_kir_09a}
+\code[8,0,11]\code[5,0]\code[1,1]That seems to be a different character's\color[78,212,255,255] amiib\color[230,230,230,255]o.\code[5,0]\code[1,1]\\
+Please tap an\color[78,212,255,255] amiibo\color[230,230,230,255] of the\code[5,0]\code[1,1] same character.\wait 
+
+\string{bgm_title_06}
+\code[8,0,4]Steel Yourself
+
+\string{m_result_msg_01}
+\code[8,0,12]\code[5,0]\code[1,1]Congratulations! By completing the game, you've\\
+unlocked the\color[78,212,255,255] music player\color[230,230,230,255]. Check out the title\\
+\space[1]screen to begin using it.\wait 
+
+\string{m_tuto_card_20}
+\code[8,0,6]To use a battle card, you'll need\\
+to register it to a set.\wait \pagebreak
+Each set needs to have\color[44,100,255,255] 10 battle\\
+\space[1]cards\color[55,55,55,255] in it. No more, no less!\wait 
+
+\string{menu_outline_06}
+\code[8,0,4]\code[1,1]You learned how to dash, which should boost\\
+your progress! Literally!
+
+\string{menu_outline_onmenu_13}
+\code[8,0,4]\code[1,1]Explore the dungeon, and look for an escape.\space[1]
+
+\string{menu_set_easymode_title}
+\code[8,0,4]Easy Mode
+
+\string{BtlGuide_06_0}
+\code[8,0,11]Use \color[44,100,255,255]a Bros. Attack\color[230,230,230,255] to make Mario and\\
+Luigi attack together!\space[1]
+
+\string{EC_Text_PCopyNumR3}
+\code[8,0,11]Make\color[44,100,255,255] 200\color[230,230,230,255] Paper Mario\color[44,100,255,255] copies\color[230,230,230,255].
+
+\string{EC_Text_TrioAtkTotalR3}
+\code[8,0,11]Use Trio Attacks\color[44,100,255,255] 100\color[230,230,230,255] times.
+
+\string{amiibo_sys_kir_09b}
+\code[8,0,11]\code[5,0]\code[1,1]That seems to be a different character's\color[78,212,255,255] amiib\color[230,230,230,255]o.\code[5,0]\code[1,1]\\
+Please tap an\color[78,212,255,255] amiibo\color[230,230,230,255] of the\code[5,0]\code[1,1] same character.\wait 
+
+\string{bgm_title_07}
+\code[8,0,4]Cheerful Interlude
+
+\string{m_result_msg_02}
+\code[8,0,12]\code[5,0]\code[1,1]Saving data. Please do not turn off the power.\\
+You will be able to restart the game from your\\
+last save.
+
+\string{m_tuto_card_21}
+\code[8,0,6]Oh! \code[2,0,30]I almost forgot. There's\\
+one more trick I can show you.\wait 
+
+\string{menu_not_equip_str}
+\code[8,0,4]No Gear
+
+\string{menu_outline_07}
+\code[8,0,4]\code[1,1]Things are now even tougher for Mario & crew!\\
+The two Princess Peaches have been kidnapped!\\
+After the two Bowsers!
+
+\string{menu_outline_onmenu_14}
+\code[8,0,4]\code[1,1]Make your way to Twinsy Tropics.\space[1]
+
+\string{BtlGuide_06}
+\code[8,0,12]Bros. Attacks
+
+\string{BtlGuide_06_1}
+\code[8,0,11]Complete a\color[44,100,255,255] Bros. Attack\color[230,230,230,255] to deal a lot\\
+of damage!
+
+\string{EC_Text_AMtekkyuS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Cannonball Chuck\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_BRcb01S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Megacrinkle\\
+Goomba\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AvoidPBasabasa}
+\code[8,0,12]Paper Swoop Dodge
+
+\string{EC_Title_BRPbpackun}
+\code[8,0,12]Paper Petey Piranha
+
+\string{TrioGlider_09_0}
+\code[8,0,11]Switch the action icon to the glider, and\\
+then press\color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] →\color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255]→\color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to use\color[44,100,255,255] Trio Glider\color[230,230,230,255].
+
+\string{amiibo_brw_02}
+\code[8,0,3]View character cards on the Touch Screen.
+
+\string{bgm_title_08}
+\code[8,0,4]Falling to Pieces
+
+\string{m_result_msg_03}
+\code[8,0,12]\code[5,0]Save complete.\wait 
+
+\string{m_tuto_card_22}
+\code[8,0,6]Now, if you mess something\\
+up beyond belief...\wait 
+
+\string{menu_outline_08}
+\code[8,0,4]\code[1,1]You flattened Petey Piranha! Keep chasing\\
+both Bowsers—the princesses need your help!
+
+\string{menu_outline_onmenu_15}
+\code[8,0,4]\code[1,1]Visit the Lakitu Info Center in Twinsy Tropics.\space[1]
+
+\string{BtlGuide_06_2}
+\code[8,0,11]Each\color[44,100,255,255] Bros. Attack\color[230,230,230,255] consumes\color[44,100,255,255] BP\color[230,230,230,255]. Use\\
+items like\color[44,100,255,255] Syrup Jars\color[230,230,230,255] to recover\color[44,100,255,255] BP\color[230,230,230,255].
+
+\string{BtlGuide_07}
+\code[8,0,12]Trio Attacks
+
+\string{EC_Text_CardTotalR1}
+\code[8,0,11]Use battle cards\color[44,100,255,255] 10\color[230,230,230,255] times.
+
+\string{EC_Title_AvoidPFbros}
+\code[8,0,12]Paper Fire Bro Dodge
+
+\string{EC_Title_BROPsambo}
+\code[8,0,12]Big Pokey Duo
+
+\string{EC_Title_BrosAtkTotalR1}
+\code[8,0,12]Beginner Bros.
+
+\string{EC_Title_Wkuribo}
+\code[8,0,12]Just Getting Started
+
+\string{FldGuide_02_0}
+\code[8,0,11]Control Mario's actions by pressing \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] and\\
+Luigi's by pressing \color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255].
+
+\string{TrioGlider_09_1}
+\code[8,0,11]Press \color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] while in the air to float upward.\\
+You can do this up to \color[44,100,255,255]3\color[230,230,230,255] times.
+
+\string{amiibo_brw_03}
+\code[8,0,3]No character cards found. To create one, select MAKE A CARD\\
+from the in-game amiibo menu.
+
+\string{bgm_title_09}
+\code[8,0,4]Strange Things Afoot
+
+\string{menu_outline_09}
+\code[8,0,4]\code[1,1]Those minions are up to something BIG. Catch\\
+the Paper Toads, and see if they can help\\
+you respond in kind.
+
+\string{menu_outline_onmenu_16}
+\code[8,0,4]\code[1,1]Find the dock in the Toad Village.\space[1]
+
+\string{BtlGuide_08}
+\code[8,0,12]Paper Mario's Copy Ability
+
+\string{EC_Text_CardTotalR2}
+\code[8,0,11]Use battle cards\color[44,100,255,255] 50\color[230,230,230,255] times.
+
+\string{EC_Title_AvoidOKuribo}
+\code[8,0,12]Goomba Dodge
+
+\string{EC_Title_BrosAtkTotalR2}
+\code[8,0,12]Modest Bros.
+
+\string{EC_Title_BrosAtk_00}
+\code[8,0,12]Excellent 3D Red Shell
+
+\string{TrioGlider_09_2}
+\code[8,0,11]Use Trio Glider to reach high or\\
+faraway places.
+
+\string{m_tuto_amiibo_01}
+\code[8,0,6]It's super easy to turn a ? Card\\
+into a\color[44,100,255,255] character card\color[55,55,55,255]...\wait 
+
+\string{menu_outline_onmenu_17}
+\code[8,0,4]\code[1,1]Head back to Peach's Castle.\space[1]
+
+\string{EC_Text_BROPkameckS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Kamek Duo\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_CardTotalR3}
+\code[8,0,11]Use battle cards\color[44,100,255,255] 150\color[230,230,230,255] times.
+
+\string{EC_Text_EncountAtkR1}
+\code[8,0,11]Start\color[44,100,255,255] 1\color[230,230,230,255]5 battles with an advantage by stomping,\\
+hammering, or dashing into enemies.
+
+\string{EC_Title_AMarrowA}
+\code[8,0,12]Trio Whirligig A Rating
+
+\string{EC_Title_AMgiantA}
+\code[8,0,12]Mega Thwonk A Rating
+
+\string{EC_Title_AvoidOMet}
+\code[8,0,12]Buzzy Beetle Dodge
+
+\string{EC_Title_BrosAtkTotalR3}
+\code[8,0,12]Hardworking Bros.
+
+\string{EC_Title_BrosAtk_01}
+\code[8,0,12]Excellent Fire Flower
+
+\string{m_tuto_amiibo_02}
+\code[8,0,6]Just tap the\color[44,100,255,255] amiibo\color[55,55,55,255] icon\\
+and select MAKE A CARD!\wait \pagebreak
+If you need a few pointers,\\
+\space[1]check out the\color[44,100,255,255] guide\color[55,55,55,255].\wait 
+
+\string{menu_outline_onmenu_18}
+\code[8,0,4]\code[1,1]Make your way to Gloomy Woods.\space[1]
+
+\string{EC_Text_AvoidPHakkun}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Ninji\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_EncountAtkR2}
+\code[8,0,11]Start\color[44,100,255,255] 100\color[230,230,230,255] battles with an advantage by stomping,\\
+hammering, or dashing into enemies.
+
+\string{EC_Title_BRcb01S}
+\code[8,0,12]Megacrinkle Goomba S Rating
+
+\string{EC_Title_BrosAtk_02}
+\code[8,0,12]Excellent Rocket Blast
+
+\string{EC_Title_HammerOnly}
+\code[8,0,12]Excellent Hammer
+
+\string{m_tuto_amiibo_03}
+\code[8,0,6]They're really helpful—especially if you\\
+find yourself in a tough battle.\wait \pagebreak
+But don't take my word for it... Give\\
+\space[1]it a try!\wait 
+
+\string{menu_outline_onmenu_19}
+\code[8,0,4]\code[1,1]Make your way to Mount Brrr.\space[1]
+
+\string{BtlGuide_13_0}
+\code[8,0,11]Move the\color[44,100,255,255] airplane\color[230,230,230,255] above\color[255,67,67,255] Mario'\color[230,230,230,255]s or\color[0,187,39,255] Luigi'\color[230,230,230,255]s head\\
+by sliding the\color[44,100,255,255] Circle Pad\color[230,230,230,255] to the\color[44,100,255,255]\color[230,230,230,255]\color[44,100,255,255] left\color[230,230,230,255] or\color[44,100,255,255] right\color[230,230,230,255].
+
+\string{EC_Text_AvoidOFpackun}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Fire Piranha Plant\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_EncountAtkR3}
+\code[8,0,11]Start\color[44,100,255,255] 200\color[230,230,230,255] battles with an advantage by stomping,\\
+hammering, or dashing into enemies.
+
+\string{EC_Title_BrosAtk_03}
+\code[8,0,12]Excellent Drill Shell
+
+\string{EC_Title_CoinTotalR1}
+\code[8,0,12]Coin Enthusiast
+
+\string{AmiiboGuide_07_0}
+\code[8,0,11]If you have 2 amiibo of the same character,\\
+you might be able to create a sparkle card!
+
+\string{BtlGuide_13_1}
+\code[8,0,11]Once the airplane is hovering over\color[255,67,67,255] Mario\color[230,230,230,255] or\color[75,212,104,255]\\
+Luigi\color[230,230,230,255], jump with \color[255,112,112,255]\codepoint[0xE000]\color[230,230,230,255] or \color[75,212,104,255]\codepoint[0xE001]\color[230,230,230,255] and hold down the\\
+button to hang on.
+
+\string{EC_Text_AvoidPChuchu}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Scaredy Rat\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_AvoidPGabon}
+\code[8,0,12]Paper Spike Dodge
+
+\string{EC_Title_BrosAtk_04}
+\code[8,0,12]Excellent Bomb Derby
+
+\string{EC_Title_CoinTotalR2}
+\code[8,0,12]Coin Collector
+
+\string{TrioHammer_06}
+\code[8,0,12]Trio Hammer
+
+\string{amiibo_sys_etr_00}
+\code[8,0,11]\code[0,1,10]\code[5,0]\code[1,1]This amiibo has already been used\code[5,0]\code[1,1] to\\
+create a character card set\code[5,0]\code[1,1] on a\\
+different system.\wait \pagebreak
+\code[5,0]\code[1,1]To use it on this system, you must\color[255,112,112,255] delete\color[230,230,230,255]\code[5,0]\code[1,1]\\
+the previous character card set.\code[0,1,65535]\wait 
+
+\string{AmiiboGuide_07_1}
+\code[8,0,11]Sparkle cards don't just look cool—they're\\
+also stronger than regular character cards.\\
+And using them earns you Star Points!
+
+\string{EC_Text_AllItem}
+\code[8,0,11]Use all items in the game at least\color[44,100,255,255] once\color[230,230,230,255].
+
+\string{EC_Text_AvoidOCrusher}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Broozer\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_KillOneAtkR1}
+\code[8,0,11]Defeat \color[44,100,255,255]3\color[230,230,230,255] or more enemies with a single attack.
+
+\string{EC_Title_AvoidHjDef}
+\code[8,0,12]Airplane Challenge
+
+\string{EC_Title_BrosAtk_05}
+\code[8,0,12]Excellent Dropchopper
+
+\string{EC_Title_CoinTotalR3}
+\code[8,0,12]Coin King
+
+\string{amiibo_com_01b_00}
+\code[8,0,3]Remove the amiibo from the\color[44,100,255,255] NFC reader/writer\color[230,230,230,255] to stop the roulette.
+
+\string{amiibo_sys_etr_01}
+\code[8,0,11]\code[5,0]\code[1,1]Delete character card set?\\
+\option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{AmiiboGuide_07_2}
+\code[8,0,11]To create a\color[44,100,255,255] sparkle card\color[230,230,230,255], you first need \color[44,100,255,255]2\color[230,230,230,255]\\
+compatible amiibo of the same character.
+
+\string{BtlGuide_39_0}
+\code[8,0,11]In\color[44,100,255,255] Easy Mode\color[230,230,230,255], your characters will be stronger\\
+than usual and enemies will be weaker than\\
+usual.
+
+\string{EC_Text_AMshurikenA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Shuriken\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AvoidPCrusher}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Broozer\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BRObking}
+\code[8,0,11]Clear\color[44,100,255,255] King Bob-omb\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BROhchan}
+\code[8,0,11]Clear\color[44,100,255,255] Rampaging Wiggler\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_KillOneAtkR2}
+\code[8,0,11]Defeat\color[44,100,255,255] 10\color[230,230,230,255] or more enemies with a single attack.
+
+\string{EC_Title_BrosAtk_06}
+\code[8,0,12]Excellent Cannonball Chuck
+
+\string{FldGuide_00_0}
+\code[8,0,11]You can move with the\color[44,100,255,255] Circle Pad\color[230,230,230,255], and the\\
+characters behind will follow automatically.
+
+\string{amiibo_sys_etr_02}
+\code[8,0,11]\code[5,0]\code[1,1]Failed to delete amiibo battle card set.\wait 
+
+\string{AmiiboGuide_07_3}
+\code[8,0,11]You can even use an amiibo that has been\\
+registered to another system, as long as it has\\
+been set up with a character card set.
+
+\string{BtlGuide_39_1}
+\code[8,0,11]You can also use\color[44,100,255,255] Easy Attack Mode\color[230,230,230,255] and the\color[44,100,255,255]\\
+Hint Block\color[230,230,230,255] while playing in Easy Mode. See the\\
+guide for more information on those features.
+
+\string{EC_Text_AvoidPHbros}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Hammer Bro\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_KillOneAtkR3}
+\code[8,0,11]Defeat\color[44,100,255,255] 15\color[230,230,230,255] or more enemies with a single attack.
+
+\string{EC_Text_PHammer}
+\code[8,0,11]With max copies, get an\color[44,100,255,255] Excellent\color[230,230,230,255] with Paper Mario's\color[44,100,255,255]\\
+Hammer\color[230,230,230,255] attack.
+
+\string{EC_Title_AvoidPYariho}
+\code[8,0,12]Paper Spear Guy Dodge
+
+\string{EC_Title_BrosAtk_07}
+\code[8,0,12]Excellent Balloon Blast
+
+\string{amiibo_sys_err_01}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—this amiibo is not supported.\wait 
+
+\string{amiibo_sys_err_21_new}
+\code[8,0,11]\code[5,0]\code[1,1]That doesn't seem to be a compatible amiibo.\\
+Please remove it from the\color[78,212,255,255] Touch Screen\color[230,230,230,255].\wait 
+
+\string{amiibo_sys_etr_03}
+\code[8,0,11]\code[5,0]\code[1,1]Failed to create\code[5,0]\code[1,1]\\
+character card set.\wait 
+
+\string{bgm_title_20}
+\code[8,0,4]Epic Story
+
+\string{menu_off_equip_str}
+\code[8,0,4]Remove Gear
+
+\string{menu_outline_20}
+\code[8,0,4]\code[1,1]With the Pokeys out of the way, the path\\
+to Bowser's Castle seems clear...
+
+\string{AmiiboGuide_07_4}
+\code[8,0,11]Your system will compare the character card\\
+sets for\color[44,100,255,255] both\color[230,230,230,255] amiibo. If you have the same\\
+card on both systems, it will be upgraded!
+
+\string{BtlGuide_39_2}
+\code[8,0,11]You can turn on Easy Mode by selecting the\color[44,100,255,255]\\
+wrench icon\color[230,230,230,255] in the menu. You'll also be given\\
+the option to turn it on after losing a battle.
+
+\string{EC_Text_AvoidPPatapata}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Paratroopa\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_BrosAtk_08}
+\code[8,0,12]Excellent Toad Trail
+
+\string{SoloJump_01_0}
+\code[8,0,11]Jumping helps you navigate through the\\
+Mushroom Kingdom and also hit blocks.
+
+\string{amiibo_sys_err_02}
+\code[8,0,11]\code[5,0]\code[1,1]Wireless is turned\color[78,212,255,255] off\color[230,230,230,255]. Please\color[78,212,255,255]\\
+enable\color[230,230,230,255] wireless to use amiibo\\
+functionality.\wait 
+
+\string{bgm_title_21}
+\code[8,0,4]Behind Closed Doors
+
+\string{menu_outline_21}
+\code[8,0,4]\code[1,1]You pummeled that Papercraft Kamek to\\
+pieces! Now make your way to Bowser's\\
+Castle.
+
+\string{AmiiboGuide_07_5}
+\code[8,0,11]You can create only \color[44,100,255,255]1 sparkle card per day\color[230,230,230,255], so\\
+be sure to save your data if you make one.
+
+\string{BtlGuide_20}
+\code[8,0,12]Battle Cards
+
+\string{EC_Text_AvoidOTenten}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Biddybud\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidPFbros}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Fire Bro\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_AllItem}
+\code[8,0,12]Item Buffet
+
+\string{EC_Title_AvoidOSwoogan}
+\code[8,0,12]Sandmaargh Dodge
+
+\string{EC_Title_AvoidPSombrero}
+\code[8,0,12]Paper Sombrero Guy Dodge
+
+\string{EC_Title_BrosAtk_09}
+\code[8,0,12]Excellent Mega Thwonk
+
+\string{EC_Title_PJump}
+\code[8,0,12]Excellent Paper Jump
+
+\string{SoloJump_01_1}
+\code[8,0,11]In addition to giving you coins, blocks can\\
+sometimes open up new paths. Hit 'em all!
+
+\string{amiibo_sys_err_03}
+\code[8,0,11]\code[5,0]\code[1,1]An error occurred while writing\\
+or reading amiibo data. Please\\
+try again.\wait 
+
+\string{bgm_title_22}
+\code[8,0,4]Forest Fairy Melody
+
+\string{menu_collect_depress}
+\code[8,0,4]Total number of drill spots discovered.
+
+\string{menu_outline_22}
+\code[8,0,4]\code[1,1]Don't you hate it when you get hit with a giant\\
+cannonball and end up in jail...and Luigi loses a\\
+book that contains an entire world...
+
+\string{BtlGuide_11_0}
+\code[8,0,11]When Mario and crew crouch during an enemy's\\
+attack, that means they can do a\color[44,100,255,255] Jump Guard\color[230,230,230,255].
+
+\string{BtlGuide_21}
+\code[8,0,12]How to Use Battle Cards
+
+\string{amiibo_sys_err_04}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—this amiibo already contain\code[5,0]\code[1,1]s data from\\
+another game.\code[5,0]\code[1,1] If you want to use this amiibo,\\
+please delete\code[5,0]\code[1,1] the previous data using amiibo\\
+Settings.
+
+\string{bgm_title_23}
+\code[8,0,4]Mountaintop Secrets
+
+\string{menu_outline_23}
+\code[8,0,4]\code[1,1]You escaped your cell and got back your\\
+Command Blocks to boot! Now to find a\\
+way back aboveground.
+
+\string{menu_outline_onmenu_30}
+\code[8,0,4]\code[1,1]Make your way through Gloomy Woods.\space[1]
+
+\string{AmiiboGuide_05_0}
+\code[8,0,11]To view the character cards you've created\\
+for a particular amiibo, select\color[44,100,255,255] amiibo\color[230,230,230,255] from\\
+the menu and then press\color[44,100,255,255] VIEW CARDS\color[230,230,230,255].
+
+\string{BtlGuide_11_1}
+\code[8,0,11]Jump by pressing the appropriate character's\\
+button.
+
+\string{EC_Title_BROkteresa}
+\code[8,0,12]King Boo
+
+\string{EC_Title_PHammer}
+\code[8,0,12]Excellent Paper Hammer
+
+\string{amiibo_sys_err_05}
+\code[8,0,11]\code[5,0]\code[1,1]You haven't set up a character card set\code[5,0]\code[1,1] for\\
+this amiibo yet.\code[5,0]\code[1,1] Please create a character\\
+card set using the\code[5,0]\code[1,1]\color[78,212,255,255] Register amiibo\color[230,230,230,255] menu\\
+before continuing.
+
+\string{bgm_title_24}
+\code[8,0,4]Mysterious Bowser's Castle
+
+\string{menu_card_alert_panel_2_lack_text_00}
+\code[8,0,3]Randomly assign battle cards to this set and\\
+exit the menu?
+
+\string{menu_outline_24}
+\code[8,0,4]\code[1,1]You learned Trio Grab! You can use it to grab\\
+and throw objects or even pull yourself across\\
+a gap.
+
+\string{menu_outline_onmenu_31}
+\code[8,0,4]\code[1,1]Visit the Lakitu Info Center, and rescue more\\
+Paper Toads.\space[1]
+
+\string{AmiiboGuide_05_1}
+\code[8,0,11]You can also view the character card sets of\\
+amiibo registered on other systems.
+
+\string{BtlGuide_11_2}
+\code[8,0,11]Jump to avoid attacks, and deal damage by\\
+landing on enemies.
+
+\string{EC_Text_Invalid}
+\code[8,0,11]??????
+
+\string{amiibo_com_02}
+\code[8,0,3]Owner
+
+\string{amiibo_sys_err_06}
+\code[8,0,11]\code[0,1,10]\code[5,0]\code[1,1]Sorry—amiibo data has been corrupted.\code[0,1,65535]\code[0,1,10]\code[5,0]\code[1,1]\\
+Attempt to restore amiibo data? \option \space[1]Yes\hspace[32]\option \\
+No\code[2,0,10]\code[0,1,65535]
+
+\string{bgm_title_25}
+\code[8,0,4]Floating Castle of Doom
+
+\string{menu_load_10}
+\code[8,0,4]The file has been copied.
+
+\string{menu_outline_25}
+\code[8,0,4]\code[1,1]You found a strange-looking door. It seems\\
+important. Maybe make a note of it.
+
+\string{menu_outline_onmenu_32}
+\code[8,0,4]\code[1,1]Solve all of Neo Bowser Castle's puzzles and\\
+make your way to Bowser and Paper Bowser\\
+for the final showdown!\space[1]
+
+\string{BtlGuide_11_3}
+\code[8,0,11]Paper Mario can fly high if you hold\\
+down \color[255,172,82,255]\codepoint[0xE003]\color[230,230,230,255] after jumping.
+
+\string{BtlGuide_24}
+\code[8,0,12]Battle Card Sets
+
+\string{BtlGuide_37_0}
+\code[8,0,11]When you win a battle, all of your characters\\
+will earn\color[44,100,255,255] EXP\color[230,230,230,255]. When a character has earned\\
+enough EXP, his\color[44,100,255,255] level\color[230,230,230,255] will go up.
+
+\string{EC_Text_AvoidPPkuribo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Paragoomba\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_AvoidBmDef}
+\code[8,0,12]Boomerang Challenge
+
+\string{amiibo_com_03}
+\code[8,0,3]Nickname
+
+\string{amiibo_sys_err_07}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—the amiibo data is corrupted. If you have\\
+previously registered this amiibo on this system, you\\
+may be able to restore the data.\wait \pagebreak
+\code[5,0]\code[1,1]You can also reformat the amiibo data by selecting\\
+amiibo Settings within HOME Menu Settings. Please\\
+\space[1]remove the amiibo from the NFC area.\wait 
+
+\string{bgm_title_26}
+\code[8,0,4]Holding Hands in the Darkness
+
+\string{menu_outline_26}
+\code[8,0,4]\code[1,1]You defeated Roy and Wendy! Time to head\\
+back aboveground for some well-deserved sun!
+
+\string{BtlGuide_25}
+\code[8,0,12]Avoid Attacks with Copies
+
+\string{BtlGuide_28_0}
+\code[8,0,11]In\color[44,100,255,255] Easy Mode\color[230,230,230,255], your characters will be stronger\\
+than usual and enemies will be weaker than\\
+usual.
+
+\string{BtlGuide_37_1}
+\code[8,0,11]As your characters level up, they'll gain more\\
+HP and their attacks will deal more damage\\
+to enemies.
+
+\string{EC_Text_BROhkoopa}
+\code[8,0,11]Clear\color[44,100,255,255] Boss Medley\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AMsquashS}
+\code[8,0,12]Trio Racquet S Rating
+
+\string{EC_Title_BROPkameck}
+\code[8,0,12]Kamek Duo
+
+\string{amiibo_com_04}
+\code[8,0,3]Confirm
+
+\string{amiibo_sys_err_08}
+\code[8,0,11]\code[5,0]\code[1,1]An error occurred while writing\\
+or reading amiibo data. Please\\
+try again.\wait 
+
+\string{bgm_title_27}
+\code[8,0,4]Welcome to the Lakitu Info Center!
+
+\string{menu_outline_27}
+\code[8,0,4]\code[1,1]Finally, you made it out of that gloomy\\
+underground cavern to find blue skies and\\
+the ocean. Wait...where are you?
+
+\string{BtlGuide_26}
+\code[8,0,12]Jump Attacks
+
+\string{BtlGuide_28_1}
+\code[8,0,11]You can also use\color[44,100,255,255] Easy Attack Mode\color[230,230,230,255] and the\color[44,100,255,255]\\
+Hint Block\color[230,230,230,255] while playing in Easy Mode. See the\\
+guide for more information on those features.
+
+\string{BtlGuide_37_2}
+\code[8,0,11]If you're having a hard time with a strong\\
+enemy, try battling some weaker enemies first\\
+to level up your characters.
+
+\string{EC_Text_AvoidOBbros}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Boomerang Bro\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidOChoropoo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Monty Mole\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidOKuribo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Goomba\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BRcb03S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Bowser Jr.\color[230,230,230,255]\\
+in the Battle Ring.
+
+\string{amiibo_com_05}
+\code[8,0,3]Back
+
+\string{amiibo_sys_err_09}
+\code[8,0,11]\code[5,0]\code[1,1]Please turn on the NFC reader/writer and\\
+point it toward the infrared transceiver\\
+on your Nintendo 3DS system.
+
+\string{bgm_title_28}
+\code[8,0,4]Teatime on the Clouds
+
+\string{menu_outline_28}
+\code[8,0,4]\code[1,1]You made it to the Toad Village in Twinsy\\
+Tropics. But there's no time to rest—more\\
+Paper Toads need rescuing!
+
+\string{BtlGuide_27}
+\code[8,0,12]Hammer Attacks
+
+\string{BtlGuide_28_2}
+\code[8,0,11]You can turn on Easy Mode by selecting the\color[44,100,255,255]\\
+wrench icon\color[230,230,230,255] in the menu. You'll also be given\\
+the option to turn it on after losing a battle.
+
+\string{EC_Clear}
+\code[8,0,12]Achieved
+
+\string{EC_Text_AvoidOGabon}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Spike\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_HammerOnly}
+\code[8,0,11]Finish a single battle using only\color[44,100,255,255] Hammer\color[230,230,230,255]\\
+attacks that are\color[44,100,255,255] Excellent\color[230,230,230,255].
+
+\string{EC_Title_AvoidOHeyho}
+\code[8,0,12]Shy Guy Dodge
+
+\string{EC_Title_BROPkpjr}
+\code[8,0,12]Bowser Jr. Duo
+
+\string{EC_Title_Invalid}
+\code[8,0,12]???
+
+\string{amiibo_com_06}
+\code[8,0,3]Quit
+
+\string{bgm_title_29}
+\code[8,0,4]Time's Running Out!
+
+\string{menu_card_alelt_full}
+\code[8,0,11]Your battle card set is full!
+
+\string{menu_outline_29}
+\code[8,0,4]\code[1,1]You got a boat! Time to leave Twinsy Tropics.
+
+\string{menu_set_easymode_text_start}
+\code[8,0,3]Turning Easy Mode on makes your characters\\
+stronger and enemies easier to defeat.
+
+\string{ActionIcon_00_0}
+\code[8,0,11]To cycle through action icons, press \color[44,100,255,255]\codepoint[0xE004]\color[230,230,230,255] or \color[44,100,255,255]\codepoint[0xE005]\color[230,230,230,255].\\
+Or simply tap the\color[44,100,255,255] Touch Screen\color[230,230,230,255].
+
+\string{BtlGuide_28}
+\code[8,0,12]Easy Mode
+
+\string{BtlGuide_28_3}
+\code[8,0,11]You can't complete Expert Challenges while\\
+playing in Easy Mode. So, once you get the\\
+hang of things, try turning Easy Mode off.
+
+\string{amiibo_com_07}
+\code[8,0,3]Cancel
+
+\string{m_tuto_top_04_1}
+\code[8,0,6]If you want to switch\color[44,100,255,255] Easy Mode\color[55,55,55,255] on or off,\\
+you can do so here in the\color[44,100,255,255] menu settings\color[55,55,55,255].\wait 
+
+\string{menu_card_alelt_use_set}
+\code[8,0,3]This battle card set is ready to use.
+
+\string{ActionIcon_00_1}
+\code[8,0,11]You can immediately switch back to Jump\\
+by pressing \color[44,100,255,255]\codepoint[0xE004]\color[230,230,230,255] and \color[44,100,255,255]\codepoint[0xE005]\color[230,230,230,255]\color[44,100,255,255] simultaneously\color[230,230,230,255].
+
+\string{AmiiboGuide_03_0}
+\code[8,0,11]Once your amiibo is registered, select\color[44,100,255,255] MAKE\\
+A CARD\color[230,230,230,255] from the in-game amiibo menu.
+
+\string{BtlGuide_29}
+\code[8,0,12]Hint Block
+
+\string{EC_Title_AvoidOpheyho}
+\code[8,0,12]Fly Guy Dodge
+
+\string{amiibo_com_08}
+\code[8,0,3]Please don't remove the amiibo.
+
+\string{amiibo_exp_kir_00}
+\code[8,0,4]Compare character card sets.
+
+\string{m_tuto_card_06_1}
+\code[8,0,6]Oh! I forgot. I have to tell you\\
+how to do that. Press \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255]!
+
+\string{ActionIcon_00_2}
+\code[8,0,11]If another action icon is active,\color[44,100,255,255] tapping on it\\
+twice quickly\color[230,230,230,255] will also switch back to Jump.
+
+\string{AmiiboGuide_03_1}
+\code[8,0,11]Select a ? Card to use. There are \color[44,100,255,255]2\color[230,230,230,255] types of ?\\
+Cards—LV \color[44,100,255,255]1\color[230,230,230,255] and LV \color[44,100,255,255]2\color[230,230,230,255]. LV 2 ? Cards make\\
+stronger character cards.
+
+\string{EC_Text_AvoidHjDef}
+\code[8,0,11]Avoid all enemy attacks during an\color[44,100,255,255] Airplane Guard\color[230,230,230,255].
+
+\string{EC_Title_AMarrowS}
+\code[8,0,12]Trio Whirligig S Rating
+
+\string{EC_Title_AMgiantS}
+\code[8,0,12]Mega Thwonk S Rating
+
+\string{EC_Title_AvoidOFpackun}
+\code[8,0,12]Fire Piranha Plant Dodge
+
+\string{EC_Title_BRcb03S}
+\code[8,0,12]Papercraft Bowser Jr. S Rating
+
+\string{amiibo_exp_kir_01}
+\code[8,0,4]Write sparkle card information.
+
+\string{menu_card_alert_panel_2_release_text}
+\code[8,0,3]Clear this battle card set?
+
+\string{AmiiboGuide_03_2}
+\code[8,0,11]Once you've selected a ? Card, tap a registered\\
+amiibo on the Touch Screen or NFC reader/\\
+writer and follow the prompts.
+
+\string{BtlGuide_35_0}
+\code[8,0,11]If you take damage from an enemy's attack,\\
+your character's HP will decrease. If it reaches\color[44,100,255,255]\\
+0\color[230,230,230,255], your character will\color[44,100,255,255] faint\color[230,230,230,255].
+
+\string{EC_Text_AvoidODskuribo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Big Tail Goomba\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BROhkoopaS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Boss Medley\color[230,230,230,255] in the Battle Ring.
+
+\string{amiibo_exp_kir_02}
+\code[8,0,4]Sparkle card information has been written.
+
+\string{AmiiboGuide_03_3}
+\code[8,0,11]Your ? Card is now a character card! Tap your\\
+amiibo on the Touch Screen or NFC reader/writer\\
+once more to add the card to your collection.
+
+\string{BtlGuide_26_0}
+\code[8,0,11]Choose\color[44,100,255,255] Jump\color[230,230,230,255] to deal damage to an enemy\\
+by stomping on it.
+
+\string{BtlGuide_35_1}
+\code[8,0,11]If\color[255,67,67,255] Mario\color[230,230,230,255] and\color[0,187,39,255] Luigi\color[230,230,230,255] both reach \color[44,100,255,255]0\color[230,230,230,255] HP, the game\\
+will end.
+
+\string{EC_Text_AvoidONokonoko}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Koopa Troopa\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_AvoidOCrusher}
+\code[8,0,12]Broozer Dodge
+
+\string{EC_Title_AvoidPchorobon}
+\code[8,0,12]Paper Fuzzy Dodge
+
+\string{EC_Title_BrosAtkSerial_00}
+\code[8,0,12]Expert 3D Red Shell
+
+\string{amiibo_exp_kir_03}
+\code[8,0,4]Writing sparkle card information.
+
+\string{BtlGuide_26_1}
+\code[8,0,11]Defeat enemies by dealing damage to\\
+them until their HP reaches \color[44,100,255,255]0\color[230,230,230,255].
+
+\string{BtlGuide_35_2}
+\code[8,0,11]Not to worry! You can restart the battle from\\
+the beginning or restore from your last save\\
+point. Be careful out there!
+
+\string{EC_Title_AMsliderA}
+\code[8,0,12]Toad Trail A Rating
+
+\string{EC_Title_AvoidPCrusher}
+\code[8,0,12]Paper Broozer Dodge
+
+\string{EC_Title_BrosAtkSerial_01}
+\code[8,0,12]Expert Fire Flower
+
+\string{BtlGuide_35_3}
+\code[8,0,11]If your HP is getting low or one of your\\
+characters faints, select the\color[44,100,255,255] Item Block\color[230,230,230,255]\\
+and use an item to help him recover.
+
+\string{EC_Text_LuckyHitR1}
+\code[8,0,11]Get\color[44,100,255,255] 30\color[230,230,230,255] Lucky Hits.
+
+\string{EC_Title_BrosAtkSerial_02}
+\code[8,0,12]Expert Rocket Blast
+
+\string{Sliding_05}
+\code[8,0,12]Sliding
+
+\string{amiibo_kir_03}
+\code[8,0,3]Select a card to upgrade, and confirm with \color[44,100,255,255]\codepoint[0xE000]\color[230,230,230,255].
+
+\string{amiibo_sys_err_20}
+\code[8,0,11]\code[5,0]\code[1,1]An error occurred while writing the amiibo data.\\
+Please try again.\wait \pagebreak
+\code[5,0]\code[1,1]Your amiibo data may have been corrupted.\wait 
+
+\string{menu_card_alert_panel_2_reedit_title}
+\code[8,0,4]Restore Set
+
+\string{BtlGuide_35_4}
+\code[8,0,11]\color[44,100,255,255]Mushrooms\color[230,230,230,255] can restore a character's\color[44,100,255,255] HP\color[230,230,230,255].
+
+\string{EC_Text_AMshurikenS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Shuriken\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_LuckyHitR2}
+\code[8,0,11]Get\color[44,100,255,255] 70\color[230,230,230,255] Lucky Hits.
+
+\string{EC_Title_BrosAtkSerial_03}
+\code[8,0,12]Expert Drill Shell
+
+\string{Xjump_03_0}
+\code[8,0,11]You can make all\color[44,100,255,255] three\color[230,230,230,255] of your\color[44,100,255,255] characters jump\color[230,230,230,255]\\
+at once by pressing \color[44,100,255,255]\codepoint[0xE002]\color[230,230,230,255].
+
+\string{amiibo_kir_04}
+\code[8,0,3]Prepare \color[44,100,255,255]2\color[230,230,230,255] amiibo of the same character type.
+
+\string{amiibo_sys_err_21}
+\code[8,0,11]\code[5,0]\code[1,1]That doesn't seem to be a compatible amiibo.\\
+Please remove it from the\color[78,212,255,255] NFC area\color[230,230,230,255].\wait 
+
+\string{bgm_title_40}
+\code[8,0,4]Mario Craft Rhythm
+
+\string{menu_outline_40}
+\code[8,0,4]\code[1,1]Toadette is ready and waiting to build you\\
+a new papercraft. She just needs you to\\
+collect a few more Paper Toads first...
+
+\string{AmiiboGuide_01_0}
+\code[8,0,11]To begin, select\color[44,100,255,255] REGISTER amiibo\color[230,230,230,255] from\\
+the in-game amiibo menu.
+
+\string{BtlGuide_35_5}
+\code[8,0,11]\color[44,100,255,255]1-Up Mushroom\color[230,230,230,255]s can revive a character\\
+who has\color[44,100,255,255] fainted\color[230,230,230,255].
+
+\string{EC_Text_LuckyHitR3}
+\code[8,0,11]Get\color[44,100,255,255] 150\color[230,230,230,255] Lucky Hits.
+
+\string{EC_Title_BRObpackunS}
+\code[8,0,12]Petey Piranha S Rating
+
+\string{EC_Title_BrosAtkSerial_04}
+\code[8,0,12]Expert Bomb Derby
+
+\string{FldGuide_09_0}
+\code[8,0,11]You can move with the\color[44,100,255,255] Circle Pad\color[230,230,230,255], and the\\
+characters behind will follow automatically.
+
+\string{Xjump_03_1}
+\code[8,0,11]You won't jump as high as usual, but you can\\
+jump farther. Give it a try!
+
+\string{bgm_title_41}
+\code[8,0,4]Luigi Craft Rhythm
+
+\string{menu_outline_41}
+\code[8,0,4]\code[1,1]The new papercraft is under construction, and\\
+Mario and crew are off to find the Bowser Jrs.\\
+Hurry, guys—the princesses need rescuing!
+
+\string{AmiiboGuide_01_1}
+\code[8,0,11]\color[44,100,255,255]Registering\color[230,230,230,255] your amiibo will create a character\\
+card set.
+
+\string{BtlGuide_35_6}
+\code[8,0,11]You can buy items from a shop or earn them\\
+by defeating enemies. Make sure you have\\
+enough before you head into battle!
+
+\string{BtlGuide_40}
+\code[8,0,12]Expert Challenges
+
+\string{BtlGuide_42_0}
+\code[8,0,11]The order in which your characters and\\
+enemies attack depends on their relative\\
+stats—particularly SPEED.
+
+\string{EC_Title_BrosAtkSerial_05}
+\code[8,0,12]Expert Dropchopper
+
+\string{EC_Title_TrioAtkTotalR1}
+\code[8,0,12]Beginner Trio
+
+\string{amiibo_sys_com_05}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—character card information cannot be written to\\
+this amiibo.\code[5,0]\code[1,1] Please tap the previously tapped amiibo\\
+again.\wait 
+
+\string{amiibo_sys_err_23}
+\code[8,0,11]\code[5,0]\code[1,1]Please tap the amiibo on the\color[78,212,255,255] NFC area\color[230,230,230,255] to attempt to\\
+restore data, or press \color[78,212,255,255]\codepoint[0xE001]\color[230,230,230,255] to quit.
+
+\string{bgm_title_42}
+\code[8,0,4]Princess Peach Craft Rhythm
+
+\string{menu_collect_kinopio}
+\code[8,0,4]Total number of Paper Toads rescued.
+
+\string{menu_outline_42}
+\code[8,0,4]\code[1,1]The Princess Peach papercraft won a decisive\\
+victory. Unfortunately, that didn't stop the\\
+Bowser Jrs. from making a speedy getaway.\\
+Time to chase them down!
+
+\string{ActionIcon_00}
+\code[8,0,12]Action Icons
+
+\string{AmiiboGuide_01_2}
+\code[8,0,11]Once you've created a character card set,\\
+your amiibo will be ready to use!
+
+\string{BtlGuide_33_0}
+\code[8,0,11]Attack enemies b\color[44,100,255,255]y jumping\color[230,230,230,255] on them\color[44,100,255,255], hammering\color[230,230,230,255]\\
+them, or using a\color[44,100,255,255] Bros. Attack or Trio Attack\color[230,230,230,255].\\
+An enemy is defeated when its HP reaches \color[44,100,255,255]0\color[230,230,230,255].
+
+\string{BtlGuide_35_7}
+\code[8,0,11]Don't like the way a battle is going? Select the\color[44,100,255,255]\\
+Flee Block\color[230,230,230,255] to escape. But use it sparingly—you\\
+won't earn any coins or experience by fleeing.
+
+\string{BtlGuide_41}
+\code[8,0,12]Trampoline Guard
+
+\string{BtlGuide_42_1}
+\code[8,0,11]The higher a character's\color[44,100,255,255] SPEED\color[230,230,230,255], the more\\
+often he will be able to act.
+
+\string{EC_Text_AvoidBmDef}
+\code[8,0,11]Avoid an enemy attack during a\color[44,100,255,255] Boomerang Guard\color[230,230,230,255].
+
+\string{EC_Text_TrioAtk_00}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Trio Racquet\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_BrosAtkSerial_06}
+\code[8,0,12]Expert Cannonball Chuck
+
+\string{EC_Title_TrioAtkTotalR2}
+\code[8,0,12]Modest Trio
+
+\string{amiibo_exp_mak_10}
+\code[8,0,4]This card will be transformed into a character card.
+
+\string{amiibo_sys_err_24}
+\code[8,0,11]\code[5,0]\code[1,1]That is not the correct amiibo. Please remove\\
+the amiibo from the\color[78,212,255,255] NFC area\color[230,230,230,255].
+
+\string{bgm_title_43}
+\code[8,0,4]Yoshi Craft Rhythm
+
+\string{menu_outline_43}
+\code[8,0,4]\code[1,1]Oh no! The Kameks and Bowser Jrs. escaped\\
+with the princesses at the last second!
+
+\string{AmiiboGuide_01_3}
+\code[8,0,11]Please note that you won't be able to create\\
+a character card set if your amiibo already\\
+contains data.
+
+\string{BtlGuide_24_0}
+\code[8,0,11]When you get a new battle card, you can\\
+view it by selecting the\color[44,100,255,255] BATTLE CARDS\color[230,230,230,255]\\
+option from the menu.
+
+\string{BtlGuide_33_1}
+\code[8,0,11]Deal more damage when attacking by\\
+accurately controlling the\color[44,100,255,255] Circle Pa\color[230,230,230,255]d and the\\
+timing of your\color[44,100,255,255] button\color[230,230,230,255] presses.
+
+\string{BtlGuide_42}
+\code[8,0,12]Turn Order
+
+\string{EC_Text_BROPkameck}
+\code[8,0,11]Clear\color[44,100,255,255] Kamek Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BROPkpjrS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Bowser Jr. Duo\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_TrioAtk_01}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Trio Kite\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_BrosAtkSerial_07}
+\code[8,0,12]Expert Balloon Blast
+
+\string{EC_Title_TrioAtkTotalR3}
+\code[8,0,12]Hardworking Trio
+
+\string{SoloJump_01}
+\code[8,0,12]Jumping
+
+\string{amiibo_exp_mak_11}
+\code[8,0,4]You made a duo card!
+
+\string{amiibo_kir_00a}
+\code[8,0,3]Tap the first amiibo on the\color[44,100,255,255] Touch Screen\color[230,230,230,255].
+
+\string{bgm_title_44}
+\code[8,0,4]Fire Mario Craft Rhythm
+
+\string{menu_outline_44}
+\code[8,0,4]\code[1,1]Leave it to Bowser to neglect basic bridge\\
+maintenance... You'll have to figure out\\
+another way into his castle.
+
+\string{AmiiboGuide_01_4}
+\code[8,0,11]You'll have to\color[44,100,255,255] delete the game data\color[230,230,230,255]\\
+using\color[44,100,255,255] amiibo Settings\color[230,230,230,255] within HOME\\
+Menu Settings.
+
+\string{BtlGuide_24_1}
+\code[8,0,11]To use a new card in battle, add it to one\\
+of your\color[44,100,255,255] battle card sets\color[230,230,230,255].
+
+\string{BtlGuide_33_2}
+\code[8,0,11]The button you press depends on the attack.\\
+Be sure to check the\color[44,100,255,255] explanation on the Touch\\
+Screen\color[230,230,230,255] after choosing an attack.
+
+\string{BtlGuide_43}
+\code[8,0,12]Easy Attack Mode
+
+\string{EC_Text_TrioAtk_02}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Trio Whirligig\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_AvoidPPkuribo}
+\code[8,0,12]Paper Paragoomba Dodge
+
+\string{EC_Title_BrosAtkSerial_08}
+\code[8,0,12]Expert Toad Trail
+
+\string{amiibo_kir_00b}
+\code[8,0,3]Tap the first amiibo on the\color[44,100,255,255] NFC reader/writer\color[230,230,230,255].
+
+\string{bgm_title_45}
+\code[8,0,4]New Item!
+
+\string{menu_outline_45}
+\code[8,0,4]\code[1,1]Where have you seen that strange symbol\\
+before? It must have been someplace dark\\
+and creepy, right? Maybe underground...
+
+\string{BtlGuide_33_3}
+\code[8,0,11]Your attacks are rated on \color[44,100,255,255]4\color[230,230,230,255] levels. The\\
+highest rating i\color[44,100,255,255]s Excellent\color[230,230,230,255], so aim for that!
+
+\string{Dash_04_0}
+\code[8,0,11]To dash, jump with \color[44,100,255,255]\codepoint[0xE002]\color[230,230,230,255] (while moving or\\
+stationary) and hold it until you land.
+
+\string{EC_Text_ChrCardTotalR1}
+\code[8,0,11]Use character cards\color[44,100,255,255] 10\color[230,230,230,255] times.
+
+\string{EC_Text_KillAllOneAtkL}
+\code[8,0,11]Defeat all enemies in 1 move as\color[44,100,255,255] Luigi\color[230,230,230,255].
+
+\string{EC_Text_TrioAtk_03}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Trio Shuriken\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_BROPsamboS}
+\code[8,0,12]Big Pokey Duo S Rating
+
+\string{EC_Title_BRObpackun}
+\code[8,0,12]Petey Piranha
+
+\string{EC_Title_BrosAtkSerial_09}
+\code[8,0,12]Expert Mega Thwonk
+
+\string{Sliding_05_0}
+\code[8,0,11]To do a slide, press either \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255], \color[255,67,67,255]\color[230,230,230,255]\color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255], or \color[0,187,39,255]\color[255,132,0,255]\codepoint[0xE003]\color[0,187,39,255]\color[230,230,230,255] while\\
+dashing.
+
+\string{amiibo_char_00}
+\code[8,0,4]Mario
+
+\string{amiibo_sys_mak_err_05}
+\code[8,0,11]\code[0,1,10]\code[5,0]\code[1,1]All LV \color[78,212,255,255]1\color[230,230,230,255] character cards have\code[5,0]\code[1,1] been created for\\
+this amiibo.\code[5,0]\code[1,1] You cannot make any more LV 1\\
+character cards.\wait \code[0,1,65535]
+
+\string{bgm_title_46}
+\code[8,0,4]Crowned with Glory
+
+\string{menu_outline_46}
+\code[8,0,4]\code[1,1]You befriended a slightly creased Paper\\
+Goomba. Maybe he can help you somehow...
+
+\string{menu_set_easymode_btn_title}
+\code[8,0,3]\color[55,55,55,255]Easy Mode\color[230,230,230,255]
+
+\string{Dash_04_1}
+\code[8,0,11]Slide the Circle Pad in the direction you want\\
+to dash, and then release \color[44,100,255,255]\codepoint[0xE002]\color[230,230,230,255].
+
+\string{EC_Text_BRObull}
+\code[8,0,11]Clear\color[44,100,255,255] Chargin' Chuck Corps\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_ChrCardTotalR2}
+\code[8,0,11]Use character cards\color[44,100,255,255] 25\color[230,230,230,255] times.
+
+\string{EC_Text_KillAllOneAtkM}
+\code[8,0,11]Defeat all enemies in 1 move as\color[44,100,255,255] Mario\color[230,230,230,255].
+
+\string{EC_Text_TrioAtk_04}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Trio Meteor\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_BRObkingS}
+\code[8,0,12]King Bob-omb S Rating
+
+\string{EC_Title_KillKiraR1}
+\code[8,0,12]Shiny Enemy Hunter
+
+\string{Sliding_05_1}
+\code[8,0,11]If you're chasing someone, the best time to\\
+slide is when a \color[44,100,255,255]!\color[230,230,230,255] appears over Mario's head.
+
+\string{amiibo_char_01}
+\code[8,0,4]Luigi
+
+\string{amiibo_sys_kir_00}
+\code[8,0,11]\code[5,0]\code[1,1]If you have created the same character card\code[5,0]\code[1,1]\\
+in 2 different character card sets,\code[5,0]\code[1,1] you can\\
+make a\color[78,212,255,255] sparkle card\color[230,230,230,255]!\color[230,230,230,255]\wait \color[230,230,230,255]\pagebreak
+\code[5,0]\code[1,1]You can even use an\color[78,212,255,255] amiibo\color[230,230,230,255] that has been\code[5,0]\code[1,1]\\
+registered with a different system!\code[5,0]\code[1,1] Please\\
+note that you'll be able to do this\code[5,0]\code[1,1] only once\\
+\space[1]per day.\wait 
+
+\string{amiibo_sys_kir_err_00}
+\code[8,0,11]\code[5,0]\code[1,1]Your sparkle card hasn't been saved! If you exit now,\code[5,0]\code[1,1]\\
+it will revert to a regular character card.\wait 
+
+\string{amiibo_sys_mak_err_06}
+\code[8,0,11]\code[0,1,10]\code[5,0]\code[1,1]All LV \color[78,212,255,255]2\color[230,230,230,255] character cards have\code[5,0]\code[1,1] been created for\\
+this amiibo.\code[5,0]\code[1,1] You cannot make any more LV 2\\
+character cards.\wait \code[0,1,65535]
+
+\string{bgm_title_47}
+\code[8,0,4]Get Ready!
+
+\string{menu_outline_47}
+\code[8,0,4]\code[1,1]You tackled a whole team of Chargin' Chucks.\\
+Now ride that momentum all the way to\\
+Bowser's Castle!
+
+\string{Dash_04_2}
+\code[8,0,11]You will continue dashing until you release\\
+the Circle Pad.
+
+\string{EC_Text_AvoidPBombhei}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Bob-omb\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BRcb05S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Bowser\color[230,230,230,255]\\
+in the Battle Ring.
+
+\string{EC_Text_ChrCardTotalR3}
+\code[8,0,11]Use character cards\color[44,100,255,255] 100\color[230,230,230,255] times.
+
+\string{EC_Title_AvoidOTogezo}
+\code[8,0,12]Spiny Dodge
+
+\string{EC_Title_KillKiraR2}
+\code[8,0,12]Shiny Enemy Destroyer
+
+\string{EC_Title_NoEscape}
+\code[8,0,12]Fearless Warrior
+
+\string{FldGuide_07_0}
+\code[8,0,11]Press \color[44,100,255,255]\codepoint[0xE054]\color[230,230,230,255] to refill HP and \color[44,100,255,255]\codepoint[0xE055]\color[230,230,230,255] to refill BP using\\
+items.\color[255,67,67,255] (New Nintendo 3DS only)\color[230,230,230,255]
+
+\string{amiibo_char_02}
+\code[8,0,4]Peach
+
+\string{amiibo_sys_kir_01}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—you've already made a sparkle\code[5,0]\code[1,1]\\
+card today.\code[5,0]\code[1,1] Please try again\\
+tomorrow.\wait 
+
+\string{amiibo_sys_kir_err_01}
+\code[8,0,11]\code[5,0]\code[1,1]Continue creating sparkle card?\\
+\option \space[1]Yes\hspace[32]\option \space[1]No\code[2,0,10]
+
+\string{amiibo_sys_mak_err_07}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry, you can't make a duo\code[5,0]\code[1,1] card using\\
+that\color[78,212,255,255] amiibo\color[230,230,230,255].\code[5,0]\code[1,1] Try using another\color[78,212,255,255] amiib\color[230,230,230,255]o the\color[255,112,112,255]\\
+next\color[230,230,230,255] time you\code[5,0]\code[1,1] get a chance to create a\\
+duo card!\wait 
+
+\string{bgm_title_48}
+\code[8,0,4]You Did It!
+
+\string{menu_outline_48}
+\code[8,0,4]\code[1,1]You made it back to Twinsy Tropics—only to\\
+find more paper terrain in your way. Well,\\
+you know how to deal with that, right?
+
+\string{BtlGuide_40_0}
+\code[8,0,11]Expert Challenges are special achievements that\\
+you complete by battling. Each one earns you\\
+points that you can spend on gear!
+
+\string{EC_Title_KillKiraR3}
+\code[8,0,12]Shiny Enemy Obliterator
+
+\string{FldGuide_07_1}
+\code[8,0,11]Be careful! If you don't have the right items,\\
+your HP and BP won't refill all the way.
+
+\string{amiibo_char_03}
+\code[8,0,4]Yoshi
+
+\string{amiibo_sys_kir_02}
+\code[8,0,11]\code[5,0]\code[1,1]To create a sparkle card, you need at least \color[78,212,255,255]1\color[230,230,230,255] character\code[5,0]\code[1,1]\\
+card registered to each compatible amiibo.\code[5,0]\code[1,1] Try making\\
+more character cards, and then give\code[5,0]\code[1,1] it another shot!\wait 
+
+\string{menu_outline_49}
+\code[8,0,4]\code[1,1]You've got Bowser's medallion... Now you just\\
+need to figure out where to put it. Explore\\
+the catacombs beneath Twinsy Tropics.
+
+\string{BtlGuide_31_0}
+\code[8,0,11]Everyone in your party has his own button for\\
+battle actions. You can control Mario with \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255],\\
+Luigi with \color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255], and Paper Mario with \color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255].
+
+\string{BtlGuide_40_1}
+\code[8,0,11]View Expert Challenges by tapping the medal\\
+icon during battle or by opening the menu\\
+and selecting GUIDE.
+
+\string{EC_Text_KillAllOneAtkP}
+\code[8,0,11]Defeat all enemies in 1 move as\color[44,100,255,255] Paper Mario\color[230,230,230,255].
+
+\string{EC_Text_NoWear}
+\code[8,0,11]Defeat a boss without using any wear.
+
+\string{EC_Title_AvoidOHbros}
+\code[8,0,12]Hammer Bro Dodge
+
+\string{EC_Title_AvoidTpDef}
+\code[8,0,12]Trampoline Challenge
+
+\string{EC_Title_JumpOnly}
+\code[8,0,12]Excellent Jump
+
+\string{TrioCatch_07_0}
+\code[8,0,11]Switch the action icon to the glove, and then\\
+press\color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] →\color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255]→\color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to do\color[44,100,255,255] Trio Grab\color[230,230,230,255].
+
+\string{amiibo_char_04}
+\code[8,0,4]Toad
+
+\string{amiibo_sys_mak_err_09}
+\code[8,0,11]\code[5,0]\code[1,1]You've already created a duo card using this\color[78,212,255,255] amiibo\color[230,230,230,255].\code[5,0]\code[1,1]\\
+Try again with a different\color[78,212,255,255] amiibo\color[230,230,230,255] the\color[255,112,112,255] next\color[230,230,230,255] time\code[5,0]\code[1,1] you\\
+get a chance to make a duo card.\wait 
+
+\string{menu_card_alelt_lacking}
+\code[8,0,3]Select 10 battle cards to make a set.
+
+\string{menu_card_alert_panel_2_reedit_text}
+\code[8,0,3]Restore battle card set? If you select YES, your\\
+battle card set will revert to your most recent\\
+settings. Changes will not be saved.
+
+\string{menu_outline_61_a}
+\code[8,0,4]\code[1,1]Was Gloomy Woods always THIS gloomy?\\
+Hope Luigi's ready to see some ghosts...
+
+\string{BtlGuide_31_1}
+\code[8,0,11]Once it's your turn, choose a\color[44,100,255,255] Command Block\color[230,230,230,255]\\
+and take action.
+
+\string{BtlGuide_40_2}
+\code[8,0,11]A good strategy is to start on the Expert\\
+Challenges you think you can complete.
+
+\string{BtlGuide_add_00}
+\code[8,0,11]\code[5,0]\code[1,1]A new chapter has been added to the\color[78,212,255,255]\\
+Battle Guide\color[230,230,230,255].\code[2,0,10]\wait 
+
+\string{EC_Text_BRcb01}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Megacrinkle Goomba\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_CardKill}
+\code[8,0,11]Defeat \color[44,100,255,255]8\color[230,230,230,255] or more enemies at once with a single\\
+battle card.
+
+\string{EC_Title_BRObull}
+\code[8,0,12]Chargin' Chucks Corps
+
+\string{TrioCatch_07_1}
+\code[8,0,11]When all three teammates are standing on each\\
+other's shoulders, press \color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to\color[44,100,255,255] extend sideways\color[230,230,230,255].
+
+\string{amiibo_char_05}
+\code[8,0,4]Bowser
+
+\string{amiibo_com_00a}
+\code[8,0,3]Tap an amiibo on the\color[44,100,255,255] Touch Screen\color[230,230,230,255].
+
+\string{menu_outline_61_b}
+\code[8,0,4]\code[1,1]Luigi's on his own in Gloomy Woods!\\
+Come on, Luigi! Mario and Paper Mario\\
+are counting on you!
+
+\string{menu_outline_onmenu_00}
+\code[8,0,4]\code[1,1]Find all of the Paper Toads!
+
+\string{BtlGuide_18_0}
+\code[8,0,11]Just before an enemy attacks, your characters\\
+will crouch in readiness if you can do a\color[44,100,255,255] Jump\\
+Guard\color[230,230,230,255].
+
+\string{BtlGuide_31_2}
+\code[8,0,11]Slide the\color[44,100,255,255] Circle Pad left\color[230,230,230,255] or\color[44,100,255,255] right\color[230,230,230,255] to scroll\\
+through Command Blocks, and then press the\\
+active character's button to make your choice.
+
+\string{BtlGuide_add_01}
+\code[8,0,11]\code[5,0]\code[1,1]Take a look at it anytime by tapping the\color[78,212,255,255]\\
+Battle Guide icon\color[230,230,230,255] on the lower screen!\code[2,0,30]\wait 
+
+\string{EC_Text_BRcb02}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Kamek\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AvoidOFbros}
+\code[8,0,12]Fire Bro Dodge\space[1]
+
+\string{EC_Title_BRcb05S}
+\code[8,0,12]Papercraft Bowser S Rating
+
+\string{TrioCatch_07_2}
+\code[8,0,11]Use this move to grab things and throw them,\\
+or use it to pull yourself over distances.
+
+\string{amiibo_com_00b}
+\code[8,0,3]Tap an amiibo on the\color[44,100,255,255] NFC reader/writer\color[230,230,230,255].
+
+\string{menu_outline_61_c}
+\code[8,0,4]\code[1,1]You rescued Mario! Now, where could they\\
+be keeping Paper Mario?
+
+\string{menu_outline_onmenu_01}
+\code[8,0,4]\code[1,1]Explore Peach's Castle, and get ready for\\
+adventures in the Mushroom Kingdom!\space[1]
+
+\string{BtlGuide_18_1}
+\code[8,0,11]Press a character's button to make him jump.\\
+Time it right, and you can avoid taking damage.
+
+\string{BtlGuide_31_3}
+\code[8,0,11]Win battles by defeating all on-screen\\
+enemies. First, try attacking an enemy by\\
+choosing the\color[44,100,255,255] Jump Block\color[230,230,230,255].
+
+\string{EC_Text_BRcb03}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Bowser Jr.\color[230,230,230,255] in the Battle Ring.
+
+\string{amiibo_sys_kir_06}
+\code[8,0,11]\code[5,0]\code[1,1]Failed to write to the amiibo.\\
+Try again? \option \space[1]Yes\hspace[32]\option \space[1]No\code[2,0,10]
+
+\string{menu_collect_block}
+\code[8,0,4]Total number of blocks hit.
+
+\string{menu_outline_61_d}
+\code[8,0,4]\code[1,1]You scared off King Boo and got the trio\\
+back together! Now head for Mount Brrr.
+
+\string{menu_outline_onmenu_02}
+\code[8,0,4]\code[1,1]Make your way through Sunbeam Plains.\space[1]
+
+\string{BtlGuide_18_2}
+\code[8,0,11]You can even deal damage to some enemies\\
+by landing on them. Timing is everything.
+
+\string{EC_Text_AMsquashA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Racquet\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_BROkteresaS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] King Boo\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_BRcb04}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft King Boo\color[230,230,230,255] in the Battle Ring.
+
+\string{amiibo_mak_00}
+\code[8,0,3]Select a ? Card, and confirm with \color[44,100,255,255]\codepoint[0xE000]\color[230,230,230,255].
+
+\string{amiibo_sys_kir_08a}
+\code[8,0,11]\code[5,0]\code[1,1]That's the same\color[78,212,255,255] amiibo\color[230,230,230,255] you already tapped.\code[5,0]\code[1,1]\\
+Please tap a different\color[78,212,255,255] amiibo\color[230,230,230,255].\wait 
+
+\string{m_tuto_card_10}
+\code[8,0,6]and then press \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255] to register it.
+
+\string{menu_outline_onmenu_03}
+\code[8,0,4]\code[1,1]Dash across Sunbeam Plains, and get ready to\\
+face off against a familiar foe...\space[1]
+
+\string{EC_Text_BRcb05}
+\code[8,0,11]Defeat\color[44,100,255,255] Papercraft Bowser\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AMtekkyuA}
+\code[8,0,12]Cannonball Chuck A Rating
+
+\string{EC_Title_AvoidPPatapata}
+\code[8,0,12]Paper Paratroopa Dodge
+
+\string{FldGuide_05_0}
+\code[8,0,11]You can save your progress by tapping\\
+the\color[44,100,255,255] SAVE\color[230,230,230,255] button on the Touch Screen.
+
+\string{amiibo_sys_kir_08b}
+\code[8,0,11]\code[5,0]\code[1,1]That's the same\color[78,212,255,255] amiibo\color[230,230,230,255] you already tapped.\code[5,0]\code[1,1]\\
+Please tap a different\color[78,212,255,255] amiibo\color[230,230,230,255].\wait 
+
+\string{m_tuto_card_11}
+\code[8,0,6]Bingo! There's the check mark.\wait 
+
+\string{menu_outline_onmenu_04}
+\code[8,0,4]\code[1,1]Follow those Paper Toads!\space[1]
+
+\string{EC_Text_BRcb06}
+\code[8,0,11]ドデカクラフトバトルの\color[44,100,255,255]\\
+「ドデカクラフトメドレー」\color[230,230,230,255]を\color[230,230,230,255] クリアしよう\color[230,230,230,255]
+
+\string{EC_Title_AMsliderS}
+\code[8,0,12]Toad Trail S Rating
+
+\string{FldGuide_05_1}
+\code[8,0,11]If your game ends for any reason, you can start\\
+over from the last place you saved.
+
+\string{m_tuto_card_12}
+\code[8,0,6]Now you've got a full set\\
+of 10 battle cards again.\wait 
+
+\string{menu_outline_onmenu_05}
+\code[8,0,4]\code[1,1]Visit the Lakitu Info Center in Sunbeam Plains.\space[1]
+
+\string{menu_retire_warn_1}
+\code[8,0,4]\code[1,1]To save, first quit the quest and\\
+return to your previous location.
+
+\string{EC_Text_BROPsambo}
+\code[8,0,11]Defeat\color[44,100,255,255] Big Pokey Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{FldGuide_05_2}
+\code[8,0,11]Be sure to save frequently! There are lots of\\
+tough enemies out there...
+
+\string{m_tuto_card_13}
+\code[8,0,6]All right. You got all of that?\wait 
+
+\string{menu_outline_60}
+\code[8,0,4]\code[1,1]Toadette's at work on something big. Help\\
+her along by rescuing more Paper Toads!
+
+\string{menu_outline_onmenu_06}
+\code[8,0,4]\code[1,1]Go back to the spot in Sunbeam Plains where\\
+those Goombas stashed their papercraft.\space[1]
+
+\string{menu_retire_warn_2}
+\code[8,0,4]\code[1,1]End quest? You will return to\\
+your previous location.
+
+\string{BtlGuide_20_0}
+\code[8,0,11]Each\color[44,100,255,255] battle card\color[230,230,230,255] has a special effect that\\
+can prove helpful in battle.
+
+\string{EC_Text_AvoidPNokonoko}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Koopa Troopa\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_CardKindOneBtl}
+\code[8,0,11]Use\color[44,100,255,255] 10\color[230,230,230,255] battle cards with different effects in a\\
+single battle.
+
+\string{m_tuto_card_14}
+\code[8,0,6]Tap this\color[44,100,255,255] snazzy\color[55,55,55,255] button right here!
+
+\string{menu_card_alert_panel_2_release_title}
+\code[8,0,4]Clear All
+
+\string{menu_outline_61}
+\code[8,0,4]\code[1,1]With the Paper Toads working on a way to\\
+get to Neo Bowser Castle, head out for\\
+another trip up Mount Brrr.
+
+\string{menu_outline_onmenu_07}
+\code[8,0,4]\code[1,1]Head to Doop Doop Dunes.\space[1]
+
+\string{BtlGuide_20_1}
+\code[8,0,11]To use a battle card, you need\color[44,100,255,255] Star Points\color[230,230,230,255],\color[44,100,255,255]\color[230,230,230,255]\color[230,230,230,255]\color[230,230,230,255]\\
+which you gain by pulling off successful\\
+attacks.
+
+\string{Dash_04}
+\code[8,0,12]Dashing
+
+\string{EC_Text_AMarrowA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Whirligig\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AMgiantA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Mega Thwonk\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AvoidOMet}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Buzzy Beetle\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_AllBrosAtk}
+\code[8,0,12]Excellent Bros.
+
+\string{m_result_01}
+\code[8,0,12]Rate of Excellent Actions
+
+\string{m_tuto_card_15}
+\code[8,0,6]And look at that. This thing\\
+is filled with helpful tools.\wait 
+
+\string{menu_card_alert_panel_2_recommend_title}
+\code[8,0,4]Randomly Assign Set
+
+\string{menu_outline_62}
+\code[8,0,4]\code[1,1]What have the Paper Toads built to help you in\\
+your quest? And what awaits on the top of\\
+Mount Brrr?
+
+\string{menu_outline_onmenu_08}
+\code[8,0,4]\code[1,1]Chase Nabbit through Doop Doop Dunes, and\\
+then make your way toward Bowser's Castle.\space[1]
+
+\string{BtlGuide_07_0}
+\code[8,0,11]Use a\color[44,100,255,255] Trio Attack\color[230,230,230,255] to turn enemies to\color[44,100,255,255] paper\color[230,230,230,255] and\\
+then attack them with all of your characters!
+
+\string{BtlGuide_20_2}
+\code[8,0,11]You can use a battle card once you collect the\color[44,100,255,255]\\
+number of Star Points\color[230,230,230,255] written on that card.
+
+\string{EC_Text_BROPsamboS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Big Pokey Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BRObpackun}
+\code[8,0,11]Clear\color[44,100,255,255] Petey Piranha\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_AvoidOHakkun}
+\code[8,0,12]Ninji Dodge
+
+\string{EC_Title_AvoidPKuribo}
+\code[8,0,12]Paper Goomba Dodge
+
+\string{m_result_02}
+\code[8,0,12]Dodge Success Rate
+
+\string{m_tuto_card_16}
+\code[8,0,6]If you don't want to think about it too\\
+much, just press\color[44,100,255,255] RANDOMLY ASSIGN SET\color[55,55,55,255].\wait \pagebreak
+And you'll be all set, just like that!\code[2,0,40] Heh, all\\
+SET. ...Get it? That was totally on purpose.\wait 
+
+\string{menu_outline_63}
+\code[8,0,4]\code[1,1]This is it! Three heroes, two villains, and a\\
+whole lot of paper cuts. Can you defeat\\
+both the Bowsers?
+
+\string{menu_outline_onmenu_09}
+\code[8,0,4]Make your way toward Bowser's Castle.\space[1]
+
+\string{BtlGuide_07_1}
+\code[8,0,11]Complete a\color[44,100,255,255] Trio Attack\color[230,230,230,255] to deal a lot\\
+of damage!
+
+\string{BtlGuide_20_3}
+\code[8,0,11]To earn Star Points more quickly, get the best\\
+ratings possible on solo attacks. Use\color[44,100,255,255] Bros.\\
+and Trio Attacks\color[230,230,230,255] for even more Star Points.
+
+\string{EC_Text_BRPbpackun}
+\code[8,0,11]Clear\color[44,100,255,255] Paper Petey Piranha\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_KillKiraR1}
+\code[8,0,11]Defeat \color[44,100,255,255]3\color[230,230,230,255] shiny enemies.
+
+\string{EC_Title_AvoidPKaron}
+\code[8,0,12]Paper Dry Bones Dodge
+
+\string{m_result_03}
+\code[8,0,12]Expert Challenges Finished
+
+\string{m_tuto_card_17}
+\code[8,0,6]you can always hit this button to\\
+go back to the way things were.\wait 
+
+\string{menu_outline_64}
+\code[8,0,4]\code[1,1]Bowser burned all of your papercrafts! But\\
+it sounds like Toadette has something\\
+amazing in store.
+
+\string{BtlGuide_07_2}
+\code[8,0,11]Each\color[44,100,255,255] Trio Attack\color[230,230,230,255] consumes\color[44,100,255,255] BP\color[230,230,230,255]. Use items\\
+like\color[44,100,255,255] Syrup Jars\color[230,230,230,255] to recover\color[44,100,255,255] BP\color[230,230,230,255].
+
+\string{EC_Text_CoinTotalR1}
+\code[8,0,11]Collect a total o\color[44,100,255,255]f 2,000\color[230,230,230,255] coins.
+
+\string{EC_Text_KillKiraR2}
+\code[8,0,11]Defeat\color[44,100,255,255] 50\color[230,230,230,255] shiny enemies.
+
+\string{EC_Title_AvoidOChoropoo}
+\code[8,0,12]Monty Mole Dodge
+
+\string{EC_Title_BRPbpackunS}
+\code[8,0,12]Paper Petey Piranha S Rating
+
+\string{FldGuide_03_0}
+\code[8,0,11]To use items that you've collected, go to the\\
+menu and select\color[44,100,255,255] ITEMS\color[230,230,230,255].
+
+\string{m_result_04}
+\code[8,0,12]Battle Cards Collected
+
+\string{m_tuto_card_18}
+\code[8,0,6]And you can clear EVERYTHING\\
+out with this button.\wait 
+
+\string{menu_outline_65}
+\code[8,0,4]\code[1,1]You collected all of the ore that Toadette\\
+needed! Now, make your way back to the\\
+upper level of Neo Bowser Castle...
+
+\string{EC_Text_AvoidOTogezo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Spiny\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidPGabon}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Spike\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BrosAtk_00}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] 3D Red Shel\color[230,230,230,255]l\\
+Bros. Attack.
+
+\string{EC_Text_CoinTotalR2}
+\code[8,0,11]Collect a total of\color[44,100,255,255] 12,000\color[230,230,230,255] coins.
+
+\string{EC_Text_KillKiraR3}
+\code[8,0,11]Defeat\color[44,100,255,255] 100\color[230,230,230,255] shiny enemies.
+
+\string{EC_Title_AvoidPHeyho}
+\code[8,0,12]Paper Shy Guy Dodge
+
+\string{EC_Title_BROhchanS}
+\code[8,0,12]Rampaging Wiggler S Rating
+
+\string{FldGuide_03_1}
+\code[8,0,11]You can use items to recover HP or BP before\\
+heading into battle.
+
+\string{amiibo_sys_kir_save_00a}
+\code[8,0,3]Tap the amiibo on the\color[44,100,255,255] Touch Screen\color[230,230,230,255].
+
+\string{m_result_05}
+\code[8,0,12]Block Recovery Rate
+
+\string{m_tuto_card_19}
+\code[8,0,6]Whoa! What time is it? I've\\
+been talking for way too long.\wait \pagebreak
+I just love battle cards...\code[2,0,25] *sigh*\wait 
+
+\string{menu_outline_66}
+\code[8,0,4]\code[1,1]You destroyed Papercraft Bowser! But what\\
+happened to the path? You'll need to find\\
+another way to get to the Bowsers.
+
+\string{EC_Text_BrosAtk_01}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Fire Flowe\color[230,230,230,255]r\\
+Bros. Attack.
+
+\string{EC_Text_CoinTotalR3}
+\code[8,0,11]Collect a total of\color[44,100,255,255] 30,000\color[230,230,230,255] coins.
+
+\string{EC_Title_AvoidPBombhei}
+\code[8,0,12]Paper Bob-omb Dodge
+
+\string{FldGuide_03_2}
+\code[8,0,11]Some items can be used only during battle.\\
+Check your inventory frequently!
+
+\string{amiibo_sys_kir_06_sai}
+\code[8,0,11]\code[5,0]\code[1,1]If you quit, your sparkle card data will be\\
+lost. Are you sure you want to quit? \option \space[1]No\hspace[32]\option \\
+Yes\code[2,0,10]
+
+\string{amiibo_sys_kir_save_00b}
+\code[8,0,3]Tap the amiibo on the\color[44,100,255,255] NFC reader/writer\color[230,230,230,255].
+
+\string{m_result_06}
+\code[8,0,12]Paper Toads Rescued
+
+\string{menu_outline_67}
+\code[8,0,4]\code[1,1]The path to Bowser and Paper Bowser is open.\\
+It's time to settle this once and for all!
+
+\string{EC_Text_BrosAtk_02}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Rocket Blast\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Title_AllTrioAtk}
+\code[8,0,12]Excellent Trio
+
+\string{amiibo_sys_mak_00}
+\code[8,0,11]\code[0,1,10]\code[5,0]\code[1,1]You don't have any \color[78,212,255,255]? Cards\color[230,230,230,255]. To\code[5,0]\code[1,1] create a\\
+character card, you\code[5,0]\code[1,1] need a \color[78,212,255,255]? Card\color[230,230,230,255].\wait \pagebreak
+\code[5,0]\code[1,1]You can buy \color[78,212,255,255]? Cards\color[230,230,230,255] from the\code[5,0]\code[1,1] Toad in\\
+front of the counter\code[5,0]\code[1,1] in certain card\\
+shops!\wait \pagebreak
+\code[0,1,65535]\code[5,0]\code[1,1]You'll also occasionally get \code[0,1,10]\color[78,212,255,255]? Cards\color[230,230,230,255]\code[0,1,65535] by\code[5,0]\code[1,1]\\
+defeating certain enemies in battle or by\code[5,0]\code[1,1]\\
+\space[1]progressing through the story.\wait 
+
+\string{bgm_title_10}
+\code[8,0,4]Good-Bye Sadness
+
+\string{m_result_07}
+\code[8,0,12]Item Patches Drilled
+
+\string{menu_card_alert_panel_2_recommend_text}
+\code[8,0,3]Randomly assign battle cards to this set?
+
+\string{menu_outline_10}
+\code[8,0,4]\code[1,1]You'll need even more Paper Toads to field\\
+a papercraft of your own. Keep looking!
+
+\string{menu_top_guide_fguide}
+\code[8,0,4]Learn about game basics and Trio Moves.
+
+\string{BtlGuide_14_0}
+\code[8,0,11]To begin, move the target using the\color[44,100,255,255] Circle Pad\color[230,230,230,255].
+
+\string{EC_Text_BrosAtk_03}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Drill Shel\color[230,230,230,255]l\\
+Bros. Attack.
+
+\string{EC_Title_AvoidOSambo}
+\code[8,0,12]Pokey Dodge
+
+\string{bgm_title_11}
+\code[8,0,4]What Happens Next?
+
+\string{m_result_08}
+\code[8,0,12]Beans Recovered
+
+\string{menu_outline_11}
+\code[8,0,4]\code[1,1]You rescued enough Paper Toads to build\\
+a papercraft of your own.
+
+\string{menu_save_1}
+\code[8,0,4]Saving. Don't turn off the\\
+power.
+
+\string{menu_status_eq_off_disp_on_Y}
+\code[8,0,3]Display status without gear equipped:
+
+\string{BtlGuide_10}
+\code[8,0,12]Targeted Character
+
+\string{BtlGuide_14_1}
+\code[8,0,11]Press either Mario's or Luigi's button to throw\\
+the\color[44,100,255,255] boomerang\color[230,230,230,255] at your target.
+
+\string{EC_Text_BrosAtk_04}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Bomb Derby\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Title_AvoidODskuribo}
+\code[8,0,12]Big Tail Goomba Dodge
+
+\string{EC_Title_AvoidOMkoopa}
+\code[8,0,12]Mechakoopa Dodge
+
+\string{FldGuide_00}
+\code[8,0,12]Character Movement
+
+\string{TrioGlider_09}
+\code[8,0,12]Trio Glider
+
+\string{bgm_title_12}
+\code[8,0,4]Just Passing Time
+
+\string{menu_outline_12}
+\code[8,0,4]\code[1,1]Whew! You beat the Megacrinkle Goomba! But\\
+there's no rest for the awesome—those\\
+princesses aren't going to rescue themselves.
+
+\string{menu_save_2}
+\code[8,0,4]Save complete. Press \codepoint[0xE073] to return to\\
+the HOME Menu.
+
+\string{menu_top_guide_bcha}
+\code[8,0,4]View Expert Challenges and your completion rate.
+
+\string{BtlGuide_11}
+\code[8,0,12]Jump Guard
+
+\string{BtlGuide_14_2}
+\code[8,0,11]Sometimes you need to aim for an enemy, and\\
+other times you need to aim for an object.\\
+Calmly move your target and fire away!
+
+\string{EC_Text_BrosAtk_05}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Dropchopper\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Title_AvoidONokonoko}
+\code[8,0,12]Koopa Troopa Dodge
+
+\string{EC_Title_DmgOneAtkR1}
+\code[8,0,12]A Painful Blow
+
+\string{FldGuide_01}
+\code[8,0,12]Character Buttons
+
+\string{amiibo_sys_etr_err_00}
+\code[8,0,11]\code[5,0]\code[1,1]No owner has been registered for this amiibo.\\
+To create a character card set, first register\\
+an owner for your amiibo.
+
+\string{bgm_title_13}
+\code[8,0,4]Do It Now!
+
+\string{menu_outline_onmenu_20}
+\code[8,0,4]\code[1,1]Make your way to the top of Mount Brrr.\space[1]
+
+\string{BtlGuide_12}
+\code[8,0,12]Hammer Guard
+
+\string{EC_Text_BrosAtk_06}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Cannonball Chuck\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_CounterTotalR1}
+\code[8,0,11]Defeat\color[44,100,255,255] 20\color[230,230,230,255] enemies with counterattacks.
+
+\string{EC_Text_KillPaperCritR1}
+\code[8,0,11]Defeat\color[44,100,255,255] 10\color[230,230,230,255] paper enemies with fire.
+
+\string{EC_Text_PJump}
+\code[8,0,11]With max copies, get an\color[44,100,255,255] Excellen\color[230,230,230,255]t with Paper Mario's\color[44,100,255,255]\\
+Jump\color[230,230,230,255] attack.
+
+\string{EC_Title_DmgOneAtkR2}
+\code[8,0,12]A More Painful Blow
+
+\string{FldGuide_01_0}
+\code[8,0,11]Control Mario's actions with \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255], Luigi's with \color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255],\\
+and Paper Mario's with \color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255].
+
+\string{FldGuide_02}
+\code[8,0,12]Character Buttons
+
+\string{amiibo_sys_etr_err_01}
+\code[8,0,11]\code[5,0]\code[1,1]Register an owner?\\
+\option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{amiibo_sys_mak_04}
+\code[8,0,11]\code[5,0]\code[1,1]Failed to write to the amiibo.\\
+Try again? \option \space[1]Yes\hspace[32]\option \space[1]No\code[2,0,10]
+
+\string{bgm_title_14}
+\code[8,0,4]Bowser's Coming!
+
+\string{menu_outline_14}
+\code[8,0,4]\code[1,1]There's Nabbit again! Don't let him get away\\
+with any more of your stuff! Oh, and make your\\
+way toward Bowser's Castle.
+
+\string{menu_outline_onmenu_21}
+\code[8,0,4]\code[1,1]Visit the Lakitu Info Center in Mount Brrr's\\
+Toad Village.\space[1]
+
+\string{BtlGuide_13}
+\code[8,0,12]Airplane Guard
+
+\string{EC_Text_BrosAtk_07}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Balloon Blast\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_CounterTotalR2}
+\code[8,0,11]Defeat\color[44,100,255,255] 200\color[230,230,230,255] enemies with counterattacks.
+
+\string{EC_Text_KillPaperCritR2}
+\code[8,0,11]Defeat\color[44,100,255,255] 50\color[230,230,230,255] paper enemies with fire.
+
+\string{EC_Title_AvoidPBBros}
+\code[8,0,12]Paper Boomerang Bro Dodge
+
+\string{EC_Title_BRObullS}
+\code[8,0,12]Chargin' Chucks Corps S Rating
+
+\string{EC_Title_DmgOneAtkR3}
+\code[8,0,12]An Even More Painful Blow
+
+\string{FldGuide_03}
+\code[8,0,12]Items
+
+\string{amiibo_sys_etr_err_02}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—registration failed. Please try again.\wait 
+
+\string{amiibo_sys_mak_05}
+\code[8,0,11]\code[5,0]\code[1,1]Now's your chance to make a\color[78,212,255,255] duo card\color[230,230,230,255]!\code[5,0]\code[1,1] Simply tap the\\
+compatible amiibo of a different character\code[5,0]\code[1,1] to the Touch\\
+Screen or NFC area.\wait \pagebreak
+\code[5,0]\code[1,1]You can even use an amiibo without any character\code[5,0]\code[1,1] card\\
+sets registered to it.\wait \pagebreak
+\code[5,0]\code[1,1]If you don't have a different amiibo,\code[5,0]\code[1,1] you can cancel by\\
+pressing \codepoint[0xE001].\wait 
+
+\string{bgm_title_15}
+\code[8,0,4]Respect Your Elders
+
+\string{menu_outline_15}
+\code[8,0,4]\code[1,1]You got a new Bros. Attack! But Nabbit\\
+escaped again...
+
+\string{menu_outline_onmenu_22}
+\code[8,0,4]\code[1,1]Keep traversing Mount Brrr. If you're looking\\
+for a shortcut, try visiting the Lakitu Info\\
+Center...\space[1]
+
+\string{menu_top_guide_outline}
+\code[8,0,4]Read a short recap, and view your current objective.
+
+\string{BtlGuide_14}
+\code[8,0,12]Boomerang Guard
+
+\string{EC_Text_AvoidOPukupuku}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Cheep Cheep\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidPYariho}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Spear Guy\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BrosAtk_08}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Toad Trail\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_CounterTotalR3}
+\code[8,0,11]Defeat\color[44,100,255,255] 400\color[230,230,230,255] enemies with counterattacks.
+
+\string{EC_Text_KillPaperCritR3}
+\code[8,0,11]Defeat\color[44,100,255,255] 120\color[230,230,230,255] paper enemies with fire.
+
+\string{EC_Title_NoUIAssistR1}
+\code[8,0,12]Beginner Sidestepper
+
+\string{EC_Title_TrioAtkSerial_00}
+\code[8,0,12]Expert Trio Racquet
+
+\string{FldGuide_04}
+\code[8,0,12]Gear
+
+\string{TrioDrill_08}
+\code[8,0,12]Trio Drill
+
+\string{TrioHammer_06_0}
+\code[8,0,11]Switch the action icon to the hammer, and\\
+then press\color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255] →\color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255]→\color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to use\color[44,100,255,255] Trio Hammer\color[230,230,230,255].
+
+\string{amiibo_sys_etr_err_03}
+\code[8,0,11]\code[5,0]\code[1,1]You've already created a character card set.\code[5,0]\code[1,1]\\
+Now you can make character cards\code[5,0]\code[1,1] using the\color[78,212,255,255]\\
+Make a Card\color[230,230,230,255] menu!
+
+\string{bgm_title_16}
+\code[8,0,4]Whispered Secrets
+
+\string{menu_outline_16}
+\code[8,0,4]\code[1,1]You just learned Trio Hammer! Now put it to\\
+good use and SMASH!
+
+\string{menu_outline_onmenu_23}
+\code[8,0,4]\code[1,1]Follow the Bowser Jrs.! Where will they take\\
+the princesses next?\space[1]
+
+\string{EC_Text_AMsquashS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Racquet\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_BrosAtk_09}
+\code[8,0,11]Get an\color[44,100,255,255] Excellent\color[230,230,230,255] with the\color[44,100,255,255] Mega Thwon\color[230,230,230,255]k\\
+Bros. Attack.
+
+\string{EC_Title_NoUIAssistR2}
+\code[8,0,12]Advanced Sidestepper
+
+\string{EC_Title_TrioAtkSerial_01}
+\code[8,0,12]Expert Trio Kite
+
+\string{FldGuide_05}
+\code[8,0,12]Saving
+
+\string{TrioHammer_06_1}
+\code[8,0,11]Use Trio Hammer to destroy large objects\\
+or flip things over.
+
+\string{bgm_title_17}
+\code[8,0,4]Peach's Castle Theme
+
+\string{menu_outline_17}
+\code[8,0,4]\code[1,1]Whoops. Those Pokeys are no joke. You'll\\
+have to find a way to get past them...
+
+\string{menu_outline_onmenu_24}
+\code[8,0,4]\code[1,1]Make your way through Doop Doop Dunes to\\
+Twinsy Tropics.\space[1]
+
+\string{BtlGuide_12_0}
+\code[8,0,11]Wielding hammers during an enemy's attack is a\\
+sign that your party can do a\color[44,100,255,255] Hammer Guard\color[230,230,230,255].
+
+\string{EC_Text_AllBrosAtk}
+\code[8,0,11]After all\color[44,100,255,255] Bros. Attacks\color[230,230,230,255] have been unlocked,\\
+get an\color[44,100,255,255] Excellent\color[230,230,230,255] with each at least once.
+
+\string{EC_Text_BRcb02S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft Kamek\color[230,230,230,255] in\\
+the Battle Ring.
+
+\string{EC_Title_AMtekkyuS}
+\code[8,0,12]Cannonball Chuck S Rating
+
+\string{EC_Title_CardTotalR1}
+\code[8,0,12]Card Beginner
+
+\string{EC_Title_NoUIAssistR3}
+\code[8,0,12]Master Sidestepper
+
+\string{EC_Title_TrioAtkSerial_02}
+\code[8,0,12]Expert Trio Whirligig
+
+\string{FldGuide_06}
+\code[8,0,12]Map
+
+\string{bgm_title_18}
+\code[8,0,4]Springtime Breeze
+
+\string{menu_outline_18}
+\code[8,0,4]\code[1,1]You rescued a whole bunch of Paper Toads!\\
+But it looks like you'll need about 8 more if\\
+you want them to build something amazing...
+
+\string{menu_outline_onmenu_25}
+\code[8,0,4]\code[1,1]Find the pipe leading to the Twinsy Tropics\\
+underground.\space[1]
+
+\string{AmiiboGuide_06_0}
+\code[8,0,11]Duo cards function the same way as character\\
+cards but feature 2 different characters on a\\
+single card.
+
+\string{BtlGuide_03_0}
+\code[8,0,11]You can practice a selected attack or view a\\
+demo by tapping the appropriate\color[44,100,255,255] button on\\
+the lower screen\color[230,230,230,255].
+
+\string{BtlGuide_12_1}
+\code[8,0,11]Ready a character's hammer by pressing and\\
+holding the corresponding\color[44,100,255,255] button\color[230,230,230,255].
+
+\string{EC_Text_BROPkpjr}
+\code[8,0,11]Clear\color[44,100,255,255] Bowser Jr. Duo\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Text_BROkteresa}
+\code[8,0,11]Clear\color[44,100,255,255] King Boo\color[230,230,230,255] in the Battle Ring.
+
+\string{EC_Title_CardTotalR2}
+\code[8,0,12]Card Veteran
+
+\string{EC_Title_KillPaperCritR1}
+\code[8,0,12]Flicker
+
+\string{EC_Title_TrioAtkSerial_03}
+\code[8,0,12]Expert Trio Shuriken
+
+\string{FldGuide_07}
+\code[8,0,12]Recovering HP and BP
+
+\string{bgm_title_19}
+\code[8,0,4]Uh-Oh, Sand Flow!
+
+\string{menu_outline_19}
+\code[8,0,4]\code[1,1]You got something to help you jump really\\
+high! Maybe that could get you past those\\
+darn Pokeys...
+
+\string{menu_outline_onmenu_26}
+\code[8,0,4]\code[1,1]Figure out a way to get inside\\
+Bowser's Castle.\space[1]
+
+\string{AmiiboGuide_06_1}
+\code[8,0,11]To create one, you'll need \color[44,100,255,255]2\color[230,230,230,255] different\\
+compatible amiibo.
+
+\string{BtlGuide_03_1}
+\code[8,0,11]Watching the\color[44,100,255,255] demo\color[230,230,230,255] will help you learn how\\
+to time your actions during the attack.
+
+\string{BtlGuide_12_2}
+\code[8,0,11]When the enemy closes in, release the\color[44,100,255,255]\\
+button\color[230,230,230,255] to swing the hammer forward.
+
+\string{BtlGuide_18}
+\code[8,0,12]Jump Guard
+
+\string{EC_Text_AvoidOHakkun}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Ninji\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidOHeyho}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Shy Guy\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidPKuribo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Goomba\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_BROPkameckS}
+\code[8,0,12]Kamek Duo S Rating
+
+\string{EC_Title_CardTotalR3}
+\code[8,0,12]Card Master
+
+\string{EC_Title_KillPaperCritR2}
+\code[8,0,12]Blaze
+
+\string{EC_Title_TrioAtkSerial_04}
+\code[8,0,12]Expert Trio Meteor
+
+\string{FldGuide_08}
+\code[8,0,12]Paper Toad Rescue
+
+\string{menu_load_1}
+\code[8,0,4]Delete this file?
+
+\string{menu_outline_onmenu_27}
+\code[8,0,4]\code[1,1]Make your way through Bowser's Castle in\\
+pursuit of the Bowser Jrs.!\space[1]
+
+\string{AmiiboGuide_06_2}
+\code[8,0,11]If you see a message reading\color[44,100,255,255] "NOW'S YOUR\\
+CHANCE!\color[230,230,230,255]" while making a regular character\\
+card, you can make a duo card!
+
+\string{BtlGuide_03_2}
+\code[8,0,11]In\color[44,100,255,255] Practice\color[230,230,230,255] mode, you can try out the attack\\
+for yourself. Hone your skills before facing\\
+off against real enemies!
+
+\string{BtlGuide_12_3}
+\code[8,0,11]Paper Mario's copies will all take a swing when\\
+you use his hammer.
+
+\string{BtlGuide_19}
+\code[8,0,12]Emergency Block
+
+\string{BtlGuide_38_0}
+\code[8,0,11]You can check up on the\color[44,100,255,255] status\color[230,230,230,255] of any of\\
+your characters via the menu.
+
+\string{EC_Text_NoItem}
+\code[8,0,11]Defeat a boss without using any items.
+
+\string{EC_Title_AvoidPTeresa}
+\code[8,0,12]Paper Boo Dodge
+
+\string{EC_Title_ChargeStar}
+\code[8,0,12]Stargazer
+
+\string{EC_Title_KillPaperCritR3}
+\code[8,0,12]Wildfire
+
+\string{FldGuide_09}
+\code[8,0,12]Character Movement
+
+\string{amiibo_com_01a_00}
+\code[8,0,3]Remove the amiibo from the\color[44,100,255,255] Touch Screen\color[230,230,230,255] to stop the roulette.
+
+\string{menu_card_alert_panel_2_lack_title}
+\code[8,0,4]Not Enough Battle Cards
+
+\string{menu_load_2}
+\code[8,0,4]Deleted game data can't be recovered.\\
+Do you want to continue?
+
+\string{menu_outline_onmenu_28}
+\code[8,0,4]\code[1,1]Head back to Peach's Castle.\space[1]
+
+\string{AmiiboGuide_06_3}
+\code[8,0,11]Remove the\color[44,100,255,255] firs\color[230,230,230,255]t amiibo you tapped from the\\
+NFC area temporarily, and prepare an amiibo\\
+of a different character.
+
+\string{BtlGuide_29_0}
+\code[8,0,11]The\color[44,100,255,255] Hint Block\color[230,230,230,255] will appear while battling in\\
+Easy Mode or if your party is defeated and\\
+needs to restart a battle.
+
+\string{BtlGuide_38_1}
+\code[8,0,11]There are 6 areas to watch: HP, BP, POW,\\
+DEF, SPEED, and STACHE.
+
+\string{EC_Text_AMarrowS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Trio Whirligig\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AMgiantS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Mega Thwonk\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AvoidOPWanwan}
+\code[8,0,11]Dodge \color[44,100,255,255]5\color[230,230,230,255] attacks in a row from either\color[44,100,255,255] Chain Chomps\color[230,230,230,255] or\color[44,100,255,255]\\
+Paper Chain Chomps\color[230,230,230,255] or both.\color[44,100,255,255]\color[230,230,230,255]
+
+\string{EC_Title_BRcb02S}
+\code[8,0,12]Papercraft Kamek S Rating
+
+\string{EC_Title_ChrCardTotalR1}
+\code[8,0,12]Character Card Beginner
+
+\string{EC_Title_KillAllOneAtkL}
+\code[8,0,12]Super Luigi!
+
+\string{menu_load_3}
+\code[8,0,4]Deleting game data.
+
+\string{menu_outline_onmenu_29}
+\code[8,0,4]\code[1,1]Make your way through Gloomy Woods.\space[1]
+
+\string{AmiiboGuide_06_4}
+\code[8,0,11]You can even use an amiibo that hasn't been\\
+registered or set up with a character card set.\\
+No data will be written to the second amiibo.
+
+\string{BtlGuide_29_1}
+\code[8,0,11]The\color[44,100,255,255] Hint Block\color[230,230,230,255] will give you hints about\\
+how to battle or the quirks of a particular\\
+enemy.
+
+\string{BtlGuide_38_2}
+\code[8,0,11]\color[44,100,255,255]HP\color[230,230,230,255] is your health. Your characters lose HP\\
+when enemies land attacks, and if it reaches\\
+0, they will faint.
+
+\string{EC_Title_AvoidOTenten}
+\code[8,0,12]Biddybud Dodge
+
+\string{EC_Title_AvoidTotalR1}
+\code[8,0,12]Dodge Apprentice
+
+\string{EC_Title_ChrCardTotalR2}
+\code[8,0,12]Character Card Veteran
+
+\string{EC_Title_KillAllOneAtkM}
+\code[8,0,12]Super Mario!
+
+\string{menu_load_4}
+\code[8,0,4]Copy this file?
+
+\string{menu_set_ruby_btn_title}
+　\code[8,0,3]
+
+\string{AmiiboGuide_06_5}
+\code[8,0,11]Tap the second compatible amiibo and follow\\
+the on-screen prompts to proceed.
+
+\string{BtlGuide_29_2}
+\code[8,0,11]You won't lose a turn when you use the Hint\\
+Block, so read as many hints as you like!
+
+\string{BtlGuide_38_3}
+\code[8,0,11]\color[44,100,255,255]BP\color[230,230,230,255] stands for Bros. Points. You spend Bros.\\
+Points every time you use a Bros. Attack or\\
+a Trio Attack.
+
+\string{EC_Text_AllTrioAtk}
+\code[8,0,11]After all\color[44,100,255,255] Trio Attacks\color[230,230,230,255] have been unlocked,\\
+get an\color[44,100,255,255] Excellent\color[230,230,230,255] with each at least once.
+
+\string{EC_Title_AvoidTotalR2}
+\code[8,0,12]Dodge Enthusiast
+
+\string{EC_Title_ChrCardTotalR3}
+\code[8,0,12]Character Card Master
+
+\string{menu_load_5}
+\code[8,0,4]There's already game data saved\\
+in File 2. Do you want to\\
+overwrite it with the game data\\
+in File 1?
+
+\string{AmiiboGuide_06_6}
+\code[8,0,11]Assuming both amiibo are compatible, you\\
+will create a powerful and rare duo card!
+
+\string{BtlGuide_10_0}
+\code[8,0,11]A\color[44,100,255,255] red outline\color[230,230,230,255] indicates the target of an\\
+enemy's attack.
+
+\string{BtlGuide_38_4}
+\code[8,0,11]\color[44,100,255,255]POW\color[230,230,230,255] is your attack power. The higher the\\
+number, the more damage you can deal.
+
+\string{EC_Text_AMsliderA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Toad Trail\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AvoidOTarihei}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Horned Ant Trooper\color[230,230,230,255] attacks in a row.
+
+\string{EC_Title_AMshurikenA}
+\code[8,0,12]Trio Shuriken A Rating
+
+\string{EC_Title_AvoidTotalR3}
+\code[8,0,12]Dodge Master
+
+\string{m_tuto_top_01}
+\code[8,0,6]Welcome to the menu! Glorious, isn't it?\\
+Let me give you a little tour.\wait 
+
+\string{menu_collect_paper}
+\code[8,0,4]Total number of item patches discovered.
+
+\string{menu_load_6}
+\code[8,0,4]There's already game data saved\\
+in File 1. Do you want to\\
+overwrite it with the game data\\
+in File 2?
+
+\string{AmiiboGuide_04_0}
+\code[8,0,11]Once you've registered your amiibo and created\\
+at least 1 character card, you're ready to use\\
+that card in battle!
+
+\string{BtlGuide_10_1}
+\code[8,0,11]A\color[44,100,255,255] dotted white line\color[230,230,230,255] indicates a character\\
+who may or may not be attacked.
+
+\string{BtlGuide_38_5}
+\code[8,0,11]\color[44,100,255,255]DEF\color[230,230,230,255] is your defensive power. The higher the\\
+number, the less damage you'll take.
+
+\string{EC_Title_AvoidPHbros}
+\code[8,0,12]Paper Hammer Bro Dodge
+
+\string{EC_Title_BRObking}
+\code[8,0,12]King Bob-omb
+
+\string{EC_Title_BROhchan}
+\code[8,0,12]Rampaging Wiggler
+
+\string{EC_Title_KillAllOneAtkP}
+\code[8,0,12]Super Paper Mario!
+
+\string{SoloHammer_02}
+\code[8,0,12]Hammer
+
+\string{amiibo_sys_err_10}
+\code[8,0,11]\code[5,0]\code[1,1]You need to update your NFC reader/writer to proceed.\\
+\option \space[1]Quit\hspace[32]\option \space[1]Update\code[2,0,10]
+
+\string{m_tuto_top_02}
+\code[8,0,6]First off is th\color[44,100,255,255]e Items\color[55,55,55,255] area.\wait \pagebreak
+From here, you can do things\\
+like use a mushroom to recover.\wait 
+
+\string{menu_load_7}
+\code[8,0,4]Data that is overwritten cannot be\\
+recovered. Do you want to continue?
+
+\string{menu_save_err_1}
+\code[8,0,12]\code[5,0]\code[1,1]The game data is corrupted and must\\
+be deleted. Delete corrupted data\\
+and create new data? \option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{AmiiboGuide_04_1}
+\code[8,0,11]Simply press\color[44,100,255,255] CHARACTER CARD\color[230,230,230,255] in battle,\\
+tap your amiibo, and select a card!
+
+\string{BtlGuide_10_2}
+\code[8,0,11]When you see a\color[44,100,255,255] dotted white line\color[230,230,230,255], watch\\
+the enemy's movement to see who the real\\
+target is.
+
+\string{BtlGuide_38_6}
+\code[8,0,11]\color[44,100,255,255]SPEED\color[230,230,230,255] is how fast you can act. The higher\\
+the number, the more attacks and actions\\
+you can perform in a battle.
+
+\string{EC_Text_AvoidOMkoopa}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Mechakoopa\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidOpheyho}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Fly Guy\color[230,230,230,255] attacks in a row.
+
+\string{amiibo_sys_err_11}
+\code[8,0,11]\code[5,0]\code[1,1]The amiibo data is being restored. Do not\\
+remove the amiibo from the\color[78,212,255,255] NFC area\color[230,230,230,255].
+
+\string{bgm_title_30}
+\code[8,0,4]Where's Toad?
+
+\string{m_tuto_top_03}
+\code[8,0,6]Next up, we have the\color[44,100,255,255] Gear\color[55,55,55,255] section, where\\
+you can change and upgrade your gear.\wait 
+
+\string{menu_load_8}
+\code[8,0,4]Copying the file...
+
+\string{menu_outline_30}
+\code[8,0,4]\code[1,1]You sailed to Sunbeam Plains with plenty of\\
+Toads in tow. Now make it the rest of the way\\
+to Peach's Castle on foot.
+
+\string{menu_save_err_2}
+\code[8,0,12]\code[5,0]\code[1,1]Creating new game data.\\
+Please wait.
+
+\string{AmiiboGuide_04_2}
+\code[8,0,11]Please note that you must register an amiibo\\
+before using it on your system.
+
+\string{BtlGuide_10_3}
+\code[8,0,11]There's always a telltale\color[44,100,255,255] sign\color[230,230,230,255] in the\\
+enemy's actions before it attacks.
+
+\string{BtlGuide_36_0}
+\code[8,0,11]When you win a battle, all of your characters\\
+will earn\color[44,100,255,255] EXP\color[230,230,230,255]. When a character has earned\\
+enough EXP, his\color[44,100,255,255] level\color[230,230,230,255] will go up.
+
+\string{BtlGuide_38_7}
+\code[8,0,11]\color[44,100,255,255]STACHE\color[230,230,230,255] measures how luxuriant and robust\\
+your mustache is. Higher numbers mean more\\
+Lucky Hits and more items from enemies.
+
+\string{EC_Title_AvoidODonketsu}
+\code[8,0,12]Bully Dodge
+
+\string{EC_Title_NoWear}
+\code[8,0,12]Do It Yourself
+
+\string{amiibo_sys_err_12}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—recovery of the amiibo data has failed.\wait 
+
+\string{amiibo_top_00}
+\code[8,0,3]View character cards.
+
+\string{bgm_title_31}
+\code[8,0,4]Destination Unknown
+
+\string{m_tuto_top_04}
+\code[8,0,6]Check the\color[44,100,255,255] Status\color[55,55,55,255] section to see detailed\\
+info about each party member.\wait 
+
+\string{menu_load_9}
+\code[8,0,4]Game data has been deleted.
+
+\string{menu_outline_31}
+\code[8,0,4]\code[1,1]Our princess is in another...prison? Bowser Jr.\\
+and Paper Bowser Jr. have taken both of the\\
+princesses on an unexpected mountain retreat.
+
+\string{menu_save_err_3}
+\code[8,0,12]\code[5,0]\code[1,1]Press \codepoint[0xE073] to return to the HOME Menu,\\
+and then close the game.
+
+\string{menu_status_eq_off_disp_off_Y}
+\code[8,0,3]Hide status without gear equipped:
+
+\string{BtlGuide_10_4}
+\code[8,0,11]If you need a little help, tur\color[44,100,255,255]n Assis\color[230,230,230,255]t on. That\\
+way, you can always see which of your\\
+characters will be attacked next.
+
+\string{BtlGuide_27_0}
+\code[8,0,11]Choose\color[44,100,255,255] Hammer\color[230,230,230,255] to deal damage to an\\
+enemy by smashing it.
+
+\string{BtlGuide_30}
+\code[8,0,12]Easy Attack Mode
+
+\string{BtlGuide_36_1}
+\code[8,0,11]As your characters level up, they'll gain more\\
+HP and their attacks will deal more damage\\
+to enemies.
+
+\string{EC_Text_AvoidPBasabasa}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Swoop\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BRObpackunS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Petey Piranha\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Title_BRcb01}
+\code[8,0,12]Papercraft Megacrinkle Goomba
+
+\string{amiibo_sys_err_13}
+\code[8,0,11]\code[5,0]\code[1,1]The amiibo data has been restored successfully.\wait 
+
+\string{amiibo_top_01}
+\code[8,0,3]Create a character card using a ? Card.
+
+\string{bgm_title_32}
+\code[8,0,4]Mixed-Up Scramble
+
+\string{m_tuto_top_05}
+\code[8,0,6]Moving on to the\color[44,100,255,255] guide\color[55,55,55,255]...\wait 
+
+\string{menu_card_alert_panel_2_lack_text}
+\code[8,0,3]Restore battle card set to previous arrangement,\\
+and exit the menu?
+
+\string{menu_outline_32}
+\code[8,0,4]\code[1,1]Our heroes arrived at beautiful Gloomy Woods.\\
+There's no time to enjoy the scenery, though,\\
+as they must hurry through the forest on their\\
+way to Mount Brrr.
+
+\string{menu_save_err_4}
+\code[8,0,12]\code[5,0]\code[1,1]The Game Card has been removed.\\
+Press \codepoint[0xE073] to return to the HOME Menu.
+
+\string{BtlGuide_10_5}
+\code[8,0,11]Turn Assist on or off by pressing\color[44,100,255,255] START\color[230,230,230,255]\\
+when it's your turn to select a Command\\
+Block.
+
+\string{BtlGuide_27_1}
+\code[8,0,11]Use the hammer to attack enemies that\\
+you can't stomp, like ones with spikes.
+
+\string{BtlGuide_31}
+\code[8,0,12]Battle Basics ①: Command Blocks
+
+\string{BtlGuide_36_2}
+\code[8,0,11]If you're having a hard time with a strong\\
+enemy, try battling some weaker enemies first\\
+to level up your characters.
+
+\string{EC_Text_AvoidODonketsu}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Bully\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BrosAtkTotalR1}
+\code[8,0,11]Use Bros. Attack\color[44,100,255,255]s 3\color[230,230,230,255] times.
+
+\string{EC_Title_BRcb02}
+\code[8,0,12]Papercraft Kamek
+
+\string{amiibo_exp_mak_00}
+\code[8,0,4]Select a ? Card.
+
+\string{amiibo_sys_err_14}
+\code[8,0,11]\code[5,0]\code[1,1]Communication with the NFC reader/writer failed.\\
+Please turn the NFC reader/writer off and try again.\wait 
+
+\string{amiibo_top_02}
+\code[8,0,3]Attempt sparkle card creation.
+
+\string{bgm_title_33}
+\code[8,0,4]Come On!
+
+\string{m_tuto_top_06}
+\code[8,0,6]If you have any questions about, well,\\
+anything, you should check this out.\wait \pagebreak
+It's packed with all kinds of useful\\
+information!\wait 
+
+\string{menu_outline_33}
+\code[8,0,4]\code[1,1]Paper Kamek blocked your path!\\
+How will you ever move forward?
+
+\string{menu_set_ruby_text}
+　\code[8,0,3]
+
+\string{BtlGuide_32}
+\code[8,0,12]Battle Basics ①: Command Blocks
+
+\string{BtlGuide_36_3}
+\code[8,0,11]After leveling up a few times, you'll eventually\color[44,100,255,255]\\
+rank up\color[230,230,230,255] and earn the chance to select a\color[44,100,255,255] Rank-\\
+Up Bonus\color[230,230,230,255].
+
+\string{EC_Text_BrosAtkTotalR2}
+\code[8,0,11]Use Bros. Attacks\color[44,100,255,255] 50\color[230,230,230,255] times.
+
+\string{EC_Text_NoUIAssistR1}
+\code[8,0,11]Win\color[44,100,255,255] 10\color[230,230,230,255] battles, avoiding enemy attacks with\\
+Assist turned off.
+
+\string{EC_Title_BRcb03}
+\code[8,0,12]Papercraft Bowser Jr.
+
+\string{amiibo_exp_mak_01}
+\code[8,0,4]Write character card information.
+
+\string{amiibo_sys_err_15}
+\code[8,0,11]\code[5,0]\code[1,1]Update of the NFC reader/writer failed.\wait 
+
+\string{amiibo_top_03}
+\code[8,0,3]Learn more about how to use character cards.
+
+\string{bgm_title_34}
+\code[8,0,4]Big Bang!
+
+\string{m_tuto_top_07}
+\code[8,0,6]Actually, it's not a bad idea to read\\
+through it before setting out!\wait 
+
+\string{menu_outline_34}
+\code[8,0,4]\code[1,1]Wiggler sure has a big appetite for adventure.\\
+Keep making your way toward Mount Brrr!
+
+\string{BtlGuide_33}
+\code[8,0,12]Battle Basics ②: Dealing Damage
+
+\string{BtlGuide_36_4}
+\code[8,0,11]Choose wisely—you'll receive only a limited\\
+number of Rank-Up Bonuses throughout the\\
+course of the game.
+
+\string{EC_Text_BrosAtkTotalR3}
+\code[8,0,11]Use Bros. Attacks\color[44,100,255,255] 150\color[230,230,230,255] times.
+
+\string{EC_Text_NoUIAssistR2}
+\code[8,0,11]Win\color[44,100,255,255] 100\color[230,230,230,255] battles, avoiding enemy attacks with\\
+Assist turned off.
+
+\string{EC_Title_BRcb04}
+\code[8,0,12]Papercraft King Boo
+
+\string{TrioDrill_08_0}
+\code[8,0,11]Switch the action icon to the drill—then press\color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255]\\
+→\color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255]→\color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to dig into the ground with\color[44,100,255,255] Trio Drill\color[230,230,230,255].
+
+\string{amiibo_exp_mak_02}
+\code[8,0,4]Writing character card information.
+
+\string{amiibo_sys_err_16}
+\code[8,0,11]\code[5,0]\code[1,1]A communications error has occurred. Please turn\\
+your system off and try again.\wait \pagebreak
+\code[5,0]\code[1,1]If this doesn't resolve the issue, please contact\\
+Nintendo Customer Service, listed in your system's\\
+operations manual.\wait 
+
+\string{amiibo_top_04}
+\code[8,0,3]Register your amiibo to begin using character cards.
+
+\string{bgm_title_35}
+\code[8,0,4]Double Bowsers!
+
+\string{m_tuto_top_08}
+\code[8,0,6]And that ends our little\\
+tour of the menu.\wait \pagebreak
+When you want to exit\\
+the menu, press \color[0,187,39,255]\codepoint[0xE001]\color[55,55,55,255].\wait 
+
+\string{menu_card_top_LB_RB_exp}
+\code[8,0,3]\codepoint[0xE004]/\codepoint[0xE005] View battle cards in this set.
+
+\string{menu_outline_35}
+\code[8,0,4]\code[1,1]Mario and company chased off Kamek.\\
+Is Mount Brrr straight up ahead?
+
+\string{AmiiboGuide_02_0}
+\code[8,0,11]To create a character card, you'll need a\\
+\color[44,100,255,255]? Card\color[230,230,230,255].
+
+\string{BtlGuide_34}
+\code[8,0,12]Battle Basics ③: Watch Your HP!
+
+\string{EC_Text_AvoidPFpackun}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Fire Piranha Plant\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_NoUIAssistR3}
+\code[8,0,11]Win\color[44,100,255,255] 200\color[230,230,230,255] battles, avoiding enemy attacks with\\
+Assist turned off.
+
+\string{EC_Title_BRcb05}
+\code[8,0,12]Papercraft Bowser
+
+\string{EC_Title_CardUseOneBtl}
+\code[8,0,12]Cardsharp
+
+\string{TrioDrill_08_1}
+\code[8,0,11]While underground, hold and then release \color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255]\\
+to do a\color[44,100,255,255] drill dash\color[230,230,230,255].
+
+\string{amiibo_exp_mak_03}
+\code[8,0,4]The character card information has been written.
+
+\string{amiibo_sys_err_17}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Communication with the NFC reader/writer failed.\wait \pagebreak
+\code[5,0]\code[1,1]\code[1,4]Please turn the NFC reader/writer off and try again.\wait \pagebreak
+\code[5,0]\code[1,1]If this doesn't resolve the issue, please contact Nintendo\\
+Customer Service, listed in your system's operations manual.\wait 
+
+\string{bgm_title_36}
+\code[8,0,4]Final Battle
+
+\string{menu_outline_36}
+\code[8,0,4]\code[1,1]Wiggler has sprouted wings! After eating that\\
+much, it only makes sense... Anyway, to Mount\\
+Brrr! Princess Peach is waiting!
+
+\string{AmiiboGuide_02_1}
+\code[8,0,11]There are two ways you can earn ? Cards.
+
+\string{BtlGuide_35}
+\code[8,0,12]Battle Basics ③: Watch Your HP!
+
+\string{BtlGuide_43_0}
+\code[8,0,11]You can enable\color[44,100,255,255] Easy Attack Mode\color[230,230,230,255] to make\\
+Bros. Attacks easier to pull off.
+
+\string{EC_Text_BRObkingS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] King Bob-omb\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Title_AvoidOBbros}
+\code[8,0,12]Boomerang Bro Dodge
+
+\string{EC_Title_AvoidPNokonoko}
+\code[8,0,12]Paper Koopa Troopa Dodge
+
+\string{EC_Title_BROhkoopa}
+\code[8,0,12]Boss Medley
+
+\string{EC_Title_BRcb06}
+\code[8,0,12]メドレーをクリア！
+
+\string{EC_Title_CardKindOneBtl}
+\code[8,0,12]Wild Card
+
+\string{TrioDrill_08_2}
+\code[8,0,11]Trio Drill will also let you excavate buried\\
+objects and climb walls.
+
+\string{amiibo_exp_mak_04}
+\code[8,0,4]Create amiibo duo battle card.
+
+\string{amiibo_sys_err_18}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—that amiibo isn't supported in this game.\wait 
+
+\string{bgm_title_37}
+\code[8,0,4]Getting Stronger
+
+\string{menu_outline_37}
+\code[8,0,4]\code[1,1]You made it to Mount Brrr...and it really lives\\
+up to its name. Stomp through the snow, and\\
+make your way to the princesses.
+
+\string{menu_set_easymode_text}
+\code[8,0,3]Turning Easy Mode on makes your characters\\
+stronger and enemies easier to defeat. However,\\
+you won't be able to complete Expert Challenges\\
+in this mode.
+
+\string{AmiiboGuide_02_2}
+\code[8,0,11]You can buy them from the Toad standing in\\
+front of the counter at a card shop. Or you can\\
+occasionally score one after beating an enemy.
+
+\string{BtlGuide_34_0}
+\code[8,0,11]If you take damage from an enemy's attack,\\
+your character's HP will decrease. If it reaches\color[44,100,255,255]\\
+0\color[230,230,230,255], your character will\color[44,100,255,255] faint\color[230,230,230,255].
+
+\string{BtlGuide_36}
+\code[8,0,12]Battle Basics ④: Getting Stronger
+
+\string{BtlGuide_43_1}
+\code[8,0,11]Easy Attack Mode slows down attacks and\\
+makes them less difficult to complete in\\
+exchange for costing a little more BP.
+
+\string{EC_Text_BRcb04S}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] against\color[44,100,255,255] Papercraft King Boo\color[230,230,230,255]\\
+in the Battle Ring.
+
+\string{EC_Text_ChargeStar}
+\code[8,0,11]Earn \color[44,100,255,255]7\color[230,230,230,255] Star Points in a single battle.
+
+\string{EC_Text_NoEscape}
+\code[8,0,11]Win\color[44,100,255,255] 50\color[230,230,230,255] battles in a row without fleeing.
+
+\string{EC_Title_AvoidOGabon}
+\code[8,0,12]Spike Dodge\space[1]
+
+\string{EC_Title_BROhkoopaS}
+\code[8,0,12]Boss Medley S Rating
+
+\string{SoloHammer_02_0}
+\code[8,0,11]Swing the hammer by selecting the hammer\\
+action icon and pressing \color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255].
+
+\string{amiibo_sys_err_19}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—the amiibo data is corrupted.
+
+\string{bgm_title_38}
+\code[8,0,4]Soldiers Marching
+
+\string{menu_outline_38}
+\code[8,0,4]\code[1,1]You learned a new Trio Move, Trio Drill! Use it\\
+to navigate the puzzles of Mount Brrr!
+
+\string{BtlGuide_25_0}
+\code[8,0,11]If Paper Mario has any\color[44,100,255,255] copies\color[230,230,230,255], he loses them\\
+instead of\color[44,100,255,255] HP\color[230,230,230,255] when attacked.
+
+\string{BtlGuide_34_1}
+\code[8,0,11]If\color[255,67,67,255] Mario\color[230,230,230,255],\color[0,187,39,255] Luigi\color[230,230,230,255], and\color[255,132,0,255] Paper Mario\color[230,230,230,255] all reach \color[44,100,255,255]0\color[230,230,230,255] HP,\\
+the game will end.
+
+\string{BtlGuide_37}
+\code[8,0,12]Battle Basics ④: Getting Stronger
+
+\string{BtlGuide_43_2}
+\code[8,0,11]You'll still deal full damage, however, so give it\\
+a try if there's an attack you're not totally\\
+familiar with yet.
+
+\string{EC_Text_AvoidPTeresa}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Boo\color[230,230,230,255] attacks in a row.
+
+\string{SoloHammer_02_1}
+\code[8,0,11]Try using the hammer in unexpected ways.\\
+You never know what you might unlock!
+
+\string{amiibo_exp_mak_06}
+\code[8,0,4]Sorry—duo card creation failed.
+
+\string{bgm_title_39}
+\code[8,0,4]Attack and Run!
+
+\string{menu_outline_39}
+\code[8,0,4]\code[1,1]The Bowser Jrs. have a formidable new\\
+papercraft! If only Mario and crew had\\
+one of their own...
+
+\string{BtlGuide_34_2}
+\code[8,0,11]Not to worry! You can restart the battle from\\
+the beginning or restore from your last save\\
+point. Be careful out there!
+
+\string{BtlGuide_38}
+\code[8,0,12]Battle Basics ⑤: Status
+
+\string{BtlGuide_43_3}
+\code[8,0,11]To enable Easy Attack Mode, press\\
+\color[44,100,255,255]\codepoint[0xE005]\color[230,230,230,255] when selecting an attack.
+
+\string{EC_Text_JumpOnly}
+\code[8,0,11]Finish a single battle using only\color[44,100,255,255] Jump\color[230,230,230,255]\\
+attacks that are\color[44,100,255,255] Excellent\color[230,230,230,255].
+
+\string{EC_Title_AvoidPTogezo}
+\code[8,0,12]Paper Spiny Dodge
+
+\string{amiibo_exp_mak_07}
+\code[8,0,4]You've unlocked all the amiibo battle cards for this amiibo!
+
+\string{BtlGuide_34_3}
+\code[8,0,11]If your HP is getting low or one of your\\
+characters faints, select the\color[44,100,255,255] Item\color[230,230,230,255]\color[44,100,255,255] Block\color[230,230,230,255]\\
+and use an item to help him recover.
+
+\string{BtlGuide_39}
+\code[8,0,12]Easy Mode
+
+\string{EC_Text_AvoidOHbros}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Hammer Bro\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidTotalR1}
+\code[8,0,11]Dodge enemy attacks\color[44,100,255,255] 20\color[230,230,230,255] times.
+
+\string{EC_Title_AvoidOPWanwan}
+\code[8,0,12]Double Chain Chomp Dodge
+
+\string{EC_Title_LuckyHitR1}
+\code[8,0,12]Lucky Star
+
+\string{amiibo_exp_mak_08}
+\code[8,0,4]Wow! You've unlocked all character cards for this amiibo!
+
+\string{amiibo_sys_mak_04_sai}
+\code[8,0,11]\code[5,0]\code[1,1]If you cancel, the character card information and your\\
+? Card will be lost. Are you sure you want to cancel? \option \\
+No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{BtlGuide_34_4}
+\code[8,0,11]\color[44,100,255,255]Mushrooms\color[230,230,230,255] can restore a character's\color[44,100,255,255] HP\color[230,230,230,255].
+
+\string{EC_Text_AvoidTotalR2}
+\code[8,0,11]Dodge enemy attacks\color[44,100,255,255] 100\color[230,230,230,255] times.
+
+\string{EC_Title_BRcb04S}
+\code[8,0,12]Papercraft King Boo S Rating
+
+\string{EC_Title_LuckyHitR2}
+\code[8,0,12]Lucky Superstar
+
+\string{TrioCatch_07}
+\code[8,0,12]Trio Grab
+
+\string{amiibo_exp_mak_09}
+\code[8,0,4]This card will be transformed into a character card.
+
+\string{amiibo_sys_err_05yn}
+\code[8,0,11]\code[0,1,10]\code[5,0]\code[1,1]\color[78,212,255,255]Register amiibo\color[230,230,230,255] and create\\
+\code[5,0]\code[1,1]a character card set? \option \space[1]No\hspace[32]\option \\
+Yes\code[2,0,10]\code[0,1,65535]
+
+\string{menu_not_equip_exp}
+\code[8,0,3]No defensive items equipped.
+
+\string{qst_kino_num_panel}
+\code[8,0,11]Toads rescued:
+
+\string{AmiiboGuide_00_0}
+\code[8,0,11]You can use\color[44,100,255,255] amiibo\color[230,230,230,255] (sold separately) to\\
+create character cards—special cards that\\
+can help you defeat enemies in battle.
+
+\string{BtlGuide_34_5}
+\code[8,0,11]\color[44,100,255,255]1-Up Mushroom\color[230,230,230,255]s can revive a character\\
+who has\color[44,100,255,255] fainted\color[230,230,230,255].
+
+\string{EC_Text_AvoidOFbros}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Fire Bro\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidPSombrero}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Sombrero Guy\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidTotalR3}
+\code[8,0,11]Dodge enemy attacks\color[44,100,255,255] 200\color[230,230,230,255] times.
+
+\string{EC_Title_LuckyHitR3}
+\code[8,0,12]Lucky Megastar
+
+\string{FldGuide_08_0}
+\code[8,0,11]A number of hysterical Paper Toads are\\
+scattered throughout the Mushroom Kingdom.
+
+\string{AmiiboGuide_00_1}
+\code[8,0,11]You can use Toad, Bowser, Mario, Luigi, Peach,\\
+and Yoshi amiibo to make character cards!
+
+\string{BtlGuide_34_6}
+\code[8,0,11]You can buy items from a shop or earn them\\
+by defeating enemies. Make sure you have\\
+enough before you head into battle!
+
+\string{BtlGuide_41_0}
+\code[8,0,11]Move\color[44,100,255,255] left\color[230,230,230,255] and\color[44,100,255,255] right\color[230,230,230,255] using the Circle Pad, and\\
+try to anticipate where the cannonball will\\
+land. Press \color[255,132,0,255]\codepoint[0xE003]\color[230,230,230,255] to bounce it when it lands.
+
+\string{EC_Title_AvoidOTarihei}
+\code[8,0,12]Horned Ant Trooper Dodge
+
+\string{FldGuide_08_1}
+\code[8,0,11]By helping rescue them, you'll advance\\
+the story.
+
+\string{AmiiboGuide_00_2}
+\code[8,0,11]Each amiibo can produce a wide variety of\\
+character cards, each with its own design\\
+and effect in battle.
+
+\string{BtlGuide_32_0}
+\code[8,0,11]Each character has his own button to get\\
+the action started. Pres\color[255,67,67,255]\codepoint[0xE000]\color[230,230,230,255]s\space[2]for Mario and \color[0,187,39,255]\codepoint[0xE001]\color[230,230,230,255]\\
+for Luigi.
+
+\string{BtlGuide_34_7}
+\code[8,0,11]Don't like the way a battle is going? Select the\color[44,100,255,255]\\
+Flee Block\color[230,230,230,255] to escape. But use it sparingly—you\\
+won't earn any coins or experience by fleeing.
+
+\string{BtlGuide_41_1}
+\code[8,0,11]If you can keep the cannonball bouncing, it\\
+will eventually bounce back onto your enemies\\
+and deal damage to them.
+
+\string{EC_Text_AMtekkyuA}
+\code[8,0,11]Get an \color[44,100,255,255]A Rating\color[230,230,230,255] on\color[44,100,255,255] Cannonball Chuck\color[230,230,230,255] in Attackathon.
+
+\string{EC_Text_AvoidTpDef}
+\code[8,0,11]Avoid an enemy attack during a\color[44,100,255,255] Trampoline Guard\color[230,230,230,255].
+
+\string{EC_Title_TrioAtk_00}
+\code[8,0,12]Excellent Trio Racquet
+
+\string{FldGuide_08_2}
+\code[8,0,11]Visit the Lakitu Info Center to see if there are\\
+any Paper Toads currently in need of rescuing.
+
+\string{m_tuto_card_01}
+\code[8,0,6]Look at that! A whole new icon.\\
+You guys owe me big-time.\wait \pagebreak
+Anyway, just tap here when you\\
+want to edit your\color[44,100,255,255] battle card sets\color[55,55,55,255].\wait 
+
+\string{menu_set_ruby_title}
+　\code[8,0,4]
+
+\string{BtlGuide_32_1}
+\code[8,0,11]When it's one of your characters' turns,\\
+select a\color[44,100,255,255] Command Block\color[230,230,230,255] and then press\\
+that character's button to take action.
+
+\string{EC_Text_AMsliderS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] on\color[44,100,255,255] Toad Trail\color[230,230,230,255] in Attackathon.
+
+\string{EC_Title_AMshurikenS}
+\code[8,0,12]Trio Shuriken S Rating
+
+\string{EC_Title_PCopyNumR1}
+\code[8,0,12]Copy x 20
+
+\string{EC_Title_TrioAtk_01}
+\code[8,0,12]Excellent Trio Kite
+
+\string{FldGuide_08_3}
+\code[8,0,11]Remember, you can visit any Lakitu Info Center\\
+to access Paper Toad Rescue quests.
+
+\string{m_tuto_card_02}
+\code[8,0,6]So this is where the\\
+magic happens.\wait 
+
+\string{BtlGuide_19_0}
+\code[8,0,11]You can hold down \color[44,100,255,255]\codepoint[0xE002]\color[230,230,230,255] while a character's\\
+being attacked to reduce the amount of\\
+damage he takes.
+
+\string{BtlGuide_32_2}
+\code[8,0,11]You can scroll through the Command Blocks\\
+by sliding\color[44,100,255,255] left\color[230,230,230,255] or\color[44,100,255,255] right\color[230,230,230,255] on the\color[44,100,255,255] Circle Pad\color[230,230,230,255].
+
+\string{EC_Record}
+\code[8,0,12]Progress:
+
+\string{EC_Title_PCopyNumR2}
+\code[8,0,12]Copy x 100
+
+\string{EC_Title_TrioAtk_02}
+\code[8,0,12]Excellent Trio Whirligig
+
+\string{Xjump_03}
+\code[8,0,12]Team Jump
+
+\string{m_rest}
+\code[8,0,6]\color[44,100,255,255]\code[1,1]Break Time? Hey, feel like taking a quick break? The\\
+game will still be waiting for you when you get back.\\
+Promise.\wait \color[55,55,55,255]
+
+\string{m_tuto_card_03}
+\code[8,0,6]Up here is the battle card set you just\\
+used to wreck those Hammer Bros.\wait 
+
+\string{menu_outline_50}
+\code[8,0,4]\code[1,1]Ooh, that rotten Paper Goomba tricked you!\\
+But at least you got that strange medallion\\
+back.
+
+\string{AmiiboGuide_00}
+\code[8,0,12]\code[0,1,9]Getting Started\code[0,1,65535]
+
+\string{BtlGuide_19_1}
+\code[8,0,11]It's always better to dodge an enemy's attack\\
+completely, so use Emergency Block as a last\\
+resort.
+
+\string{BtlGuide_32_3}
+\code[8,0,11]To win the battle, you must defeat all of the\\
+enemies on the screen. First, try attacking\\
+using the\color[44,100,255,255] Jump Block\color[230,230,230,255].
+
+\string{EC_Title_CounterTotalR1}
+\code[8,0,12]Counterattack Apprentice
+
+\string{EC_Title_PCopyNumR3}
+\code[8,0,12]Copy x 200
+
+\string{EC_Title_TrioAtk_03}
+\code[8,0,12]Excellent Trio Shuriken
+
+\string{amiibo_sys_mak_err_10}
+\code[8,0,11]\code[5,0]\code[1,1]Your character card hasn't been saved!\code[5,0]\code[1,1]\\
+If you exit now, it will turn back into \code[5,0]\code[1,1]a\\
+? Card.\wait 
+
+\string{m_tuto_card_04}
+\code[8,0,6]All right! Back down here! Here's where\\
+you can see all your cards up close.\wait 
+
+\string{menu_outline_51}
+\code[8,0,4]\code[1,1]You got the medallion back and unlocked the\\
+door, only to find an impassable wall. Maybe\\
+one of your new abilities could help...
+
+\string{AmiiboGuide_01}
+\code[8,0,12]\code[0,1,9]Registering amiibo\code[0,1,65535]
+
+\string{BtlGuide_19_2}
+\code[8,0,11]If you're having a hard time dodging an attack,\\
+that's when Emergency Block comes in handy.
+
+\string{EC_Title_CounterTotalR2}
+\code[8,0,12]Counterattack Enthusiast
+
+\string{EC_Title_TrioAtk_04}
+\code[8,0,12]Excellent Trio Meteor
+
+\string{amiibo_sys_mak_err_11}
+\code[8,0,11]\code[5,0]\code[1,1]Continue creating the\code[5,0]\code[1,1]\\
+character card? \option \\
+Continue\hspace[32]\option \space[1]Exit\code[2,0,10]
+
+\string{m_tuto_card_05}
+\code[8,0,6]Cards that are registered to a set\\
+have a check mark right here.\wait 
+
+\string{menu_outline_52}
+\code[8,0,4]\code[1,1]You unlocked a mysterious door but found\\
+your way blocked yet again. Can you crack\\
+the code to Bowser's Castle?
+
+\string{AmiiboGuide_02}
+\code[8,0,12]\code[0,1,9]How to Get ? Cards\code[0,1,65535]
+
+\string{EC_Text_BrosAtkSerial_00}
+\code[8,0,11]Get \color[44,100,255,255]\color[230,230,230,255]\color[44,100,255,255]5 Excellents\color[230,230,230,255] in a row with th\color[44,100,255,255]e 3D Red Shell\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Title_AvoidOPukupuku}
+\code[8,0,12]Cheep Cheep Dodge
+
+\string{EC_Title_CounterTotalR3}
+\code[8,0,12]Counterattack Master
+
+\string{FldGuide_06_0}
+\code[8,0,11]Check out the Touch Screen for a\color[44,100,255,255] map\color[230,230,230,255] of your\\
+current location in the Mushroom Kingdom.
+
+\string{amiibo_sys_mak_err_12}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry, you can't make a duo card using an\code[5,0]\code[1,1]\color[78,212,255,255]\\
+amiibo\color[230,230,230,255] of the same character.\code[5,0]\code[1,1] Try again with a\\
+different\color[78,212,255,255] amiibo\color[230,230,230,255] the\color[255,112,112,255] next\color[230,230,230,255] time\code[5,0]\code[1,1] you get a chance\\
+to make a duo card.\wait 
+
+\string{m_tuto_card_06}
+\code[8,0,6]Let's try switching out this\\
+card for another one.\wait \pagebreak
+First,\color[44,100,255,255] remove\color[55,55,55,255] it from the set.\wait 
+
+\string{menu_outline_53}
+\code[8,0,4]\code[1,1]You made it to Bowser's Castle! The\\
+princesses are waiting—keep up the\\
+good work!
+
+\string{AmiiboGuide_03}
+\code[8,0,12]\code[0,1,9]Creating a Character Card\code[0,1,65535]
+
+\string{EC_Text_BrosAtkSerial_01}
+\code[8,0,11]Get \color[44,100,255,255]\color[230,230,230,255]\color[44,100,255,255]5 Excellents\color[230,230,230,255] in a row with th\color[44,100,255,255]e Fire Flower\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_TrioAtkSerial_00}
+\code[8,0,11]Get \color[44,100,255,255]\color[230,230,230,255]\color[44,100,255,255]5 Excellents\color[230,230,230,255] in a row with th\color[44,100,255,255]e Trio\\
+Racquet\color[230,230,230,255] Trio Attack.
+
+\string{EC_Title_BROPkpjrS}
+\code[8,0,12]Bowser Jr. Duo S Rating
+
+\string{EC_Title_EncountAtkR1}
+\code[8,0,12]Fresh Start
+
+\string{FldGuide_06_1}
+\code[8,0,11]To zoom in or out,\color[44,100,255,255] tap once anywhere\color[230,230,230,255] on the\\
+Touch Screen.
+
+\string{amiibo_kir_01a}
+\code[8,0,3]Tap the second amiibo on the\color[44,100,255,255] Touch Screen\color[230,230,230,255].
+
+\string{m_tuto_card_07}
+\code[8,0,6]See how the check\\
+mark disappeared?\wait \pagebreak
+Now check out the\\
+top screen.\wait 
+
+\string{menu_outline_54}
+\code[8,0,4]\code[1,1]You unlocked Trio Glider! Use it to avoid the\\
+lava as you infiltrate Bowser's Castle.
+
+\string{AmiiboGuide_04}
+\code[8,0,12]\code[0,1,9]Using Character Cards\code[0,1,65535]
+
+\string{BtlGuide_30_0}
+\code[8,0,11]If you need a little help pulling off Bros. Attacks\\
+or Trio Attacks, try\color[44,100,255,255] Easy Attack Mode\color[230,230,230,255].
+
+\string{EC_Text_AvoidPKaron}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Dry Bones\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BrosAtkSerial_02}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Rocket Blast\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_TrioAtkSerial_01}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Trio Kite\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_AvoidPFpackun}
+\code[8,0,12]Paper Fire Piranha Plant Dodge
+
+\string{EC_Title_AvoidPHakkun}
+\code[8,0,12]Paper Ninji Dodge
+
+\string{EC_Title_EncountAtkR2}
+\code[8,0,12]Head Start
+
+\string{FldGuide_06_2}
+\code[8,0,11]To move around within the map,\color[44,100,255,255] tap and drag\color[230,230,230,255]\\
+on the Touch Screen.
+
+\string{amiibo_kir_01b}
+\code[8,0,3]Tap the second amiibo on the\color[44,100,255,255] NFC reader/writer\color[230,230,230,255].
+
+\string{m_tuto_card_08}
+\code[8,0,6]Removing that card opened up a spot.\\
+So let's\color[44,100,255,255] register \color[55,55,55,255]a new one in its place!\wait 
+
+\string{menu_card_all_card_num}
+\code[8,0,3]Cards collected:
+
+\string{menu_off_equip_exp}
+\code[8,0,3]Gear will be removed.
+
+\string{menu_outline_55}
+\code[8,0,4]\code[1,1]You destroyed Papercraft King Boo! Keep\\
+exploring Bowser's Castle—Toadette and\\
+the princesses await!
+
+\string{AmiiboGuide_05}
+\code[8,0,12]\code[0,1,9]Viewing Character Cards\code[0,1,65535]
+
+\string{BtlGuide_21_0}
+\code[8,0,11]Select the card you want to use by\color[44,100,255,255] tapping\color[230,230,230,255]\\
+on it.\color[44,100,255,255] Tap\color[230,230,230,255] the card again to use it.
+
+\string{BtlGuide_30_1}
+\code[8,0,11]You'll use more BP, but the attacks will be\\
+slowed down and easier to complete.
+
+\string{EC_Point}
+\code[8,0,11]Points:
+
+\string{EC_Text_BROhchanS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] with\color[44,100,255,255] Rampaging Wiggler\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_BRPbpackunS}
+\code[8,0,11]Get an \color[44,100,255,255]S Rating\color[230,230,230,255] wit\color[44,100,255,255]h Paper Petey Piranha\color[230,230,230,255] in the\\
+Battle Ring.
+
+\string{EC_Text_BrosAtkSerial_03}
+\code[8,0,11]Get \color[44,100,255,255]\color[230,230,230,255]\color[44,100,255,255]5 Excellents\color[230,230,230,255] in a row with th\color[44,100,255,255]e Drill Shell\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_CardUseOneBtl}
+\code[8,0,11]Use\color[44,100,255,255] 10\color[230,230,230,255] battle cards in a single battle.
+
+\string{EC_Text_TrioAtkSerial_02}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Trio Whirligig\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_EncountAtkR3}
+\code[8,0,12]Flying Start
+
+\string{FldGuide_06_3}
+\code[8,0,11]You can also navigate the map using the\\
+\color[44,100,255,255]C Stick\color[230,230,230,255].\color[255,67,67,255] (New Nintendo 3DS only)\color[230,230,230,255]
+
+\string{m_tuto_card_09}
+\code[8,0,6]Select a card using the Circle Pad...\wait 
+
+\string{m_tuto_card_set_change_btn_open}
+\code[8,0,11]\code[5,0]\code[1,1]\color[78,212,255,255]Change Set\color[230,230,230,255] has been added! Now you ca\code[5,0]\code[1,1]n\\
+make up to \color[78,212,255,255]3\color[230,230,230,255] battle card sets.\wait \pagebreak
+\code[5,0]\code[1,1]To use it, just press the\color[78,212,255,255] MANAGE\color[230,230,230,255] button\\
+and select\color[78,212,255,255] CHANGE SET\color[230,230,230,255].\wait 
+
+\string{menu_outline_56}
+\code[8,0,4]\code[1,1]Woo-hoo! You saved Toadette! Now all that's\\
+standing between you and the princesses is\\
+hundreds of terrifying enemies!
+
+\string{AmiiboGuide_06}
+\code[8,0,12]Duo Cards
+
+\string{BtlGuide_21_1}
+\code[8,0,11]You'll spend the\color[44,100,255,255] number\color[230,230,230,255] of Star Points written\\
+on the battle card when you use it.
+
+\string{BtlGuide_30_2}
+\code[8,0,11]You'll still deal just as much damage, so don't\\
+hesitate to use this mode when you're having\\
+a hard time completing a specific attack.
+
+\string{EC_Text_AvoidPHeyho}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Shy Guy\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BrosAtkSerial_04}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Bomb Derby\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_TrioAtkSerial_03}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Trio\\
+Shuriken\color[230,230,230,255] Trio Attack.
+
+\string{EC_Title_AvoidPChuchu}
+\code[8,0,12]Paper Scaredy Rat Dodge
+
+\string{amiibo_sys_kir_10}
+\code[8,0,11]\code[5,0]\code[1,1]Sorry—you don't have any character cards that can be\\
+upgraded to sparkle cards right now.\wait 
+
+\string{menu_outline_57}
+\code[8,0,4]\code[1,1]You found the princesses AND both Bowser\\
+Jrs.—for about 30 seconds. Catch those\\
+Bowser Jrs., and save the princesses anew!
+
+\string{AmiiboGuide_07}
+\code[8,0,12]\code[0,1,9]Sparkle Cards\code[0,1,65535]
+
+\string{BtlGuide_08_0}
+\code[8,0,11]Paper Mario can make\color[44,100,255,255] copies\color[230,230,230,255] of himself\\
+to amplify his solo attacks.
+
+\string{BtlGuide_21_2}
+\code[8,0,11]Once you use a battle card, it will\\
+be\color[44,100,255,255] discarded\color[230,230,230,255].
+
+\string{BtlGuide_30_3}
+\code[8,0,11]To use Easy Attack Mode, first enable\color[44,100,255,255] Easy\\
+Mode\color[230,230,230,255] from the menu. Then press \color[44,100,255,255]\codepoint[0xE005]\color[230,230,230,255] before\\
+you select an attack.
+
+\string{EC_Text_AvoidPTogezo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Spiny\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_AvoidPchorobon}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Paper Fuzzy\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BRcb06S}
+\code[8,0,11]ドデカクラフトバトルの\color[44,100,255,255]\\
+「ドデカクラフトメドレー」でSランク\color[230,230,230,255]\color[230,230,230,255]\color[44,100,255,255]\color[230,230,230,255]を\ruby{と}{取}ろう\color[230,230,230,255]
+
+\string{EC_Text_BrosAtkSerial_05}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Dropchopper\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Text_TrioAtkSerial_04}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Trio Meteor\color[230,230,230,255]\\
+Trio Attack.
+
+\string{EC_Title_KillOneAtkR1}
+\code[8,0,12]3 Birds with 1 Stone
+
+\string{menu_outline_58}
+\code[8,0,4]\code[1,1]You saved the princesses! But now Bowser\\
+has your book AND a giant floating castle\\
+equipped with cannons. What to do...
+
+\string{BtlGuide_08_1}
+\code[8,0,11]The more\color[44,100,255,255] copies\color[230,230,230,255], the more damage!
+
+\string{BtlGuide_21_3}
+\code[8,0,11]Once all of your cards have been discarded,\\
+they'll be reshuffled and available to use\\
+again.
+
+\string{EC_Text_BrosAtkSerial_06}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Cannonball\\
+Chuck\color[230,230,230,255] Bros. Attack.
+
+\string{EC_Title_KillOneAtkR2}
+\code[8,0,12]10 Birds with 1 Stone
+
+\string{amiibo_exp_etr_00}
+\code[8,0,4]Create a character card set.
+
+\string{bgm_title_01}
+\code[8,0,4]Start of the Adventure
+
+\string{menu_outline_01}
+\code[8,0,4]\code[1,1]Paper characters have flown out of a\\
+mysterious book in Peach's Castle! Cue\\
+our heroes, Mario and Luigi!
+
+\string{menu_outline_59}
+\code[8,0,4]\code[1,1]Oh no! The Bowsers destroyed Peach's\\
+Castle! Are the Toads OK?
+
+\string{BtlGuide_21_4}
+\code[8,0,11]Once you have \color[44,100,255,255]3\color[230,230,230,255] battle cards, you won't be\\
+dealt any more unless you use or discard at\\
+least 1.
+
+\string{EC_Text_AvoidOSambo}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Pokey\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BrosAtkSerial_07}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Balloon Blast\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Title_KillOneAtkR3}
+\code[8,0,12]15 Birds with 1 Stone
+
+\string{EC_Title_NoItem}
+\code[8,0,12]Item-Free Victory
+
+\string{FldGuide_04_0}
+\code[8,0,11]If you find or purchase new gear, you'll\\
+need to\color[44,100,255,255] equip it\color[230,230,230,255] to begin using it.
+
+\string{amiibo_exp_etr_01}
+\code[8,0,4]Creating a character card set.
+
+\string{bgm_title_02}
+\code[8,0,4]Roll Credits (Long Version)
+
+\string{menu_outline_02}
+\code[8,0,4]\code[1,1]Mario and Luigi set off to help their paper\\
+pals get back home.
+
+\string{BtlGuide_21_5}
+\code[8,0,11]Choose the\color[44,100,255,255] battle card\color[230,230,230,255] to discard, and\\
+then tap\color[44,100,255,255] FLIP OVER\color[230,230,230,255].
+
+\string{EC_Text_AvoidOSwoogan}
+\code[8,0,11]Dodge \color[44,100,255,255]5 Sandmaargh\color[230,230,230,255] attacks in a row.
+
+\string{EC_Text_BrosAtkSerial_08}
+\code[8,0,11]Get \color[44,100,255,255]5\color[230,230,230,255]\color[44,100,255,255] Excellents\color[230,230,230,255] in a row with the\color[44,100,255,255] Toad Trail\color[230,230,230,255]\\
+Bros. Attack.
+
+\string{EC_Title_CardKill}
+\code[8,0,12]Trump Card
+
+\string{FldGuide_04_1}
+\code[8,0,11]Go to the menu and tap\color[44,100,255,255] GEAR\color[230,230,230,255] to equip\\
+new weapons, apparel, and more.
+
+\string{amiibo_com_01a}
+\code[8,0,3]Remove the amiibo from the\color[44,100,255,255] Touch Screen\color[230,230,230,255].
+
+\string{amiibo_exp_etr_02}
+\code[8,0,4]Character card set created!
+
+\string{bgm_title_03}
+\code[8,0,4]Our Story Begins
+
+\string{menu_outline_03}
+\code[8,0,4]\code[1,1]The two Bowsers had a meeting of the\\
+minds...and fists. Nothing good can come\\
+of that...
+
+\string{menu_outline_onmenu_10}
+\code[8,0,4]\code[1,1]Find a way to get past those Pokeys!\space[1]
+
+\string{menu_top_guide_bguide}
+\code[8,0,4]Learn about different attacks and battle strategies.

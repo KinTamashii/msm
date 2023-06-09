@@ -1,0 +1,44 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,16,0,0,0,0,0,160,92,16,0]
+
+\padding[0]
+
+
+\string
+\code[1,4]\code[1,1]\code[7,0]Preparing to start the game.\\
+\code[1,1]Please wait...
+
+\string
+\code[1,4]\code[1,1]\code[7,0]The game data is corrupted and must be deleted.\\
+\code[1,1]Delete and create new game data?\code[3,0,15]\\
+\code[1,1]\option No\space[10]\option Yes
+
+\string
+\code[1,4]\code[1,1]\code[7,0]Closing the game. Press the HOME Button\\
+\code[1,1]to return to the HOME Menu.
+
+\string
+\code[1,4]\code[1,1]\code[7,0]All game data will be deleted.\\
+\code[1,1]Are you sure?\code[3,0,15]\\
+\code[1,1]\option No\space[10]\option Yes
+
+\string
+\code[1,4]\code[1,1]\code[7,0]Once the game data is deleted,\\
+\code[1,1]you cannot restore it. Is that OK?\code[3,0,15]\\
+\code[1,1]\option No\space[10]\option Yes
+
+\string
+\code[1,4]\code[1,1]\code[7,0]Deleting game data.\\
+\code[1,1]Please wait...
+
+\string
+\code[1,4]\code[1,1]\code[7,0]The Game Card has been removed.\\
+\\
+\code[1,1]Press \codepoint[0xE073], and return\\
+\code[1,1]to the HOME Menu.
+
+\string
+
+\tsy[3,3,3,3,3,3,10,3]
+\atr[8,0,0,0,3,0,0,0,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4]

@@ -1,0 +1,150 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[29,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+\tsy[12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12]
+
+\string{amiibo_sys_err_01}
+\code[9,0,12]\code[5,0]\code[1,1]This amiibo is not compatible.\wait 
+
+\string{amiibo_sys_err_21_new}
+\code[9,0,12]\code[5,0]\code[1,1]This is not an amiibo!\\
+Please remove it from the \color[78,212,255,255]bottom screen\color[230,230,230,255].\wait 
+
+\string{amiibo_sys_err_02}
+\code[9,0,12]\code[5,0]\code[1,1]Could not read amiibo because \color[78,212,255,255]wireless \\
+communication\color[230,230,230,255] was disabled.\\
+Please enable \color[78,212,255,255]wireless communication\color[230,230,230,255],\\
+and then try again.\wait 
+
+\string{amiibo_sys_err_03}
+\code[9,0,12]\code[5,0]\code[1,1]There was an error while trying\\
+to read/write to the amiibo. \\
+Please try again.\wait 
+
+\string{amiibo_sys_err_04}
+\code[9,0,12]\code[5,0]\code[1,1]This amiibo cannot be used, as it already contains\\
+\code[5,0]\code[1,1]data for another game. It can only be used\\
+\code[5,0]\code[1,1]if its data is deleted from "amiibo Settings"\\
+\code[5,0]\code[1,1]in the HOME Menu Settings.
+
+\string{amiibo_sys_err_05}
+\code[9,0,12]\code[5,0]\code[1,1]This amiibo cannot be used yet.\\
+\code[5,0]\code[1,1]Please go to \color[78,212,255,255]Register amiibo\color[230,230,230,255] first.
+
+\string{amiibo_sys_err_06}
+\code[9,0,12]\code[5,0]\code[1,1]The data on this amiibo is corrupted.\\
+\code[5,0]\code[1,1]Restore amiibo data?\code[0,1,8]\code[2,0,10]\code[0,1,65535]\\
+\code[0,1,8]\code[5,0]\code[1,1]\code[0,1,65535]\option Restore\hspace[32]\option Don't restore\code[0,1,8]\code[2,0,10]\code[0,1,65535]
+
+\string{amiibo_sys_err_07}
+\code[9,0,12]\code[5,0]\code[1,1]The data on this amiibo is corrupted. It can be\\
+restored from a gaming system that was\\
+previously used with this amiibo.\wait \pagebreak
+\code[5,0]\code[1,1]Otherwise, you can restore the amiibo to its \\
+original settings from "amiibo Settings" \\
+in HOME Menu Settings.\wait 
+
+\string{amiibo_sys_err_08}
+\code[9,0,12]\code[5,0]\code[1,1]An error occured while reading/writing\\
+to the amiibo. Please try again.\wait 
+
+\string{amiibo_sys_err_09}
+\code[9,0,12]\code[5,0]\code[1,1]Please power on the NFC Reader/Writer\\
+and face its infrared transceiver toward\\
+that of the Nintendo 3DS system.
+
+\string{amiibo_sys_err_20}
+\code[9,0,12]\code[5,0]\code[1,1]An error occurred while writing\\
+to the amiibo. Please try again.\wait \pagebreak
+\code[5,0]\code[1,1]It is possible that the data on\\
+this amiibo is corrupted.\wait 
+
+\string{amiibo_sys_err_21}
+\code[9,0,12]\code[5,0]\code[1,1]This is not an amiibo!\\
+Please remove it from the \color[78,212,255,255]NFC area\color[230,230,230,255] on\\
+the Nintendo 3DS NFC Reader/Writer.\wait 
+
+\string{amiibo_sys_err_23}
+\code[9,0,12]\code[5,0]\code[1,1]The amiibo data will be restored.\\
+Please hold the amiibo to the \color[78,212,255,255]NFC area\color[230,230,230,255].\\
+(Press the \color[78,212,255,255]\codepoint[0xE001] \color[230,230,230,255]Button to cancel.)
+
+\string{amiibo_sys_err_24}
+\code[9,0,12]\code[5,0]\code[1,1]This is not the correct amiibo.\\
+Please remove it from the \color[78,212,255,255]NFC area\color[230,230,230,255].
+
+\string{menu_save_err_01}
+\code[9,0,12]\code[5,0]\code[1,1]This save data is corrupted.\\
+Initialize save data?\code[2,0,10]\\
+\code[1,1]\option No\hspace[32]\option Yes\code[2,0,10]
+
+\string{menu_save_err_02}
+\code[9,0,12]\code[5,0]\code[1,1]Initializing save data.\\
+Please wait...
+
+\string{menu_save_err_03}
+\code[9,0,12]\code[5,0]\code[1,1]Press \codepoint[0xE073] to return to the HOME Menu.
+
+\string{menu_save_err_04}
+\code[9,0,12]\code[5,0]\code[1,1]The Game Card has been removed.\\
+Press \codepoint[0xE073] to return to the HOME Menu.
+
+\string{amiibo_sys_err_10}
+\code[9,0,12]\code[5,0]\code[1,1]The NFC Reader/Writer requires an update.\code[2,0,10]\\
+\code[5,0]\code[1,1]\option Quit\hspace[32]\option Update\code[0,1,8]\code[2,0,10]\code[0,1,65535]
+
+\string{amiibo_sys_err_11}
+\code[9,0,12]\code[5,0]\code[1,1]Restoring amiibo data...\\
+Please keep holding the amiibo to the \color[78,212,255,255]NFC area\color[230,230,230,255].
+
+\string{amiibo_sys_err_12}
+\code[9,0,12]\code[5,0]\code[1,1]Failed to restore amiibo data.\wait 
+
+\string{amiibo_sys_err_13}
+\code[9,0,12]\code[5,0]\code[1,1]Successfully restored amiibo data.\wait 
+
+\string{amiibo_sys_err_14}
+\code[9,0,12]\code[5,0]\code[1,1]This amiibo does not have an owner\\
+or nickname registered to it.\\
+Please register an owner and nickname.
+
+\string{KMsg_amiibo_entry_s03}
+\code[9,0,12]\code[5,0]\code[1,1]You can only register the same character's\\
+amiibo two times. This character's amiibo\\
+has already been registered twice.\wait 
+
+\string{KMsg_amiibo_entry_s04}
+\code[9,0,12]\code[5,0]\code[1,1]Register owner and nickname?\\
+\code[1,1]\option Don't register\hspace[32]\option Register\code[2,0,10]
+
+\string{amiibo_sys_err_16}
+\code[9,0,12]\code[5,0]\code[1,1]An IR communication error has occurred.\\
+Please turn your Nintendo 3DS system\\
+off and try again.\wait \pagebreak
+\code[5,0]\code[1,1]If this problem persists, please contact the\\
+Nintendo Customer Service center using the\\
+contact information in the e-manual.\wait 
+
+\string{amiibo_sys_err_17}
+\code[9,0,12]\code[5,0]\code[1,1]\code[1,4]Communication with the NFC Reader/Writer\\
+has failed.\wait \pagebreak
+\code[5,0]\code[1,1]\code[1,4]Please reset the power on the\\
+NFC Reader/Writer and try again.\wait \pagebreak
+\code[5,0]\code[1,1]If this problem persists, please contact the\\
+Nintendo Customer Service center using the\\
+contact information in the e-manual.\wait 
+
+\string{amiibo_sys_err_18}
+\code[9,0,12]\code[5,0]\code[1,1]This amiibo is not compatible with\\
+\code[5,0]\code[1,1]Mario & Luigi: Superstar Saga +Bowser's Minions\wait 
+
+\string{amiibo_sys_err_05yn}
+\code[9,0,12]\code[5,0]\code[1,1]Would you like to go to \color[78,212,255,255]Register amiibo\color[230,230,230,255]\\
+\code[5,0]\code[1,1]so you can use this amiibo in Mario & Luigi:\\
+\code[5,0]\code[1,1]Superstar Saga +Bowser's Minions?\code[2,0,10]\\
+\code[5,0]\code[1,1]\option No\hspace[32]\option Yes\code[2,0,10]

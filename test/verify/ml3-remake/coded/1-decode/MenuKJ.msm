@@ -1,0 +1,432 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[103,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+\tsy[6,6,6,6,1,6,12,6,12,6,6,6,1,4,0,1,1,1,4,12,6,4,12,12,12,1,1,6,12,1,1,1,1,1,1,1,1,1,1,6,6,1,6,0,6,12,6,6,12,10,6,6,12,6,12,6,12,1,0,1,1,6,1,1,6,1,6,12,6,13,6,6,13,1,6,1,6,6,1,12,12,12,1,6,1,12,6,12,1,12,12,0,12,6,12,6,12,6,6,6,6,6,6]
+
+\string{Menu_KJ_record_title_00}
+\code[9,0,6]Quests Cleared
+
+\string{Menu_KJ_manu_gide_17_00}
+\code[9,0,6]He's gonna run smack into these guys right\\
+away. And he's not that kind of fighter!\wait 
+
+\string{Menu_KJ_record_title_01}
+\code[9,0,6]Battles Won
+
+\string{Menu_KJ_record_title_02}
+\code[9,0,6]Enemies Defeated
+
+\string{Menu_KJ_com_sub_morton }
+\code[9,0,1]More Tons
+
+\string{Menu_KJ_record_title_03}
+\code[9,0,6]Excellent Ratings
+
+\string{Menu_KJ_result_save}
+\code[9,0,12]\code[5,0]\code[1,1]Saving...\\
+Please do not turn off the power.
+
+\string{Menu_KJ_record_title_04}
+\code[9,0,6]Minions Recruited
+
+\string{Menu_KJ_manu_gide_h08}
+\code[9,0,12]A new entry was added to your\color[78,212,255,255]\\
+Formation Menu guide\color[230,230,230,255]!\wait 
+
+\string{Menu_KJ_manu_gide_20}
+\code[9,0,6]Oh, man...I haven't even gotten\\
+into \color[44,100,255,255]formation bonuses\color[55,55,55,255] yet...\wait \pagebreak
+Eh...Ludwig can tell you all about\\
+that. Just try different things!\wait \pagebreak
+Anyway, once you're all set, press \color[255,67,67,255]\codepoint[0xE002]\color[55,55,55,255]\\
+to go back and start the battle.\wait 
+
+\string{Menu_KJ_manu_gide_32_00}
+\code[9,0,6]Tap \color[255,67,67,255]\codepoint[0xE002] \color[55,55,55,255]to begin adjusting your formation.
+
+\string{Menu_KJ_manu_gide_21}
+\code[9,0,6]So, you can deploy up to \color[44,100,255,255]nine\\
+troopers \color[55,55,55,255]at once, including yourself.\wait \pagebreak
+Oh, it looks like this\\
+squad is already full...\wait \pagebreak
+Well, let's swap in a Shy Guy\\
+for one of those Goombas.\wait 
+
+\string{Menu_KJ_com_sub_iggy }
+\code[9,0,1]Iggynition
+
+\string{Menu_KJ_record_title}
+\code[9,0,4]Records
+
+\string{Menu_KJ_organize_leader_type_change}
+\code[9,0,0]\color[55,55,55,255]Change Type\color[55,55,55,255]
+
+\string{Menu_KJ_organize_divorce_exp}
+\code[9,0,1]Do you really wish to dismiss this trooper?
+
+\string{Menu_KJ_organize_return_exp}
+\code[9,0,1]None of your changes will be saved.\\
+Continue?
+
+\string{Menu_KJ_result_get_challenge}
+\code[9,0,1]\color[255,250,241,255]Challenge complete!\color[55,55,55,255]
+
+\string{Menu_KJ_quest_config_title}
+\code[9,0,4]Replay an event that you've already seen.
+
+\string{Menu_KJ_result_challenge_ex}
+\code[9,0,12]\code[5,0]You can view challenge details in the\\
+\color[78,212,255,255]Challenges\color[230,230,230,255] section of the Records menu.\wait 
+
+\string{Menu_KJ_manu_gide_40}
+\code[9,0,6]All right, it's up to you to manage your squad\\
+formations from here on out, Lord Junior.\wait \pagebreak
+It looks like we're up against melee troopers\\
+next, so I'd recommend adding flying troopers.\wait \pagebreak
+I'd say...three Boos should be enough.\wait \pagebreak
+Well...that's certainly enough from me.\\
+I'll leave you to it. Good luck, Lord Junior!\wait 
+
+\string{Menu_KJ_quest_config_title2}
+\code[9,0,4]Ordering Rules
+
+\string{Menu_KJ_manu_gide_41}
+\code[9,0,12]\code[5,0]You don't have any more items in hand.\wait 
+
+\string{Menu_KJ_item_get_la}
+\code[9,0,12]\code[5,0]\code[1,1]\code[3,1,0,0,0] learned\\
+"\code[3,1,0,0,1]"!\code[2,0,10]\wait 
+
+\string{Menu_KJ_quest_musshiba_clear}
+\code[9,0,12]A new quest has appeared in \color[78,212,255,255]Bowser's Castle\color[230,230,230,255].\\
+Gather your units and give it a try!\wait 
+
+\string{Menu_KJ_com_sub_kameck_bl}
+\code[9,0,1]Kamekiavellian
+
+\string{Menu_KJ_com_sub_ludwig}
+\code[9,0,1]The Wigleader
+
+\string{Menu_KJ_manu_gide_34_00}
+\code[9,0,6]OK, go ahead and tap \color[255,67,67,255]\codepoint[0xE002] \color[55,55,55,255]again\\
+to go back to the menu.
+
+\string{Menu_KJ_result_add_member}
+\code[9,0,12]\code[5,0]The number of allies you\\
+can recruit has increased\\
+from \code[3,0,0,0,0] to \code[3,0,0,0,1]!
+
+\string{Menu_KJ_com_party_num_01}
+\code[9,0,1]1.
+
+\string{Menu_KJ_result_up_lp}
+\code[9,0,1]\color[255,250,241,255]\code[3,1,0,0,0]'s CP increased by \code[3,0,0,0,1]!\color[55,55,55,255]
+
+\string{Menu_KJ_com_party_num_02}
+\code[9,0,1]2.
+
+\string{Menu_KJ_com_party_num_03}
+\code[9,0,1]3.
+
+\string{Menu_KJ_com_party_num_04}
+\code[9,0,1]4.
+
+\string{Menu_KJ_com_party_num_05}
+\code[9,0,1]5.
+
+\string{Menu_KJ_com_party_num_06}
+\code[9,0,1]6.
+
+\string{Menu_KJ_com_party_num_07}
+\code[9,0,1]7.
+
+\string{Menu_KJ_com_party_num_08}
+\code[9,0,1]8.
+
+\string{Menu_KJ_com_party_num_09}
+\code[9,0,1]9.
+
+\string{Menu_KJ_manu_gide_10}
+\code[9,0,6]All right, Ludwig said it's my turn.\\
+Are you paying attention?\wait \pagebreak
+I'm going to show you how to\\
+\color[44,100,255,255]swap out squad members\color[55,55,55,255].\wait 
+
+\string{Menu_KJ_manu_gide_11}
+\code[9,0,6]It looks like we'll be taking\\
+on some flying enemies.\wait \pagebreak
+So, you know, we should make\\
+sure our squad can handle them!\wait 
+
+\string{Menu_KJ_result_get_item}
+\code[9,0,1]\color[255,250,241,255]Item(s) acquired!\color[55,55,55,255]
+
+\string{Menu_KJ_manu_gide_12}
+\code[9,0,6]This is where you can swap troopers\\
+in and out of your squad.\wait \pagebreak
+So, like I said, since we'll be up\\
+against some flying troopers...\wait \pagebreak
+It'd make sense to add some\\
+ranged troopers of our own.\wait \pagebreak
+How about that Shy Guy?\\
+Move the cursor and press \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255].
+
+\string{Menu_KJ_com_enemy_detail}
+\code[9,0,0]Details
+
+\string{Menu_KJ_manu_gide_13}
+\code[9,0,6]Once you've placed the Shy Guy over one of\\
+the Goombas, all you have to do is press \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255].
+
+\string{Menu_KJ_quest_koopa_clear}
+\code[9,0,12]A new quest has appeared in \color[78,212,255,255]Plack\\
+Beach\color[230,230,230,255]. Level up and give it a try!\wait 
+
+\string{Menu_KJ_manu_gide_14}
+\code[9,0,6]Boom! Now you've got a ranged unit\\
+to fight back against those Boos.\wait \pagebreak
+Now, if you want to put one of the troopers\\
+in your squad back on the bench...\wait \pagebreak
+Just select one, and then press \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255].\wait \pagebreak
+Got all that? Try messing around with some\\
+different combos—all battles are different!\wait 
+
+\string{Menu_KJ_manu_gide_33_00}
+\code[9,0,6]Why don't you try putting\\
+me in that spot?
+
+\string{Menu_KJ_manu_gide_it_open}
+\code[9,0,12]You can now \color[78,212,255,255]enhance \color[230,230,230,255]your troopers!\\
+If you acquire beans or \color[78,212,255,255]items \color[230,230,230,255]in battle,\\
+try using them on a trooper that you want\\
+to improve.\wait 
+
+\string{Menu_KJ_manu_gide_15}
+\code[9,0,10]Oh! I almost forgot!\wait 
+
+\string{Menu_KJ_manu_gide_16}
+\code[9,0,6]See these charts? They show how\\
+your enemies will be lining up.\wait 
+
+\string{Menu_KJ_manu_gide_17}
+\code[9,0,6]So, remember how we put that\\
+Shy Guy on the front line?\wait 
+
+\string{Menu_KJ_manu_typechg_01}
+\code[9,0,12]You can now change Bowser Jr. to a\\
+\color[255,112,112,255]Ranged type \color[230,230,230,255]in the Formation Menu!\wait 
+
+\string{Menu_KJ_manu_gide_18}
+\code[9,0,6]So, select the Shy Guy using \color[255,67,67,255]\codepoint[0xE000]\color[55,55,55,255], and\\
+then move him to the back line.
+
+\string{Menu_KJ_manu_typechg_02}
+\code[9,0,12]You can now change Bowser Jr. to a\\
+\color[255,112,112,255]Flying type \color[230,230,230,255]in the Formation Menu!\wait 
+
+\string{Menu_KJ_manu_gide_19}
+\code[9,0,6]Great! Now your formation\\
+is optimized for this battle.\wait \pagebreak
+Using the right units...in the\\
+right way...is super important.\wait \pagebreak
+So remember to check and see\\
+how your enemies are lining up...\wait \pagebreak
+And then \color[44,100,255,255]set your units so\\
+they're at an advantage\color[55,55,55,255]!\wait 
+
+\string{Menu_KJ_manu_typechg_03}
+\code[9,0,12]Select Bowser Jr. and press\\
+\color[255,112,112,255]\codepoint[0xE000] \color[230,230,230,255]to change his type.\wait 
+
+\string{Menu_KJ_com_party_name_a}
+\code[9,0,1]\code[3,1,0,0,1] Melee Type No. \code[3,1,0,0,0]
+
+\string{Menu_KJ_organize_leader_rearrange}
+\code[9,0,0]\color[55,55,55,255]Change Position\color[55,55,55,255]
+
+\string{Menu_KJ_com_sub_larry}
+\code[9,0,1]Larry Trigger
+
+\string{Menu_KJ_com_sub_roy}
+\code[9,0,1]Hoo Roy
+
+\string{Menu_KJ_manu_gide_31_00}
+\code[9,0,6]You should probably put\\
+ME into the formation!
+
+\string{Menu_KJ_com_sub_wendy}
+\code[9,0,1]Wendy Storm
+
+\string{Menu_KJ_com_party_name_f}
+\code[9,0,1]\code[3,1,0,0,1] Flying Type No. \code[3,1,0,0,0]
+
+\string{Menu_KJ_manu_gide_11_00}
+\code[9,0,6]Start by opening the\\
+\color[44,100,255,255]Formation menu\color[55,55,55,255].
+
+\string{Menu_KJ_quest_exit_warning}
+\code[9,0,1]Closing Bowser Jr.'s Journey.\\
+Proceed?
+
+\string{Menu_KJ_manu_gide_30}
+\code[9,0,6]Even though he ditched me,\\
+Ludwig may have had a point...\wait \pagebreak
+Something's not right around here!\wait \pagebreak
+So, I guess since I'm in charge, I should\\
+probably teach you about \color[44,100,255,255]First Officers\color[55,55,55,255].\wait 
+
+\string{Menu_KJ_quest_Farewell}
+\code[9,0,12]You can now remove allies from your party\\
+using the \color[78,212,255,255]Dismiss \color[230,230,230,255]option in the \color[78,212,255,255]menu\color[230,230,230,255].\wait 
+
+\string{Menu_KJ_manu_gide_31}
+\code[9,0,6]First, tap here to open\\
+the Formation menu.
+
+\string{Menu_KJ_record_form_num}
+\code[9,0,13]\color[78,212,255,255](\code[3,0,0,0,0] units)\color[230,230,230,255]
+
+\string{Menu_KJ_manu_gide_32}
+\code[9,0,6]Now, us Koopalings\\
+are your support.\wait 
+
+\string{Menu_KJ_manu_gide_33}
+\code[9,0,6]See this empty slot? You can\\
+put a \color[44,100,255,255]First Officer\color[55,55,55,255] here.\wait 
+
+\string{Menu_KJ_record_invalid}
+\code[9,0,13]???
+
+\string{Menu_KJ_com_party_name_l}
+\code[9,0,1]\code[3,1,0,0,1] Ranged Type No. \code[3,1,0,0,0]
+
+\string{Menu_KJ_manu_gide_34}
+\code[9,0,6]That's more like it! By the way, you can only assign\\
+one of us Koopalings as your First Officer.\wait 
+
+\string{Menu_KJ_com_party_name_m}
+\code[9,0,1]\code[3,1,0,0,1] Hybrid Type No. \code[3,1,0,0,0]
+
+\string{Menu_KJ_manu_gide_35}
+\code[9,0,6]Now, see this? That's\\
+a \color[44,100,255,255]First Officer Skill\color[55,55,55,255].\wait \pagebreak
+It'll change depending on who\\
+you've set as your First Officer.\wait 
+
+\string{Menu_KJ_manu_gide_36}
+\code[9,0,6]As much as I like being First Officer, you\\
+should try out the other Koopalings, too.\wait \pagebreak
+You might find that you could use a particular\\
+skill against a tricky enemy captain.\wait \pagebreak
+Oh! And there's just one more thing.\wait \pagebreak
+If you want to \color[44,100,255,255]start all over from scratch\color[55,55,55,255],\\
+just tap \color[255,67,67,255]\codepoint[0xE004]\color[55,55,55,255] and\space[2]\color[255,67,67,255]\codepoint[0xE005] \color[55,55,55,255]at the same time.\wait \pagebreak
+That'll clear your formation back to the\\
+default. All right, let's get moving!\wait 
+
+\string{Menu_KJ_result_get_army}
+\code[9,0,1]\color[255,250,241,255]Recruited new allies!\color[55,55,55,255]
+
+\string{Menu_KJ_organize_wnd_warning_00}
+\code[9,0,12]\code[5,0]\code[1,1]Your squad is full! Please choose\\
+a trooper to part ways with...\wait 
+
+\string{Menu_KJ_organize_wnd_warning_01}
+\code[9,0,12]\code[5,0]\code[1,1]You can only befriend \color[78,212,255,255]\code[3,0,0,0,1] \code[3,1,0,0,0]s\color[230,230,230,255].\\
+You need to dismiss some troopers.\wait 
+
+\string{Menu_KJ_result_add_party_firsttime}
+\code[9,0,12]You can switch parties on the top\\
+screen using \color[78,212,255,255]\codepoint[0xE004]\color[230,230,230,255] and \color[78,212,255,255]\codepoint[0xE005]\color[230,230,230,255].
+
+\string{Menu_KJ_result_get_la}
+\code[9,0,1]\color[255,250,241,255]\code[3,1,0,0,0] learned \code[3,1,0,0,1]!\color[55,55,55,255]
+
+\string{Menu_KJ_manu_gide_15_00}
+\code[9,0,6]You can also \color[44,100,255,255]move your units\\
+around \color[55,55,55,255]to make a new formation!\wait 
+
+\string{Menu_KJ_organize_warning_01}
+\code[9,0,1]Your squad has fewer than nine units.\\
+Are you sure you want to proceed?
+
+\string{Menu_KJ_item_up_lp}
+\code[9,0,12]\code[5,0]\code[1,1]\code[3,1,0,0,0]'s CP increased by \code[3,0,0,0,1]!\code[2,0,10]\wait 
+
+\string{Menu_KJ_manu_gide_15_01}
+\code[9,0,6]Start by pressing \color[255,67,67,255]\codepoint[0xE002]\color[55,55,55,255].
+
+\string{Menu_KJ_organize_warning_02}
+\code[9,0,12]\code[5,0]\code[1,1]Dismiss all units\\
+except Bowser Jr.?\\
+\code[1,1]\option No \hspace[32]\option Yes
+
+\string{Menu_KJ_com_sub_lemmy}
+\code[9,0,1]Lemmy Atom
+
+\string{Menu_KJ_organize_wnd_divorce_bonus_00}
+\code[9,0,12]\code[3,1,0,0,0] said good-bye\\
+and left behind a \color[78,212,255,255]\code[3,1,0,0,1]\color[230,230,230,255].\wait 
+
+\string{Menu_KJ_record_medal_00}
+\code[9,0,12]Gold
+
+\string{Menu_KJ_com_enemy_detail_close}
+\code[9,0,0]Close
+
+\string{Menu_KJ_record_medal_01}
+\code[9,0,12]Silver
+
+\string{Menu_KJ_manu_gide_00}
+\code[9,0,6]Lord Junior! Take a look at this.\wait \pagebreak
+On the top screen here, you can review\\
+the units you're sending into battle.\wait 
+
+\string{Menu_KJ_record_medal_02}
+\code[9,0,12]Bronze
+
+\string{Menu_KJ_manu_gide_01}
+\code[9,0,6]This is where you can \\
+see your \color[44,100,255,255]Squad Level\color[55,55,55,255].\wait \pagebreak
+As your units grow stronger,\\
+this number will go up.\wait 
+
+\string{Menu_KJ_result_add_party}
+\code[9,0,12]\code[5,0]The number of parties you\\
+can save has increased\\
+from \code[3,0,0,0,0] to \code[3,0,0,0,1]!
+
+\string{Menu_KJ_manu_gide_02}
+\code[9,0,6]This is where you'll select\\
+a quest. But first...\wait 
+
+\string{Menu_KJ_manu_gide_03}
+\code[9,0,6]You should look here to see \color[44,100,255,255]how\\
+tough the enemies \color[55,55,55,255]in a quest will be.\wait 
+
+\string{Menu_KJ_manu_gide_04}
+\code[9,0,6]If your squad is at a higher \\
+level, you're in good shape.\wait \pagebreak
+Or, if you're feeling bold, you can\\
+try your luck at a lower level.\wait \pagebreak
+The right formation\\
+can go a long way!\wait 
+
+\string{Menu_KJ_manu_gide_05}
+\code[9,0,6]For more information, you can also\\
+\color[44,100,255,255]tap an enemy's profile \color[55,55,55,255]here...\wait 
+
+\string{Menu_KJ_manu_gide_06}
+\code[9,0,6]Or you can press \color[255,67,67,255]\codepoint[0xE003] \color[55,55,55,255].\wait \pagebreak
+Either one will give you\\
+\color[44,100,255,255]enemy and battle info\color[55,55,55,255].\wait 
+
+\string{Menu_KJ_manu_gide_07}
+\code[9,0,6]...Did you catch any\\
+of that, Lord Junior?\wait \pagebreak
+\code[2,2,10]...\code[2,2,100]Moving on, then.\wait 

@@ -1,0 +1,5 @@
+\file
+\string{MES_TKinoko_41_Kinoko_town_kinopio_27}
+\code[9,0,6]Good sirs. Your pleasure today?\code[2,0,10]\\
+\option \code[6,1,20]Shopping!\\
+\option \code[6,1,20]Complimentary service.\code[2,0,10]

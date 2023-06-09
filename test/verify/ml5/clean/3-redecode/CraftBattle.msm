@@ -1,0 +1,513 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,0,0,0,0,0,0,0,0,0,0]
+
+\padding[0]
+
+\lbl[101]
+\atr[132,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,1,130,0,210,0,15,0,112,1,15,0,210,0,15,0,44,1,130,0,210,0,15,0,44,1,130,0,0,0,0,0,112,1,15,0,0,0,0,0,210,0,15,0,44,1,130,0,0,0,0,0,210,0,15,0,112,1,15,0,0,0,0,0,210,0,15,0,0,0,0,0,210,0,15,0,44,1,130,0,0,0,0,0,210,0,15,0,44,1,130,0,44,1,130,0,0,0,0,0,210,0,15,0,44,1,130,0,112,1,15,0,230,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,44,1,0,0,44,1,0,0,44,1,130,0,0,0,0,0,210,0,15,0,44,1,130,0,0,0,0,0,112,1,15,0,0,0,0,0,210,0,15,0,44,1,130,0,0,0,0,0,112,1,15,0,0,0,0,0,210,0,15,0,44,1,130,0,0,0,0,0,44,1,130,0,0,0,0,0,0,0,0,0,24,1,0,0,112,1,15,0,0,0,0,0,0,0,0,0,44,1,130,0,0,0,0,0,24,1,0,0,0,0,0,0,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,24,1,0,0,0,0,0,0,230,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,44,1,130,0,0,0,0,0,0,0,0,0,210,0,15,0,0,0,0,0,210,0,15,0,0,0,0,0,0,0,0,0,210,0,15,0,210,0,15,0,210,0,15,0,44,1,130,0,44,1,130,0,44,1,130,0,44,1,130,0,230,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,210,0,15,0,230,0,0,0,0,0,0,0,210,0,15,0,230,0,0,0,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,210,0,15,0,24,1,0,0,24,1,0,0,24,1,0,0,24,1,0,0,24,1,0,0,112,1,15,0,44,1,130,0,112,1,15,0,0,0,0,0,44,1,130,0,24,1,0,0,0,0,0,0,24,1,0,0,0,0,0,0,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+\tsy[12,6,10,6,12,11,11,11,12,11,12,12,11,12,11,12,12,11,11,12,11,12,11,12,12,11,12,12,12,11,12,11,4,4,6,6,6,3,4,4,12,10,11,12,6,11,9,11,12,6,11,6,11,12,6,12,6,6,4,11,6,6,12,9,3,6,3,12,6,6,3,3,10,4,6,4,6,12,6,6,11,10,11,9,9,11,11,11,12,12,12,12,4,10,4,6,1,4,6,11,4,6,11,4,6,9,4,10,9,9,9,11,3,3,3,3,4,11,12,11,10,12,3,6,3,6,3,6,6,12,6,10]
+
+\string{sys_pause_tutorial02}
+\code[8,0,12]\code[1,1]View papercraft battle\\
+\space[1]tutorial? \code[2,0,10]\hspace[10]\code[1,1]\code[5,0]\option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{s_court_angry01}
+\code[8,0,6]That's it! The fun and\\
+\space[1]games are over!\wait 
+
+\string{s_court_angry02}
+\code[8,0,10]\code[2,2,150]Heehee!\wait 
+
+\string{s_court_angry03}
+\code[8,0,6]Yeah! Let's call in\\
+\space[1]some backup!\wait 
+
+\string{tuto_control01}
+\code[8,0,12]\code[5,0]\code[1,4]Move your papercraft with the\color[78,212,255,255] Circle Pad\color[230,230,230,255].\code[2,0,30]\wait \code[2,0,60]
+
+\string{sys_support10}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Use dash to hit the blocks.
+
+\string{tuto_control02}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]\code[0,1,10]Move with the\color[78,212,255,255] Circle Pad\color[230,230,230,255].\code[0,1,65535]\code[2,0,90]
+
+\string{sys_support11}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Ouch! Watch out for Pokey's\\
+\space[1]spikes!
+
+\string{tuto_control03}
+\code[8,0,12]\code[5,0]\code[1,4]Press \color[78,212,255,255]\codepoint[0xE005]\color[230,230,230,255] to turn your papercraft around 180\\
+degrees. This is useful when you have to\\
+change directions in a hurry.\code[2,0,30]\wait \code[2,0,60]
+
+\string{sys_support12}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]If you can't attack an enemy from\\
+the side, try\color[78,212,255,255] attacking from above\color[230,230,230,255].
+
+\string{tuto_control04}
+\code[8,0,12]\code[5,0]\code[1,4]Press \color[78,212,255,255]\codepoint[0xE004]\color[230,230,230,255] to point the camera in the direction\\
+your papercraft is facing. Use this to quickly\\
+see where you're going.\code[2,0,30]\wait \code[2,0,60]
+
+\string{sys_result_mess01}
+\code[8,0,12]\code[1,1]Retry papercraft battle? \code[2,0,10]\code[1,0]\hset[20]\option \\
+\space[1]Retry. \code[1,0]\hset[20]\option \\
+Retry in Easy Mode. \code[1,0]\hset[20]\option \space[1]Return to title.\\
+\space[1](Progress will not be saved.)\code[2,0,10]
+
+\string{tuto_control05}
+\code[8,0,11]\code[0,1,10]\code[5,0]\code[1,1]\code[1,4]You can turn around by pressing \color[78,212,255,255]\codepoint[0xE005]\color[230,230,230,255]. And you can press \color[78,212,255,255]\codepoint[0xE004]\color[230,230,230,255] to\\
+\space[1]point the camera in the direction you're facing.\code[0,1,65535]
+
+\string{sys_result_mess02}
+\code[8,0,12]\code[1,1]All unsaved data will be\\
+\space[1]lost. Are you sure? \code[2,0,10]\hspace[10]\code[5,0]\code[1,1]\option \space[1]Yes\hspace[32]\option \space[1]No\code[2,0,10]
+
+\string{sys_support14}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]You can use dash to move across\\
+\space[1]the gaps in the ice.
+
+\string{tuto_control06}
+\code[8,0,12]\code[5,0]\code[1,4]If you press \color[78,212,255,255]\codepoint[0xE004]\color[230,230,230,255] and \color[78,212,255,255]\codepoint[0xE005]\color[230,230,230,255] at the same time, you\\
+can simultaneously turn around and look in\\
+the direction you're facing.\code[2,0,30]\wait \code[2,0,60]
+
+\string{sys_result_mess03}
+\code[8,0,12]\code[1,1]Retry papercraft battle? \code[2,0,10]\code[1,0]\hset[20]\option \\
+Retry. \code[1,0]\hset[20]\option \space[1]Return to Battle\\
+Ring menu.\code[2,0,10]
+
+\string{sys_support15}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]When you dash, your parasol can\\
+deflect cannonballs.
+
+\string{tuto_control07}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Press \color[78,212,255,255]\codepoint[0xE004]\color[230,230,230,255] and \color[78,212,255,255]\codepoint[0xE005]\color[230,230,230,255] at the same time to turn around and look\\
+in the direction you're facing.
+
+\string{sys_result_mess04}
+\code[8,0,12]\code[1,1]Retry papercraft battle? \code[2,0,10]\code[1,0]\hset[20]\option \\
+Retry. \code[1,0]\hset[20]\option \space[1]Return to title. (Progress will not be\\
+saved.)\code[2,0,10]
+
+\string{sys_support16}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Use your parasol to defend yourself\\
+against shells.
+
+\string{sys_result_mess05}
+\code[8,0,12]\code[1,1]Retry papercraft battle? \code[2,0,10]\code[1,0]\hset[20]\option \\
+\space[1]Retry. \code[1,0]\hset[20]\option \\
+\space[1]Retry in Easy Mode. \code[1,0]\hset[20]\option \\
+Skip battle. \code[1,0]\hset[20]\option \space[1]Return to title. (Progress will\\
+not be saved.)\code[2,0,10]
+
+\string{sys_support17}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Try hitting Bowser Jr. with a\\
+\space[1]cannonball!
+
+\string{tuto_base01}
+\code[8,0,12]\code[5,0]\code[1,4]The goal in these battles is to defeat enemy\\
+\space[1]papercrafts by reducing their HP to 0.\code[2,0,30]\wait \code[2,0,60]
+
+\string{sys_result_mess06}
+\code[8,0,12]\code[1,1]Retry papercraft battle? \code[2,0,10]\code[1,0]\hset[20]\option \\
+\space[1]Retry. \code[1,0]\hset[20]\option \\
+Skip battle. \code[1,0]\hset[20]\option \space[1]Return to title. (Progress will\\
+not be saved.)\code[2,0,10]
+
+\string{sys_support18}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]You can also deflect bombs with\\
+\space[1]your parasol.
+
+\string{tuto_base02}
+\code[8,0,12]\code[5,0]\code[1,4]When your papercraft takes damage, your\color[78,212,255,255]\\
+\space[1]HP Meter\color[230,230,230,255] goes down.\code[2,0,30]\wait \code[2,0,60]
+
+\string{tuto_rhythm01}
+\code[8,0,12]\code[5,0]\code[1,4]\color[78,212,255,255]Charge\color[230,230,230,255] up your papercraft's\color[78,212,255,255] power\color[230,230,230,255] at\\
+\space[1]these spots.\code[2,0,30]\wait \code[2,0,60]
+
+\string{sys_result_mess07}
+\code[8,0,12]\code[1,1]Skip papercraft battle and continue with\\
+your adventure?\color[255,112,112,255] Any items or coins you\\
+have earned in this battle will be lost\color[230,230,230,255]. \color[255,112,112,255]\color[230,230,230,255]\code[2,0,10]\hspace[10]\code[5,0]\code[1,1]\option \\
+Yes\hspace[32]\option \space[1]No\code[2,0,10]
+
+\string{sys_support19}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Try throwing things at your\\
+enemies...
+
+\string{tuto_rhythm02}
+\code[8,0,12]\code[5,0]\code[1,4]When the rings light up the musical notes,\\
+press \color[78,212,255,255]\codepoint[0xE003]\color[230,230,230,255].\code[2,0,30]\wait \code[2,0,60]
+
+\string{tuto_rhythm03}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]\code[0,1,10]When the rings light up the musical notes, press \color[78,212,255,255]\codepoint[0xE003]\color[230,230,230,255]\code[0,1,65535].
+
+\string{tuto_topic10}
+\code[8,0,4]\code[5,0]\code[1,1]\color[255,250,241,255]Setting Enemies on Fire\color[230,230,230,255]
+
+\string{tuto_topic11}
+\code[8,0,4]\code[5,0]\code[1,1]Towing Floating Opponents
+
+\string{s_castle_angry01}
+\code[8,0,6]\code[2,2,20]Grrr...\code[2,2,100] This isn't over.\code[2,0,20] This\\
+is just the beginning!\wait 
+
+\string{s_castle_angry02}
+\code[8,0,6]Our ultimate papercraft\\
+WILL NOT BE BEATEN!\wait 
+
+\string{s_castle_angry03}
+\code[8,0,6]Ooh! You're gonna\\
+regret that, Mario!\wait 
+
+\string{tuto_luigi01}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]Papercraft Luigi can perform a flying\color[44,100,255,255] hammer\color[50,50,50,255]\\
+attack! You'll need it to defeat certain\color[44,100,255,255]\\
+spiky opponents\color[50,50,50,255].\color[230,230,230,255]
+
+\string{sys_result_item001}
+\code[8,0,4]\color[255,250,241,255]\code[1,0]\code[5,0]\code[3,1,0,0,0]\color[230,230,230,255]
+
+\string{sys_result_item002}
+\code[8,0,4]\color[255,250,241,255]\code[1,0]\code[5,0]？？？？？？？？？？？\color[230,230,230,255]
+
+\string{tuto_attack01}
+\code[8,0,12]\code[5,0]\code[1,4]After charging up your papercraft, you can\\
+use it to attack an opponent by\color[78,212,255,255] dashing\color[230,230,230,255] or\color[78,212,255,255]\\
+throwing\color[230,230,230,255].\code[2,0,30]\wait \code[2,0,60]
+
+\string{s_castle_start01}
+\code[8,0,10]GAHAHAHA!\wait 
+
+\string{sys_support33}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Now's your chance to hit 'em with\\
+fireballs!
+
+\string{tuto_attack02}
+\code[8,0,12]\code[5,0]\code[1,4]First, dash at your opponent with \color[78,212,255,255]\codepoint[0xE001]\color[230,230,230,255]. The\\
+opponent will falter and take a small\\
+amount of damage.\code[2,0,30]\wait \code[2,0,60]
+
+\string{s_castle_start02}
+\code[8,0,6]Get a load of this!\wait 
+
+\string{tuto_attack03}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Dash with \color[78,212,255,255]\codepoint[0xE001]\color[230,230,230,255] to attack an opponent.
+
+\string{s_castle_start03}
+\code[8,0,9]Not bad, right? They really\\
+captured my essence...\wait 
+
+\string{sys_support35}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Get close to Dry Bones, and\\
+do a ground pound!
+
+\string{tuto_attack04}
+\code[8,0,12]\code[5,0]\code[1,4]Opponents also dash to attack, but they're\\
+weak when they're\color[78,212,255,255] preparing to dash\color[230,230,230,255].\code[2,0,30]\wait \code[2,0,60]
+
+\string{s_castle_start04}
+\code[8,0,6]You keep using those\\
+fireballs... Pah!\wait 
+
+\string{tuto_attack05}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Try hitting an opponent while it's preparing to dash.
+
+\string{s_castle_start05}
+\code[8,0,6]It's gonna take more\\
+than that to beat us!\wait 
+
+\string{sys_support37}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Dash forward to hit enemies!
+
+\string{tuto_attack06}
+\code[8,0,12]\code[5,0]\code[1,4]When your opponent is knocked over, that's\\
+your chance to do lots of damage!\color[78,212,255,255] Throw your\\
+papercraft\color[230,230,230,255] at it when it's down.\code[2,0,30]\wait \code[2,0,60]
+
+\string{s_castle_start06}
+\code[8,0,6]Yes...feel its power!\code[2,0,20] Observe\\
+its craftsmanship!\wait \pagebreak
+Cower before its overwhelming\\
+size! Bwahaha!\wait 
+
+\string{tuto_attack07}
+\code[8,0,12]\code[5,0]\code[1,4]Make sure your\color[78,212,255,255] target cursor\color[230,230,230,255] is aimed at\\
+the opponent!\code[2,0,30]\wait \code[2,0,60]
+
+\string{s_castle_start07}
+\code[8,0,6]We've spared no expense.\\
+See for yourself!\wait 
+
+\string{s_mountain_angry01}
+\code[8,0,6]Dang it! They're scratching\\
+our paparcraft all up!\wait 
+
+\string{sys_pause_normal}
+\code[8,0,4]\color[50,50,50,255]\code[1,0]\code[5,0]\code[1,4]\code[1,1]Restart this papercraft battle from the\\
+beginning? If you restart, you will lose\\
+any progress you've made.\color[230,230,230,255]
+
+\string{tuto_attack08}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Aim the target cursor at the opponent, and throw\\
+your papercraft with \color[78,212,255,255]\codepoint[0xE000]\color[230,230,230,255].
+
+\string{s_castle_start08}
+\code[8,0,6]Let's see if your papercraft\\
+can take the heat!\wait 
+
+\string{s_mountain_angry02}
+\code[8,0,6]What are we doing messing around like\\
+this? Let's break out the big bombs!\wait 
+
+\string{tuto_attack09}
+\code[8,0,12]\code[5,0]\code[1,4]After throwing your papercraft, you have to\\
+go pick it back up.\code[2,0,30]\wait \code[2,0,60]
+
+\string{s_mountain_angry03}
+\code[8,0,9]Good idea!\wait 
+
+\string{tuto_firemario01}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]Press \color[44,100,255,255]\codepoint[0xE002]\color[50,50,50,255] to throw\color[44,100,255,255] fireballs\color[50,50,50,255] with papercraft\\
+Fire Mario.\color[230,230,230,255]
+
+\string{s_mountain_angry04}
+\code[8,0,6]Right? High five!\wait 
+
+\string{tuto_firemario02}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]If you hit an opponent with enough fireballs, it\\
+will catch on fire and be temporarily\color[44,100,255,255] unable to\\
+move\color[50,50,50,255].\color[230,230,230,255]
+
+\string{NewText}
+\code[8,0,12]クラフトバトル用メッセージ(仮)
+
+\string{s_mountain_start01}
+\code[8,0,6]Gahaha! Come and\\
+get us...if you can!\wait 
+
+\string{s_mountain_start02}
+\code[8,0,6]Pfft. They probably can't!\wait 
+
+\string{tuto_matome01}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]Knock over your opponent with \color[44,100,255,255]\codepoint[0xE001]\color[50,50,50,255], and then\\
+throw your papercraft at it with \color[44,100,255,255]\codepoint[0xE000]\color[50,50,50,255]!\color[230,230,230,255]
+
+\string{tuto_matome02}
+\code[8,0,3]\color[50,50,50,255]\code[5,0]\code[1,4]Your best chance to knock over an opponent\\
+is to\color[44,100,255,255] attack its back\color[50,50,50,255] or hit it when it's\color[44,100,255,255]\\
+preparing to dash\color[50,50,50,255]!\color[230,230,230,255]
+
+\string{s_castle_kamek01}
+\code[8,0,10]Eheeheehee!\wait 
+
+\string{tuto_matome03}
+\code[8,0,4]\code[5,0]\code[1,1]\color[255,250,241,255]Attacking Basics\color[230,230,230,255]
+
+\string{s_castle_kamek02}
+\code[8,0,6]You're a pesky\\
+one, aren't you?\wait 
+
+\string{tuto_matome04}
+\code[8,0,4]\code[5,0]\code[1,1]\color[255,250,241,255]Knocking Over Opponents\color[230,230,230,255]
+
+\string{s_castle_kamek03}
+\code[8,0,6]It's not fair that you get to\\
+use fire now! We had it first!\wait 
+
+\string{tuto_matome05}
+\code[8,0,12]\code[5,0]\code[1,4]This concludes the tutorial.\\
+Now let the battle begin!\wait \code[2,0,30]
+
+\string{s_castle_kamek04}
+\code[8,0,6]It would probably be bad if they hit\\
+us with that fire, don't you think?\wait 
+
+\string{s_castle_kamek05}
+\code[8,0,6]Well, sure...\code[2,0,30]\code[2,2,200] But that's a\\
+big IF, don'tcha think?\wait 
+
+\string{sys_support01}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Use Papercraft Charge Spots to\\
+charge your Toad Meter.
+
+\string{s_castle_kamek06}
+\code[8,0,10]\code[2,2,150]Eheeheehee!\wait 
+
+\string{sys_support02}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Find the rhythm, and press \color[78,212,255,255]\codepoint[0xE003]\color[230,230,230,255] on\\
+the beat.
+
+\string{s_castle_kamek07}
+\code[8,0,9]You're not getting to Master\\
+Bowser on my watch!\wait 
+
+\string{s_castle_kamek08}
+\code[8,0,9]Here we come!\wait 
+
+\string{sys_support04}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]A star has appeared!
+
+\string{sys_support08}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Mushrooms restore 50% of your HP.
+
+\string{sys_support09}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]You can get mushrooms from\\
+\color[78,212,255,255]? Blocks\color[230,230,230,255].
+
+\string{tuto_topic00}
+\code[8,0,12]\code[5,0]\code[1,1]\code[1,4]About Papercraft Battles\code[2,0,90]
+
+\string{tuto_topic01}
+\code[8,0,12]\code[5,0]\code[1,1]\code[1,4]Papercraft Controls\code[2,0,90]
+
+\string{tuto_topic02}
+\code[8,0,12]\code[5,0]\code[1,1]\code[1,4]Papercraft Charge Spots\code[2,0,90]
+
+\string{tuto_topic03}
+\code[8,0,12]\code[5,0]\code[1,1]\code[1,4]Attacking\code[2,0,90]
+
+\string{tuto_topic04}
+\code[8,0,4]\code[5,0]\code[1,1]Luigi's Throw
+
+\string{s_castle_zakostart01}
+\code[8,0,10]Eheeheehee!\wait 
+
+\string{tuto_topic05}
+\code[8,0,4]\code[5,0]\code[1,1]Peach's Dash
+
+\string{s_castle_zakostart02}
+\code[8,0,6]You know this is useless,\\
+right? You can't win!\wait 
+
+\string{sys_pause_normal_e3}
+\code[8,0,1]\color[55,55,55,255]\code[5,0]\code[1,4]\code[1,1]Cancel papercraft battle and return to\\
+the main menu?\color[55,55,55,255]
+
+\string{tuto_topic06}
+\code[8,0,4]\code[5,0]\code[1,1]Peach's Throw
+
+\string{s_castle_zakostart03}
+\code[8,0,6]Remember that Megacrinkle Goomba\\
+you guys smashed up so rudely?\wait 
+
+\string{sys_support20}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Try hitting the green switch.
+
+\string{tuto_topic07}
+\code[8,0,4]\code[5,0]\code[1,1]Yoshi's Dash
+
+\string{s_castle_zakostart04}
+\code[8,0,6]\code[2,2,150]Well, it's back and\\
+better than ever!\wait 
+
+\string{sys_support21}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Time it just right, and then\\
+press \color[78,212,255,255]\codepoint[0xE000]\color[230,230,230,255]!
+
+\string{tuto_topic08}
+\code[8,0,4]\code[5,0]\code[1,1]Yoshi's Throw
+
+\string{s_castle_zakostart05}
+\code[8,0,6]Of course, you'll be lucky\\
+to even make it that far.\wait 
+
+\string{s_plain_angry01}
+\code[8,0,9]That's it!\wait 
+
+\string{tuto_topic09}
+\code[8,0,4]\code[5,0]\code[1,1]Fire Mario's Fireballs
+
+\string{s_castle_zakostart06}
+\code[8,0,10]Eheeheehee!\wait 
+
+\string{s_plain_angry02}
+\code[8,0,9]Now I'm REALLY mad!\wait 
+
+\string{s_plain_angry03}
+\code[8,0,9]No more going easy on you!\wait 
+
+\string{s_plain_angry04}
+\code[8,0,9]Get ready for an epic stomping!\wait 
+
+\string{sys_support26}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Use dash to dodge enemies and\\
+projectiles.
+
+\string{tuto_yoshi01}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]When you dash with papercraft Yoshi, you can\\
+use his\color[44,100,255,255] tongue\color[50,50,50,255] to grab enemies and objects.\color[230,230,230,255]
+
+\string{tuto_yoshi02}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]You can use papercraft Yoshi's tongue to tow\color[44,100,255,255]\\
+floating opponents\color[50,50,50,255].\color[230,230,230,255]
+
+\string{tuto_yoshi03}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]Press \color[44,100,255,255]\codepoint[0xE000]\color[50,50,50,255] in the air to perform a\color[44,100,255,255] ground pound\color[50,50,50,255]!\color[230,230,230,255]
+
+\string{tuto_yoshi04}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]You can use a ground pound to hit\color[44,100,255,255] switches\color[50,50,50,255]\\
+or\color[44,100,255,255] stun\color[50,50,50,255] your enemies by landing near them.\color[230,230,230,255]
+
+\string{sys_pause_coliseum}
+\code[8,0,4]\color[55,55,55,255]\code[5,0]\code[1,4]\code[1,1]\color[50,50,50,255]Cancel papercraft battle and return to\\
+the Battle Ring menu?\color[55,55,55,255]\color[230,230,230,255]
+
+\string{tuto_attack10}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Pick up your papercraft.
+
+\string{tuto_attack11}
+\code[8,0,12]\code[5,0]\code[1,4]Your\color[78,212,255,255] opponent's back\color[230,230,230,255] is also a weak spot.\\
+Hit it with a dash to deal lots of damage!\code[2,0,30]\wait \code[2,0,60]
+
+\string{tuto_attack12}
+\code[8,0,11]\code[5,0]\code[1,1]\code[1,4]Try hitting your opponent in the back with a dash.
+
+\string{s_desert_angry01}
+\code[8,0,10]Eheeheehee!\wait 
+
+\string{tuto_attack13}
+\code[8,0,12]\code[5,0]\code[1,4]Throw your papercraft at your opponent to\\
+defeat it!\code[2,0,30]\wait \code[2,0,60]
+
+\string{tuto_peach01}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]When you dash with your Peach papercraft, its\color[44,100,255,255]\\
+parasol\color[50,50,50,255] opens. Use it to\color[44,100,255,255] deflect\color[50,50,50,255] projectiles!\color[230,230,230,255]
+
+\string{s_desert_angry02}
+\code[8,0,6]Ooh! You...you...impudent fools!\wait 
+
+\string{tuto_peach02}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]When you throw your Peach papercraft, it will\\
+open its parasol, allowing it to fly\color[44,100,255,255] farther\color[50,50,50,255] than\\
+any other papercraft so far!\color[230,230,230,255]
+
+\string{s_desert_angry03}
+\code[8,0,6]Don't you know you're\\
+just making us madder?\wait 
+
+\string{tuto_peach03}
+\code[8,0,3]\code[5,0]\code[1,4]\color[50,50,50,255]After a throw, press \color[44,100,255,255]\codepoint[0xE000]\color[50,50,50,255] just before landing on an\\
+enemy to inflict\color[44,100,255,255] extra damage\color[50,50,50,255].\color[230,230,230,255]
+
+\string{s_desert_angry04}
+\code[8,0,6]That's right!\wait \pagebreak
+Wait...what are we\\
+going to do about it?\wait 
+
+\string{s_desert_angry05}
+\code[8,0,6]We're going to MAGIC HARDER,\\
+of course! Eheeheehee!\wait 
+
+\string{sys_play02}
+\code[8,0,12]\code[1,1]Proceed to the next\\
+area? \code[2,0,10]\hspace[10]\code[1,1]\code[5,0]\option \space[1]No\hspace[32]\option \space[1]Yes\code[2,0,10]
+
+\string{s_desert_start01}
+\code[8,0,6]Good luck smashing through this!\wait 
+
+\string{s_desert_start02}
+\code[8,0,10]Eheeheehee!\wait 

@@ -1,0 +1,12 @@
+No Gear
+Sell items and gear. You cannot sell battle cards.
+Price
+Sell your stuff.
+Purchase battle cards.
+Sorry—battle cards are sold out!
+Redeem Expert Challenge points.
+# OF ITEMS:
+Purchase items.
+No defensive items equipped.
+Purchase gear.
+Points

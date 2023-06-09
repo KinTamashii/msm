@@ -1,0 +1,12 @@
+The game data is corrupted and must be deleted. Delete corrupted data and create new data? 
+No
+Yes
+Closing the game. Press  to return to the HOME Menu.
+Preparing to start the game. Please wait...
+All game data will be deleted. Are you sure you want to continue? 
+No
+Yes
+Once the game data is deleted, you cannot restore it. Are you sure you want to continue? 
+No
+Yes
+Deleting game data. Please wait...

@@ -1,0 +1,191 @@
+\file
+\bigendian[false]
+\unknown[0,769,0,16,0,0,0,0,0,160,92,16,0]
+
+\padding[171]
+
+
+\string
+???
+
+\string
+Your Score
+
+\string
+Kick the shell as many times as you\\
+can! Drop the boss for 20 points!
+
+\string
+A big flame is worth 3 points!\\
+Small flames will net you nothing!
+
+\string
+Jump on monsters to increase your\\
+score with each bounce! 1→2→3!
+
+\string
+Grab timers to increase the time.\\
+Then drop on monsters' heads!
+
+\string
+Smack the bombs into the monsters!\\
+\space[1]Watch for different kinds of bombs.
+
+\string
+Shoot monsters with the \color[14,173,67,255]B\color[0,0,0,255] Button!\\
+\space[1]Try to hit multiple monsters at once.
+
+\string
+Tilt the Star Rocket to collect\\
+\space[1]stars, but avoid damage balloons!
+
+\string
+Bowl over the small Madames, and\\
+\space[1]then crash into the big Madame!
+
+\string
+Stack the Luiginoids, and jump on\\
+\space[1]Broque Madame. Avoid the hazards!
+
+\string
+Bounce the flames back, and then use\\
+\space[1]your hammer to hit the last one!
+
+\string
+Hit all of the small Madames back!\\
+\space[1]Hitting items will affect play.
+
+\string
+Mad Skillathon
+
+\string
+Battle Broque Madame
+
+\string
+Awww yeah! You 'bout to pull\\
+\space[1]out the mad skills, boyeeeee?
+
+\string
+Try for a new record\\
+\space[1]next time! HOLLA!\wait 
+
+\string
+Oh snap! That's a\\
+\space[1]new record, son!\wait 
+
+\string
+Your rank went up, playa!\code[3,2,0]\\
+\space[1]Take your prize!\code[3,2,0]\code[3,0,60]\wait 
+
+\string
+Your rank went up, playa!\code[3,2,0]\\
+\space[1]Take your prize!\code[3,2,0]\code[3,0,60]\wait 
+
+\string
+OH SNAP!\code[3,2,0] You got the\\
+\space[1]illest, maddest skills ever!\wait 
+
+\string
+You earned a special\\
+\space[1]gift, home slice!\code[3,2,0]\code[3,0,60]\wait 
+
+\string
+Say whaaaaat?! That's the\\
+\space[1]highest score ever, son!\wait 
+
+\string
+You wanna try again?\\
+\space[1]\code[3,0,10]\code[1,1]\option \space[1]No\space[10]\option \space[1]Yes\code[3,0,10]
+
+\string
+\code[7,0]Hold up. Lemme save your\\
+score and prize data, dawg.\wait \pagebreak
+\code[7,0]A'ight, it's all saved!\wait \pagebreak
+\code[7,0]But, yo! I only saved your\\
+score and prize data!\wait \pagebreak
+\code[7,0]Don't forget to save your\\
+\space[1]game data too, playa!\wait 
+
+\string
+\code[7,0]Hold up. Lemme save your\\
+score and prize data, dawg.\wait \pagebreak
+\code[7,0]A'ight, it's all saved!\wait \pagebreak
+\code[7,0]But, yo! I only saved your\\
+score and prize data!\wait \pagebreak
+\code[7,0]Don't forget to save your\\
+\space[1]game data too, playa!\wait 
+
+\string
+\code[7,0]Hold up. Lemme save your\\
+score data, dawg.\wait \pagebreak
+\code[7,0]A'ight, it's all saved!\wait \pagebreak
+\code[7,0]But, yo! I only saved\\
+your score data!\wait \pagebreak
+\code[7,0]Don't forget to save your\\
+\space[1]game data too, playa!\wait 
+
+\string
+What?! An error occurred?\\
+That's wack, man. For real.\wait 
+
+\string
+You are wanting zee\\
+battle with moi, non?
+
+\string
+Zis does not impress moi...\wait 
+
+\string
+Zut alors! Zis is\\
+a new record!\wait 
+
+\string
+C'est bon! Your rank has increased!\code[3,2,0]\\
+Please accept zis gift from me...\code[3,2,0]\code[3,0,60]\wait 
+
+\string
+Ooh la la! You are zee best!\\
+\code[3,2,0]I have zee tingles all over!\wait 
+
+\string
+Zis is a gift from me\\
+to you. Cherish it!\code[3,2,0]\code[3,0,60]\wait 
+
+\string
+Magnifique! It is zee highest\\
+of scores! Congratulations!\wait 
+
+\string
+You desire an encore?\\
+\code[3,0,10]\code[1,1]\option \space[1]Non\space[10]\option \space[1]Oui\code[3,0,10]
+
+\string
+\code[7,0]I will save your score\\
+and prize data, oui?\wait \pagebreak
+\code[7,0]Fin.\wait \pagebreak
+\code[7,0]I have ONLY saved zee\\
+score and prize data.\wait \pagebreak
+\code[7,0]You must save zee game\\
+\space[1]data by yourself, honh?\wait 
+
+\string
+\code[7,0]I will save your score and prize\\
+data...\wait \pagebreak
+\code[7,0]Fin.\wait \pagebreak
+\code[7,0]I have only saved your score and\\
+prize data.\wait \pagebreak
+\code[7,0]Vous must save your game data by\\
+\space[1]yourself! I am not your muzza!\wait 
+
+\string
+\code[7,0]I will save zee score data...\wait \pagebreak
+\code[7,0]Fin.\wait \pagebreak
+\code[7,0]I have ONLY saved zee\\
+score data.\wait \pagebreak
+\code[7,0]Save zee game data by\\
+yourself, honh?\wait 
+
+\string
+Oh non! An error!\wait 
+\tsy[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+\atr[40,0,0,0,3,0,0,0,0,0,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,1,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4,0,0,4]
