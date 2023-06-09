@@ -8,7 +8,7 @@ It can also decode MSBT files into plain text accompanied with Message Studio Fo
 
 ## Dependencies
 
-    ktu library https://github.com/temp
+    ktutils library https://github.com/KinTamashii/ktutils
 
     fmt library https://github.com/fmtlib/fmt
 
