@@ -3,6 +3,10 @@
   "displayName": "MSM",
   "description": "Message Studio Markup Language",
   "version": "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/KinTamashii/msm.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -27,13 +31,23 @@
     "properties": {
       "msm.executablePath": {
         "type": "string",
-        "default": "/Users/kin_tamashii/Desktop/c++/projects/in-progress/msbt-editor++/build/msbt-editor++",
+        "default": "",
         "description": "Path to encode the msm files."
       },
-      "msm.encodeArgs": {
-        "type": "string",
+      "msm.encode": {
+        "type": "any",
         "default": "",
         "description": "Parameters passed to the executable to encode."
+      },
+      "msm.decode": {
+        "type": "any",
+        "default": "",
+        "description": "Parameters passed to the executable to decode."
+      },
+      "msm.flags" : {
+        "type" : "Array<string>",
+        "default" : "",
+        "description" : "Flags passed to the executable."
       }
     }
   },

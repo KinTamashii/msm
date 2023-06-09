@@ -87,4 +87,11 @@ exports.activate = activate;
 // This method is called when your extension is deactivated
 function deactivate() { }
 exports.deactivate = deactivate;
+//"activationEvents": [], "onCommand:msm.helloWorld"
+/*
+{
+    "command": "msm.helloWorld",
+    "title": "Hello World"
+}
+*/ 
 //# sourceMappingURL=extension.js.map

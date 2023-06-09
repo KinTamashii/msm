@@ -42,7 +42,6 @@ struct title {
         
         switch (ktu::hash(str)) {
             case ktu::hash("ML4"):
-                return id::ML4_US;
             case ktu::hash("ML4_US"):
                 return id::ML4_US;
             case ktu::hash("ML4_EU"):
@@ -50,7 +49,6 @@ struct title {
             case ktu::hash("ML4_JP"):
                 return id::ML4_JP;
             case ktu::hash("ML5"):
-                return id::ML5_US;
             case ktu::hash("ML5_US"):
                 return id::ML5_US;
             case ktu::hash("ML5_EU"):
@@ -58,7 +56,6 @@ struct title {
             case ktu::hash("ML5_JP"):
                 return id::ML5_JP;
             case ktu::hash("ML1_REMAKE"):
-                return id::ML1_REMAKE_US;
             case ktu::hash("ML1_REMAKE_US"):
                 return id::ML1_REMAKE_US;
             case ktu::hash("ML1_REMAKE_EU"):
@@ -66,7 +63,6 @@ struct title {
             case ktu::hash("ML1_REMAKE_JP"):
                 return id::ML1_REMAKE_JP;
             case ktu::hash("ML3_REMAKE"):
-                return id::ML3_REMAKE_US;
             case ktu::hash("ML3_REMAKE_US"):
                 return id::ML3_REMAKE_US;
             case ktu::hash("ML3_REMAKE_EU"):
@@ -161,45 +157,9 @@ struct title {
                 case id::ML5_US:
                 case id::ML5_EU:
                 case id::ML5_JP:
-                    switch (code) {
-                        case code_t(2, 1):
-                            identifier = "wait";
-                            break;
-                        case code_t(4, 0):
-                            identifier = "option";
-                            break;
-                        case code_t(4, 1):
-                            identifier = "option";
-                            break;
-                        case code_t(6, 0):
-                            identifier = "hspace";
-                            break;
-                        case code_t(6, 1):
-                            identifier = "hset";
-                            break;
-                    };
-                    break;
                 case id::ML1_REMAKE_US:
                 case id::ML1_REMAKE_EU:
                 case id::ML1_REMAKE_JP:
-                    switch (code) {
-                        case code_t(2, 1):
-                            identifier = "wait";
-                            break;
-                        case code_t(4, 0):
-                            identifier = "option";
-                            break;
-                        case code_t(4, 1):
-                            identifier = "option";
-                            break;
-                        case code_t(6, 0):
-                            identifier = "hspace";
-                            break;
-                        case code_t(6, 1):
-                            identifier = "hset";
-                            break;
-                    };
-                    break;
                 case id::ML3_REMAKE_US:
                 case id::ML3_REMAKE_EU:
                 case id::ML3_REMAKE_JP:
@@ -209,8 +169,6 @@ struct title {
                             identifier = "wait";
                             break;
                         case code_t(4, 0):
-                            identifier = "option";
-                            break;
                         case code_t(4, 1):
                             identifier = "option";
                             break;

@@ -154,13 +154,9 @@ code_t title::getWaitGroupType (id id) {
         case id::ML5_US:
         case id::ML5_EU:
         case id::ML5_JP:
-            code = code_t(2,1);
-            break;
         case id::ML1_REMAKE_US:
         case id::ML1_REMAKE_EU:
         case id::ML1_REMAKE_JP:
-            code = code_t(2,1);
-            break;
         case id::ML3_REMAKE_US:
         case id::ML3_REMAKE_EU:
         case id::ML3_REMAKE_JP:

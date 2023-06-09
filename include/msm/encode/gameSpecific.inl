@@ -1,27 +1,3 @@
-case ktu::hash("hspace"):
-    if (!(inString)) break;
-    inStringH();
-    switch (gameID) {
-        case title::id::ML5_US:
-        case title::id::ML5_EU:
-        case title::id::ML5_JP:
-            codeVariadicParams(6, 0);
-            return;
-        case title::id::ML1_REMAKE_US:
-        case title::id::ML1_REMAKE_EU:
-        case title::id::ML1_REMAKE_JP:
-            codeVariadicParams(6, 0);
-            return;
-        case title::id::ML3_REMAKE_US:
-        case title::id::ML3_REMAKE_EU:
-        case title::id::ML3_REMAKE_JP:
-        case title::id::ML3_REMAKE_JP_VER_1_2:
-            codeVariadicParams(6, 0);
-            return;
-        default:
-            break;
-    };
-    break;
 case ktu::hash("wait"):
     if (!(inString)) break;
     inStringH();
@@ -34,18 +10,34 @@ case ktu::hash("wait"):
         case title::id::ML5_US:
         case title::id::ML5_EU:
         case title::id::ML5_JP:
-            codeVariadicParams(2, 1);
-            return;
         case title::id::ML1_REMAKE_US:
         case title::id::ML1_REMAKE_EU:
         case title::id::ML1_REMAKE_JP:
-            codeVariadicParams(2, 1);
-            return;
         case title::id::ML3_REMAKE_US:
         case title::id::ML3_REMAKE_EU:
         case title::id::ML3_REMAKE_JP:
         case title::id::ML3_REMAKE_JP_VER_1_2:
             codeVariadicParams(2, 1);
+            return;
+        default:
+            break;
+    };
+    break;
+case ktu::hash("hset"):
+    if (!(inString)) break;
+    inStringH();
+    switch (gameID) {
+        case title::id::ML5_US:
+        case title::id::ML5_EU:
+        case title::id::ML5_JP:
+        case title::id::ML1_REMAKE_US:
+        case title::id::ML1_REMAKE_EU:
+        case title::id::ML1_REMAKE_JP:
+        case title::id::ML3_REMAKE_US:
+        case title::id::ML3_REMAKE_EU:
+        case title::id::ML3_REMAKE_JP:
+        case title::id::ML3_REMAKE_JP_VER_1_2:
+            codeVariadicParams(6, 1);
             return;
         default:
             break;
@@ -63,13 +55,9 @@ case ktu::hash("option"):
         case title::id::ML5_US:
         case title::id::ML5_EU:
         case title::id::ML5_JP:
-            codeVariadicParams(4, 0);
-            return;
         case title::id::ML1_REMAKE_US:
         case title::id::ML1_REMAKE_EU:
         case title::id::ML1_REMAKE_JP:
-            codeVariadicParams(4, 0);
-            return;
         case title::id::ML3_REMAKE_US:
         case title::id::ML3_REMAKE_EU:
         case title::id::ML3_REMAKE_JP:
@@ -80,25 +68,21 @@ case ktu::hash("option"):
             break;
     };
     break;
-case ktu::hash("hset"):
+case ktu::hash("hspace"):
     if (!(inString)) break;
     inStringH();
     switch (gameID) {
         case title::id::ML5_US:
         case title::id::ML5_EU:
         case title::id::ML5_JP:
-            codeVariadicParams(6, 1);
-            return;
         case title::id::ML1_REMAKE_US:
         case title::id::ML1_REMAKE_EU:
         case title::id::ML1_REMAKE_JP:
-            codeVariadicParams(6, 1);
-            return;
         case title::id::ML3_REMAKE_US:
         case title::id::ML3_REMAKE_EU:
         case title::id::ML3_REMAKE_JP:
         case title::id::ML3_REMAKE_JP_VER_1_2:
-            codeVariadicParams(6, 1);
+            codeVariadicParams(6, 0);
             return;
         default:
             break;
