@@ -13,14 +13,14 @@ project(msm)
 find_package(ktutils REQUIRED)
 find_package(fmt REQUIRED)
 
-#message("[${MSM_STATIC}]")
+
 
 
 
 # Complier settings.
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_BUILD_TYPE debug)
+
 if(DEFINED MSM_STATIC)
     set(CMAKE_CXX_FLAGS "${CMAKE_C_FLAGS} -std=c++20 -static")
     message("Compiling with static linking.")
@@ -40,10 +40,6 @@ RunScript(
 
 file(GLOB_RECURSE SRCS ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
 
-# RunModule(
-#     "pyppc"
-#     "${SRCS};-I${CMAKE_CURRENT_SOURCE_DIR}/include/"
-# )
 
 include_directories(
     ${CMAKE_CURRENT_SOURCE_DIR}/include/
