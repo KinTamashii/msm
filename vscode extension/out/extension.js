@@ -28,7 +28,7 @@ const runMsmExecutableCommand = async (message, command) => {
         msmChannel.appendLine("Error: command undefined!");
         return;
     }
-    const output = await execShell(`cd ${vscode.workspace.workspaceFolders[0].uri.fsPath};${command}`);
+    const output = await execShell(`cd "${vscode.workspace.workspaceFolders[0].uri.fsPath}";${command}`);
     msmChannel.appendLine(`${message}: ${command}`);
     msmChannel.append(output);
     msmChannel.appendLine("Command successfully completed.");
