@@ -706,7 +706,7 @@ void encodeClean(const std::filesystem::path &input, const std::filesystem::path
             break;
     }
     if (!outputPath.has_extension()) outputPath.replace_extension(extension);
-    outBuf.writef(outputPath);
+    outBuf.write(outputPath);
 }
 
 

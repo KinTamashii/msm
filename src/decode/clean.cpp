@@ -345,8 +345,8 @@ void decodeClean(const std::filesystem::path &input, const std::filesystem::path
     
     readClean(text, binary, ktu::reader(buf), id, width);
 
-    binary.writef(format);
-    ktu::writef(output, text.data(), text.data()+text.size());
+    binary.write(format);
+    ktu::file::write(output, text.data(), text.data()+text.size());
 }
 
 
@@ -387,8 +387,8 @@ void decodeCleanArchiveML4(const std::filesystem::path &input, const std::filesy
     }
 
     
-    binary.writef(format);
-    ktu::writef(output, text.data(), text.data()+text.size());
+    binary.write(format);
+    ktu::file::write(output, text.data(), text.data()+text.size());
 } 
 
 struct Bg4Entry {
@@ -491,8 +491,8 @@ void decodeCleanArchiveBG4(const std::filesystem::path &input, const std::filesy
     delete[] entries;
     
     
-    binary.writef(format);
-    ktu::writef(output, text.data(), text.data()+text.size());
+    binary.write(format);
+    ktu::file::write(output, text.data(), text.data()+text.size());
     
     
 }

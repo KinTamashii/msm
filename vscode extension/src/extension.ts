@@ -33,7 +33,7 @@ const runMsmExecutableCommand = async(message : string, command : string | undef
 		return;
 	}
 	
-	const output = await execShell(`cd ${vscode.workspace.workspaceFolders[0].uri.fsPath};${command}`);
+	const output = await execShell(`cd "${vscode.workspace.workspaceFolders[0].uri.fsPath}";${command}`);
 	msmChannel.appendLine(`${message}: ${command}`)
 	msmChannel.append(output);
 	msmChannel.appendLine("Command successfully completed.")

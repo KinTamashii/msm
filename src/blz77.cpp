@@ -296,7 +296,7 @@ bool uncompressFile(const std::filesystem::path &inPath, const std::filesystem::
 		return false;
 	}
 	
-	uncompressed.writef(outPath);
+	uncompressed.write(outPath);
 	
 	
 	return true;
@@ -318,6 +318,6 @@ bool compressFile(const std::filesystem::path &inPath, const std::filesystem::pa
 		return false;
 	}
 	
-	compressed.writef(outPath);
+	compressed.write(outPath);
 	return true;
 }

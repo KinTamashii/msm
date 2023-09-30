@@ -408,7 +408,7 @@ void read(
 ) {
     if (reader.read<uint64_t>() != ktu::numeric_literal<uint64_t>("MsgStdBn")) {
         str += fmt::format(R"(\embed)" "{{{}}}{}\n\n", (embedPath.filename() / filename).string(), embedParameters ? embedParameters : fileParameters);
-        reader.writef(embedPath / filename);
+        reader.write(embedPath / filename);
         return;
     }
     
@@ -444,7 +444,7 @@ void decode(const std::filesystem::path &input, const std::filesystem::path& out
     read(str, ktu::reader(buf), id, embed_dir, "0.bin");
     std::filesystem::path outputPath = output;
     if (!outputPath.has_extension()) outputPath.replace_extension(".msm");
-    ktu::writef(outputPath,str.data(),str.data()+str.size());
+    ktu::file::write(outputPath,str.data(),str.data()+str.size());
 }
 
 
@@ -488,7 +488,7 @@ void decodeArchiveML4(const std::filesystem::path &input, const std::filesystem:
 
     
     
-    ktu::writef(outputPath,str.data(),str.data()+str.size());
+    ktu::file::write(outputPath,str.data(),str.data()+str.size());
     
 };
 
@@ -577,5 +577,5 @@ void decodeArchiveBG4(const std::filesystem::path &input, const std::filesystem:
 
     delete[] entries;
 
-    ktu::writef(output,info.data(),info.data()+info.size());
+    ktu::file::write(output,info.data(),info.data()+info.size());
 }

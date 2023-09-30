@@ -23,7 +23,7 @@ void archive_ml4(const std::vector<fileData_t> &fileTable, const std::filesystem
         ktu::write_little_endian<uint32_t>(ptr, f.offset);
         ktu::write_little_endian<uint32_t>(ptr, f.size);
     }
-    table.writef(external);
+    table.write(external);
     
 };
 
@@ -669,5 +669,5 @@ void encode(const std::filesystem::path &input, const std::filesystem::path &out
     encode_t enc(input, outputBuffer, external, id);
     std::filesystem::path outputPath {output};
     if (!outputPath.has_extension()) outputPath.replace_extension(enc.getExt());
-    outputBuffer.writef(outputPath);
+    outputBuffer.write(outputPath);
 }
