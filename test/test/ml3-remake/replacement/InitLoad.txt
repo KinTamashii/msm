@@ -1,9 +1,0 @@
-This save data is corrupted. Data will now be initialized.
-Preparing save data... Please wait.
-All save data will be deleted. Continue? 
-No
-Yes
-Once deleted, data cannot be restored. Continue with deletion? 
-No
-Yes
-Deleting save data... Please wait.
